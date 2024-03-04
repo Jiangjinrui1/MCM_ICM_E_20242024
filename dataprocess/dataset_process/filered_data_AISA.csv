@@ -1,0 +1,1337 @@
+Start Year,Country,province,Disaster Subtype,COUNT
+2000,Afghanistan,Uruzgan,drought,1
+2000,Armenia,Lori,drought,1
+2000,Azerbaijan,Yukhari Garabakh,drought,1
+2000,Bangladesh,Chittagong,coastal flood,1
+2000,Bangladesh,Chittagong,flash flood,1
+2000,Bangladesh,Chittagong,ground movement,1
+2000,Bangladesh,Dhaka,tropical cyclone,1
+2000,Bangladesh,Khulna,flash flood,1
+2000,Bangladesh,Rajshahi,tornado,1
+2000,Bangladesh,Sylhet,cold wave,1
+2000,Bhutan,Chhukha,riverine flood,1
+2000,Cambodia,Kampong Speu,riverine flood,1
+2000,China,Anhui Sheng,drought,1
+2000,China,Gansu Sheng,flash flood,1
+2000,China,Gansu Sheng,ground movement,1
+2000,China,Guandong,flash flood,1
+2000,China,Guangdong Sheng,tropical cyclone,1
+2000,China,Guizhou Sheng,landslide (wet),1
+2000,China,Guizhou Sheng,riverine flood,1
+2000,China,Hainan Sheng,storm (general),1
+2000,China,Jiangsu Sheng,tornado,1
+2000,China,Jiangsu Sheng,tropical cyclone,1
+2000,China,Jiangxi Sheng,riverine flood,1
+2000,China,Liaoning Sheng,ground movement,1
+2000,China,Shaanxi Sheng,flood (general),1
+2000,China,Shaanxi Sheng,storm (general),1
+2000,China,Shanxi Sheng,storm (general),1
+2000,China,Sichuan Sheng,flood (general),1
+2000,China,Yunnan Sheng,flash flood,1
+2000,China,Yunnan Sheng,ground movement,3
+2000,China,Yunnan Sheng,landslide (wet),1
+2000,China,Zhejiang Sheng,tropical cyclone,1
+2000,Cyprus,Paphos,drought,1
+2000,Georgia,Imereti,drought,1
+2000,India,Arunachal Pradesh,flash flood,1
+2000,India,Maharashtra,drought,1
+2000,India,Maharashtra,landslide (wet),1
+2000,India,Tamil Nadu,tropical cyclone,1
+2000,India,Uttarakhand,landslide (wet),1
+2000,India,West Bengal,cold wave,1
+2000,Indonesia,Bengkulu,ground movement,1
+2000,Indonesia,Jambi,riverine flood,1
+2000,Indonesia,Jawa Barat,ground movement,1
+2000,Indonesia,Kalimatan Tengah,forest fire,1
+2000,Indonesia,Nusatenggara Barat,flash flood,1
+2000,Indonesia,Nusatenggara Timur,flash flood,1
+2000,Indonesia,Sulawesi Tengah,ground movement,1
+2000,Indonesia,Sulawesi Tengah,landslide (wet),1
+2000,Iran (Islamic Republic of),Gilan,flash flood,1
+2000,Iran (Islamic Republic of),Khorasan,flash flood,1
+2000,Iran (Islamic Republic of),Khorasan,ground movement,1
+2000,Israel,Tel Aviv,heat wave,1
+2000,Israel,Tel Aviv,storm (general),1
+2000,Japan,Gifu,coastal flood,1
+2000,Japan,Gifu,tropical cyclone,1
+2000,Japan,Ibaraki,hail,1
+2000,Japan,Okayama,ground movement,1
+2000,Jordan,Zarqa,drought,1
+2000,Jordan,Zarqa,storm (general),1
+2000,Lao People's Democratic Republic,Vientiane capital,flood (general),1
+2000,Mongolia,Zavxan,blizzard/winter storm,1
+2000,Nepal,Central,flood (general),1
+2000,Republic of Korea,Seoul,flood (general),1
+2000,Tajikistan,Khatlon,ground movement,1
+2000,Thailand,Trang,riverine flood,1
+2000,Thailand,Ubon Ratchathani,flood (general),1
+2000,Thailand,Ubon Ratchathani,tropical cyclone,1
+2000,Türkiye,Balikesir,forest fire,1
+2000,Türkiye,Manisa,forest fire,1
+2000,Türkiye,Tokat,riverine flood,1
+2000,Türkiye,Zonguldak,heat wave,1
+2000,Uzbekistan,Khorezm,drought,1
+2000,Viet Nam,Ca Mau,tornado,1
+2000,Viet Nam,Da Nang City,tropical cyclone,1
+2000,Viet Nam,Lao Cai,landslide (wet),1
+2000,Viet Nam,Nam Dinh,storm (general),1
+2000,Viet Nam,Tien Giang,riverine flood,1
+2001,Afghanistan,Baghlan,cold wave,1
+2001,Afghanistan,Kapisa,ground movement,1
+2001,Bangladesh,Sylhet,riverine flood,1
+2001,Cambodia,Kampong Cham,riverine flood,1
+2001,Cambodia,Takeo,drought,1
+2001,China,Chongqing Shi,landslide (wet),1
+2001,China,Gansu Sheng,riverine flood,1
+2001,China,Guangxi Zhuangzu Zizhiqu,tropical cyclone,2
+2001,China,Hainan Sheng,tropical cyclone,1
+2001,China,Hunan Sheng,riverine flood,2
+2001,China,Liaoning Sheng,landslide (wet),1
+2001,China,Shanghai Shi,tropical cyclone,1
+2001,China,Sichuan Sheng,flash flood,1
+2001,China,Sichuan Sheng,ground movement,1
+2001,China,Sichuan Sheng,landslide (wet),1
+2001,China,Yunnan Sheng,drought,1
+2001,China,Yunnan Sheng,ground movement,4
+2001,China,Yunnan Sheng,landslide (wet),2
+2001,China,Yunnan Sheng,riverine flood,1
+2001,China,Zhejiang Sheng,tropical cyclone,1
+2001,India,Assam,riverine flood,1
+2001,India,Kerala,flood (general),1
+2001,India,Kerala,landslide (wet),1
+2001,India,Kerala,tropical cyclone,1
+2001,India,Orissa,riverine flood,1
+2001,India,Punjab,cold wave,1
+2001,India,Rajasthan,cold wave,1
+2001,India,Uttar Pradesh,flash flood,1
+2001,Indonesia,Banten,landslide (wet),1
+2001,Indonesia,Dki Jakarta,flash flood,1
+2001,Indonesia,Jawa Tengah,landslide (wet),2
+2001,Indonesia,Papua,flood (general),1
+2001,Indonesia,Sulawesi Utara,landslide (wet),1
+2001,Iran (Islamic Republic of),Gilan,flash flood,1
+2001,Iran (Islamic Republic of),Semnan,flash flood,1
+2001,Japan,Ehime,ground movement,1
+2001,Japan,Mie,tropical cyclone,1
+2001,Japan,Okinawa,storm (general),1
+2001,Japan,Tookyoo,storm (general),1
+2001,Lao People's Democratic Republic,Attapu,flood (general),1
+2001,Malaysia,Pulau Pinang,flash flood,1
+2001,Malaysia,Sabah,flood (general),1
+2001,Malaysia,Terengganu,riverine flood,1
+2001,Myanmar,Mandaly,riverine flood,1
+2001,Pakistan,Balochistan,cold wave,1
+2001,Pakistan,Punjab,tornado,1
+2001,Pakistan,Sindh,mudslide,1
+2001,Philippines,Region IX,flash flood,1
+2001,Philippines,Region VI,riverine flood,1
+2001,Republic of Korea,Seoul,flash flood,1
+2001,Republic of Korea,Taejon,drought,1
+2001,Syrian Arab Republic,Dara,sand/dust storm,1
+2001,Thailand,Lampang,flash flood,1
+2001,Thailand,Nan,flash flood,1
+2001,Thailand,Yasothon,flood (general),1
+2001,Türkiye,Adana,riverine flood,1
+2001,Türkiye,Cannakale,cold wave,1
+2001,Türkiye,Hatay,riverine flood,1
+2001,Viet Nam,Ben Tre,riverine flood,1
+2001,Viet Nam,Phu Yen,flash flood,1
+2001,Viet Nam,Quang Tri,tropical cyclone,1
+2001,Viet Nam,Thanh Hoa,tropical cyclone,1
+2001,Viet Nam,Vinh Phuc,tropical cyclone,1
+2001,Yemen,Al Hudaydah,flash flood,1
+2002,Afghanistan,Badakhshan,ground movement,1
+2002,Afghanistan,Baghlan,ground movement,1
+2002,Afghanistan,Balkh,flood (general),1
+2002,Afghanistan,Faryab,riverine flood,1
+2002,Bangladesh,Rajshahi,flash flood,1
+2002,Bangladesh,Rangpur,cold wave,1
+2002,Cambodia,Battambang,drought,1
+2002,Cambodia,Kampot,riverine flood,1
+2002,China,Chongqing Shi,landslide (wet),1
+2002,China,Gansu Sheng,coastal flood,1
+2002,China,Gansu Sheng,ground movement,1
+2002,China,Guangdong,tornado,1
+2002,China,Guangdong Sheng,hail,1
+2002,China,Guangdong Sheng,riverine flood,1
+2002,China,Guangxi Zhuangzu Zizhiqu,drought,1
+2002,China,Hubei Sheng,landslide (wet),1
+2002,China,Hunan Sheng,flood (general),1
+2002,China,Sichuan Sheng,ground movement,1
+2002,China,Sichuan Sheng,tropical cyclone,1
+2002,China,Xinjiang Uygur Zizhiqu,flood (general),1
+2002,China,Xinjiang Uygur Zizhiqu,sand/dust storm,1
+2002,China,Yunnan Sheng,flash flood,1
+2002,China,Yunnan Sheng,landslide (wet),1
+2002,China,Yunnan Sheng,riverine flood,1
+2002,China,Zheijiang,storm (general),1
+2002,China,Zhejiang Sheng,storm (general),1
+2002,India,Delhi,cold wave,1
+2002,India,Maharashrta,riverine flood,1
+2002,India,Manipur,riverine flood,1
+2002,India,Tamil Nadu,drought,1
+2002,India,West Bengal,heat wave,1
+2002,Indonesia,Jawa Timur,mudslide,1
+2002,Indonesia,Kalimatan Tengah,forest fire,1
+2002,Indonesia,Papua Barat,ground movement,1
+2002,Indonesia,Papua Barat,tsunami,1
+2002,Indonesia,Sumatera Utara,riverine flood,1
+2002,Indonesia,Sumatra Selatan,riverine flood,1
+2002,Iran (Islamic Republic of),Esfahan,riverine flood,1
+2002,Iran (Islamic Republic of),Ghazvin,ground movement,1
+2002,Iran (Islamic Republic of),Kerman,riverine flood,1
+2002,Iran (Islamic Republic of),Kermanshah,ground movement,1
+2002,Iran (Islamic Republic of),Semnan,riverine flood,1
+2002,Japan,Isikawa,tropical cyclone,1
+2002,Japan,Tookyoo,forest fire,1
+2002,Jordan,Zarqa,storm (general),1
+2002,Kyrgyzstan,Osh,landslide (wet),1
+2002,Lao People's Democratic Republic,Louangphabang,riverine flood,1
+2002,Lebanon,South,storm (general),1
+2002,Malaysia,Selangor,lightning/thunderstorms,1
+2002,Mongolia,Arxangai,storm (general),1
+2002,Mongolia,Zavxan,storm (general),1
+2002,Myanmar,Kyain,riverine flood,1
+2002,Nepal,Central,cold wave,1
+2002,Nepal,Central,landslide (wet),1
+2002,Pakistan,Punjab,flood (general),1
+2002,Pakistan,Sindh,cold wave,1
+2002,Pakistan,Sindh,heat wave,1
+2002,Republic of Korea,Taejon,storm (general),1
+2002,Sri Lanka,Eastern,riverine flood,1
+2002,Syrian Arab Republic,Aleppo,landslide (wet),1
+2002,Taiwan (Province of China),Taiwan Sheng,ground movement,1
+2002,Tajikistan,Badakhshoni Kuni,flash flood,1
+2002,Tajikistan,Khatlon,flood (general),1
+2002,Tajikistan,Khatlon,riverine flood,1
+2002,Tajikistan,Tadzhikistan Territories,ground movement,1
+2002,Tajikistan,Tadzhikistan Territories,riverine flood,1
+2002,Thailand,Mae Hong Son,landslide (wet),1
+2002,Thailand,Nakhon Ratchasima,drought,1
+2002,Thailand,Ubon Ratchathani,flash flood,1
+2002,Türkiye,Ankara,storm (general),1
+2002,Türkiye,Rize,riverine flood,1
+2002,Viet Nam,An Giang,riverine flood,1
+2002,Viet Nam,Lam Dong,riverine flood,1
+2002,Viet Nam,Long An,drought,1
+2002,Viet Nam,Nghe An,riverine flood,1
+2002,Yemen,Hadramaut,riverine flood,1
+2003,Afghanistan,Badakhshan,riverine flood,1
+2003,Afghanistan,Bamyan,flash flood,1
+2003,Afghanistan,Daykundi,flash flood,1
+2003,Afghanistan,Helmand,flash flood,1
+2003,Afghanistan,Khost,riverine flood,1
+2003,Afghanistan,Kunduz,riverine flood,1
+2003,Afghanistan,Panjsher,flash flood,1
+2003,Afghanistan,Takhar,ground movement,1
+2003,Bangladesh,Rajshahi,heat wave,1
+2003,Bangladesh,Rangpur,cold wave,1
+2003,Bangladesh,Sylhet,flash flood,1
+2003,China,Anhui Sheng,riverine flood,1
+2003,China,Beijing Shi,tornado,1
+2003,China,Fujian Sheng,drought,1
+2003,China,Fujian Sheng,riverine flood,1
+2003,China,Fujian Sheng,tropical cyclone,1
+2003,China,Gansu Sheng,ground movement,2
+2003,China,Guangdong Sheng,tropical cyclone,1
+2003,China,Guizhou Sheng,landslide (wet),1
+2003,China,Guizhou Sheng,riverine flood,1
+2003,China,Hunan Sheng,riverine flood,1
+2003,China,Nei Mongol Zizhiqu,forest fire,1
+2003,China,Nei Mongol Zizhiqu,ground movement,1
+2003,China,Qinghai Sheng,ground movement,1
+2003,China,Shaanxi Sheng,riverine flood,1
+2003,China,Sichuan Sheng,landslide (wet),1
+2003,China,Xinjiang Uygur Zizhiqu,ground movement,3
+2003,China,Xinjiang Uygur Zizhiqu,riverine flood,1
+2003,China,Yunnan Sheng,ground movement,4
+2003,China,Zhejiang Sheng,hail,1
+2003,Cyprus,Larnaca,tornado,1
+2003,India,Assam,tropical cyclone,1
+2003,India,Bihar,heat wave,1
+2003,India,Gujarat,riverine flood,1
+2003,India,Haryana,storm (general),1
+2003,India,Jammu and Kashmir,cold wave,1
+2003,India,West Bengal,riverine flood,1
+2003,India,West Bengal,tropical cyclone,1
+2003,Indonesia,Jawa Barat,landslide (wet),2
+2003,Indonesia,Malaku Utara,ground movement,1
+2003,Indonesia,Maluku Utara,ground movement,1
+2003,Indonesia,Nusatenggara Barat,flood (general),1
+2003,Indonesia,Nusatenggara Timur,drought,1
+2003,Indonesia,Sulawesi Selatan,landslide (wet),1
+2003,Indonesia,Sumatera Barat,flood (general),1
+2003,Indonesia,Sumatera Utara,flash flood,1
+2003,Iran (Islamic Republic of),Fars,ground movement,2
+2003,Japan,Aomori,ground movement,1
+2003,Japan,Ehime,tropical cyclone,1
+2003,Kyrgyzstan,Osh,landslide (wet),1
+2003,Malaysia,Perak,riverine flood,1
+2003,Malaysia,Sabah,riverine flood,1
+2003,Mongolia,Bayanxongor,flash flood,1
+2003,Nepal,Far Western,riverine flood,1
+2003,Nepal,Western,cold wave,1
+2003,Oman,Muscat,storm (general),1
+2003,Pakistan,Punjab,riverine flood,1
+2003,Sri Lanka,Southern,flash flood,1
+2003,Tajikistan,Khatlon,landslide (wet),1
+2003,Tajikistan,Tadzhikistan Territories,mudslide,1
+2003,Thailand,Prachuap Khilikhan,riverine flood,1
+2003,Thailand,Trang,riverine flood,1
+2003,Thailand,Yala,flash flood,1
+2003,Timor-Leste,Baucau,riverine flood,1
+2003,Türkiye,Antalya,riverine flood,1
+2003,Türkiye,Bingol,ground movement,1
+2003,Viet Nam,Dak Lak,riverine flood,1
+2003,Viet Nam,Ha Tinh,riverine flood,1
+2003,Viet Nam,Thua Thien Hue,coastal flood,1
+2003,Viet Nam,Yen Bai,tropical cyclone,1
+2003,Yemen,Taizz,riverine flood,1
+2004,Afghanistan,Baghlan,riverine flood,1
+2004,Armenia,Tavush,riverine flood,1
+2004,Bangladesh,Chittagong,riverine flood,1
+2004,Bangladesh,Chittagong,storm (general),1
+2004,Bangladesh,Dhaka,riverine flood,1
+2004,Bangladesh,Khulna,tsunami,1
+2004,Bhutan,Thimphu,riverine flood,1
+2004,Cambodia,Takeo,riverine flood,1
+2004,China,Chongqing Shi,landslide (wet),1
+2004,China,Chongqing Shi,riverine flood,1
+2004,China,Fujian Sheng,tropical cyclone,1
+2004,China,Guangdong,tornado,1
+2004,China,Guangdong Sheng,heat wave,1
+2004,China,Guizhou Sheng,flash flood,1
+2004,China,Guizhou Sheng,landslide (dry),1
+2004,China,Guizhou Sheng,riverine flood,1
+2004,China,Hunan Sheng,hail,1
+2004,China,Nei Mongol Zizhiqu,ground movement,1
+2004,China,Qinghai Sheng,ground movement,1
+2004,China,Sichuan Sheng,riverine flood,1
+2004,China,Sichuan Sheng,storm (general),1
+2004,China,Yunnan Sheng,ground movement,1
+2004,China,Yunnan Sheng,riverine flood,1
+2004,India,Andaman and Nicobar,tsunami,1
+2004,India,Himachal Pradesh,flash flood,1
+2004,India,Jammu and Kashmir,riverine flood,1
+2004,India,Manipur,riverine flood,1
+2004,India,Rajasthan,riverine flood,1
+2004,India,West Bengal,flash flood,1
+2004,Indonesia,Jawa Barat,landslide (wet),1
+2004,Indonesia,Jawa Barat,tropical cyclone,1
+2004,Indonesia,Jawa Tengah,landslide (wet),1
+2004,Indonesia,Nusatenggara Timur,severe weather,1
+2004,Indonesia,Sulawesi Selatan,landslide (wet),1
+2004,Indonesia,Sulawesi Utara,ash fall,1
+2004,Indonesia,Sumatera Utara,tsunami,1
+2004,Iran (Islamic Republic of),Bushehr,flash flood,1
+2004,Iran (Islamic Republic of),Kohgiluyeh va boyerahma,flash flood,1
+2004,Iran (Islamic Republic of),Mazandaran,ground movement,1
+2004,Japan,Aiti,tropical cyclone,1
+2004,Japan,Hukusima,flash flood,1
+2004,Japan,Kagosima,tropical cyclone,1
+2004,Japan,Kooti,tropical cyclone,1
+2004,Japan,Okinawa,tropical cyclone,2
+2004,Japan,Saga,tropical cyclone,1
+2004,Kyrgyzstan,Osh,landslide (wet),1
+2004,Malaysia,Pahang,riverine flood,1
+2004,Maldives,Vaavu,tsunami,1
+2004,Myanmar,Rakhine,tropical cyclone,1
+2004,Nepal,Eastern,riverine flood,1
+2004,Pakistan,Punjab,riverine flood,2
+2004,Philippines,Region XII,flash flood,1
+2004,Republic of Korea,Taejon,blizzard/winter storm,1
+2004,Republic of Korea,Taejon,tropical cyclone,1
+2004,Sri Lanka,Eastern,riverine flood,1
+2004,Taiwan (Province of China),Taiwan Sheng,tropical cyclone,1
+2004,Tajikistan,Sogd,ground movement,1
+2004,Thailand,Kalasin,riverine flood,1
+2004,Thailand,Krabi,landslide (wet),1
+2004,Thailand,Loei,tropical cyclone,1
+2004,Thailand,Trang,tsunami,1
+2004,Thailand,Ubon Ratchathani,flash flood,1
+2004,Türkiye,Adana,blizzard/winter storm,1
+2004,Türkiye,Ankara,tornado,1
+2004,Türkiye,Bitlis,riverine flood,1
+2004,Türkiye,Erzurum,cold wave,1
+2004,Türkiye,Erzurum,ground movement,1
+2004,Türkiye,Zonguldak,flash flood,1
+2004,Türkiye,Zonguldak,storm (general),1
+2004,Viet Nam,Ha Giang,flash flood,1
+2004,Viet Nam,Kien Giang,riverine flood,1
+2004,Viet Nam,Quang Binh,tropical cyclone,1
+2004,Viet Nam,Quang Ngai,tropical cyclone,1
+2005,Afghanistan,Badakhsan,ground movement,1
+2005,Afghanistan,Balkh,riverine flood,1
+2005,Afghanistan,Farah,riverine flood,1
+2005,Afghanistan,Ghor,riverine flood,2
+2005,Afghanistan,Nangarhar,riverine flood,1
+2005,Afghanistan,Wardak,storm (general),1
+2005,Bangladesh,Khulna,storm (general),1
+2005,Bangladesh,Sylhet,heat wave,1
+2005,Cambodia,Siem Reap,riverine flood,1
+2005,China,Chongqing Shi,storm (general),1
+2005,China,Fujian Sheng,riverine flood,1
+2005,China,Gansu Sheng,flash flood,1
+2005,China,Guangdong Sheng,tropical cyclone,1
+2005,China,Guangxi Zhuangzu Zizhiqu,riverine flood,1
+2005,China,Guangxi Zhuangzu Zizhiqu,tropical cyclone,1
+2005,China,Guizhou Sheng,drought,1
+2005,China,Guizhou Sheng,storm (general),1
+2005,China,Heilongjiang Sheng,flash flood,1
+2005,China,Hubei Sheng,riverine flood,1
+2005,China,Hubei Sheng,tropical cyclone,1
+2005,China,Jiangsu Sheng,tropical cyclone,1
+2005,China,Jilin Sheng,riverine flood,1
+2005,China,Liaoning Sheng,hail,1
+2005,China,Yunnan,riverine flood,1
+2005,China,Yunnan Sheng,ground movement,1
+2005,China,Zhejiang Sheng,tropical cyclone,2
+2005,India,Andhra Pradesh,heat wave,1
+2005,India,Andhra Pradesh,riverine flood,1
+2005,India,Arunachal Pradesh,riverine flood,1
+2005,India,Assam,landslide (wet),1
+2005,India,Haryana,riverine flood,1
+2005,India,Himachal Pradesh,riverine flood,1
+2005,India,Jammu and Kashmir,riverine flood,1
+2005,India,Jammu and Kashmir,severe winter conditions,1
+2005,India,Maharashtra,riverine flood,1
+2005,India,Orissa,riverine flood,1
+2005,India,Orissa,storm (general),1
+2005,India,Uttarakhand,riverine flood,1
+2005,Indonesia,Jawa Timur,flash flood,1
+2005,Indonesia,Nangroe Aceh Darussalam,flash flood,2
+2005,Iran (Islamic Republic of),Golestan,ground movement,1
+2005,Iran (Islamic Republic of),Golestan,riverine flood,2
+2005,Iran (Islamic Republic of),Hormozgan,ground movement,1
+2005,Iran (Islamic Republic of),Kerman,ground movement,1
+2005,Japan,Saga,ground movement,1
+2005,Japan,Sizuoka,tropical cyclone,1
+2005,Japan,Tookyoo,tropical cyclone,1
+2005,Japan,Tottori,storm (general),1
+2005,Kyrgyzstan,Batken,riverine flood,1
+2005,Malaysia,Perak,flash flood,1
+2005,Malaysia,Sabah,flash flood,1
+2005,Malaysia,Selangor,forest fire,1
+2005,Nepal,Far Western,riverine flood,1
+2005,Nepal,Mid Western,riverine flood,1
+2005,Pakistan,Balochistan,heat wave,1
+2005,Pakistan,Federally Administered Tribal Areas,storm (general),1
+2005,Pakistan,Jammu and Kashmir,riverine flood,2
+2005,Philippines,ARMM,flood (general),1
+2005,Philippines,Region IV,riverine flood,1
+2005,Republic of Korea,Kwangju,storm (general),1
+2005,Republic of Korea,Taejon,tropical cyclone,1
+2005,Saudi Arabia,Makkah,flash flood,1
+2005,Tajikistan,Khatlon,flash flood,1
+2005,Tajikistan,Sogd,riverine flood,1
+2005,Thailand,Nan,storm (general),1
+2005,Thailand,Songkhla,forest fire,1
+2005,Thailand,Tak,riverine flood,1
+2005,Thailand,Ubon Ratchathani,tropical cyclone,1
+2005,Thailand,Udon Thani,drought,1
+2005,Thailand,Yala,flash flood,1
+2005,Türkiye,Ankara,severe winter conditions,1
+2005,Türkiye,Batman,ground movement,1
+2005,Türkiye,Sakarya,flood (general),1
+2005,Türkiye,Sivas,landslide (wet),1
+2005,Türkiye,Trabzon,flash flood,1
+2005,Türkiye,Zonguldak,blizzard/winter storm,1
+2005,Uzbekistan,Navoiy,flash flood,1
+2005,Viet Nam,An Giang,riverine flood,1
+2005,Viet Nam,Da Nang City,tropical cyclone,1
+2005,Viet Nam,Dak Lak,riverine flood,1
+2005,Viet Nam,Ha Tinh,tropical cyclone,1
+2005,Viet Nam,Quang Ngai,riverine flood,1
+2005,Viet Nam,Quang Tri,flash flood,1
+2005,Viet Nam,Quang Tri,tropical cyclone,1
+2005,Yemen,Al Hudaydah,riverine flood,1
+2005,Yemen,Taizz,flash flood,1
+2006,Afghanistan,Kandahar,storm (general),1
+2006,Afghanistan,Nangarhar,flash flood,1
+2006,Afghanistan,Nuristan,riverine flood,1
+2006,Afghanistan,Paktya,riverine flood,1
+2006,Afghanistan,Takhar,riverine flood,1
+2006,Afghanistan,Uruzgan,drought,1
+2006,Bangladesh,Chittagong,tropical cyclone,1
+2006,Bangladesh,Khulna,storm (general),1
+2006,Bangladesh,Sylhet,riverine flood,1
+2006,Cambodia,Mondul Kiri,riverine flood,1
+2006,China,Anhui Sheng,riverine flood,1
+2006,China,Fujian,tropical cyclone,1
+2006,China,Fujian Sheng,riverine flood,1
+2006,China,Fujian Sheng,tropical cyclone,1
+2006,China,Gansu Sheng,flash flood,1
+2006,China,Gansu Sheng,ground movement,1
+2006,China,Guangxi Zhuangzu Zizhiqu,tropical cyclone,1
+2006,China,Guizhou Sheng,flash flood,1
+2006,China,Guizhou Sheng,riverine flood,2
+2006,China,Hainan Sheng,tropical cyclone,2
+2006,China,Hubei Sheng,drought,1
+2006,China,Hubei Sheng,riverine flood,1
+2006,China,Hunan Sheng,tropical cyclone,1
+2006,China,Sichuan Sheng,landslide (dry),1
+2006,China,Yunnan Sheng,flash flood,1
+2006,China,Yunnan Sheng,ground movement,3
+2006,China,Yunnan Sheng,riverine flood,1
+2006,India,Andhra Pradesh,riverine flood,1
+2006,India,Bihar,tropical cyclone,1
+2006,India,Chhattisgarh,riverine flood,1
+2006,India,Delhi,heat wave,1
+2006,India,Gujarat,lightning/thunderstorms,1
+2006,India,Gujarat,riverine flood,1
+2006,India,Karnataka,riverine flood,1
+2006,India,Rajasthan,riverine flood,1
+2006,India,Tripura,riverine flood,1
+2006,Indonesia,Bali,landslide (wet),1
+2006,Indonesia,Jawa Tengah,landslide (wet),1
+2006,Indonesia,Jawa Tengah,riverine flood,1
+2006,Indonesia,Jawa Timur,riverine flood,1
+2006,Indonesia,Maluku Utara,tsunami,1
+2006,Indonesia,Sumatera Utara,ground movement,1
+2006,Iran (Islamic Republic of),Kerman,ground movement,1
+2006,Iran (Islamic Republic of),Lorestan,ground movement,1
+2006,Iraq,Erbil,flash flood,1
+2006,Iraq,Missan,riverine flood,1
+2006,Japan,Yamaguti,tropical cyclone,1
+2006,Japan,Yamanasi,storm (general),1
+2006,Kyrgyzstan,Naryn,ground movement,1
+2006,Malaysia,Johor,flash flood,1
+2006,Malaysia,Kelantan,riverine flood,1
+2006,Malaysia,Perak,riverine flood,1
+2006,Myanmar,Yangon,tropical cyclone,1
+2006,Nepal,Central,landslide (wet),1
+2006,Nepal,Far Western,drought,1
+2006,Nepal,Mid Western,landslide (wet),1
+2006,Nepal,Mid Western,riverine flood,1
+2006,Pakistan,Balotchistan,heat wave,1
+2006,Pakistan,Federally Administered Tribal Areas,riverine flood,1
+2006,Pakistan,Jammu and Kashmir,flash flood,1
+2006,Philippines,Region IX,riverine flood,1
+2006,Philippines,Region VII,flash flood,1
+2006,Philippines,Region X,flood (general),1
+2006,Philippines,Region XI,riverine flood,1
+2006,Sri Lanka,Sabaragamuwa,riverine flood,1
+2006,Taiwan (Province of China),Taiwan Sheng,ground movement,1
+2006,Tajikistan,Khatlon,ground movement,1
+2006,Tajikistan,Khatlon,mudslide,1
+2006,Thailand,Phangnga,riverine flood,1
+2006,Thailand,Surat Thani,riverine flood,1
+2006,Thailand,Uttaradit,flash flood,1
+2006,Timor-Leste,Viqueque,storm (general),1
+2006,Türkiye,Antalya,flash flood,1
+2006,Türkiye,Rize,riverine flood,1
+2006,Viet Nam,Can Tho City,tropical cyclone,1
+2006,Viet Nam,Dong Thap,riverine flood,1
+2006,Viet Nam,Ha Giang,tropical cyclone,1
+2006,Viet Nam,Lang Son,flash flood,1
+2006,Viet Nam,Phu Tho,riverine flood,1
+2006,Viet Nam,Quang Ngai,tropical cyclone,1
+2006,Viet Nam,Yen Bai,riverine flood,1
+2006,Yemen,Dhamar,flash flood,1
+2007,Afghanistan,Badakhshan,flash flood,1
+2007,Afghanistan,Baghlan,flash flood,1
+2007,Afghanistan,Kapisa,riverine flood,1
+2007,Afghanistan,Nimroz,riverine flood,1
+2007,Afghanistan,Takhar,flash flood,1
+2007,Afghanistan,Takhar,riverine flood,1
+2007,Bangladesh,Dhaka,riverine flood,1
+2007,Cambodia,Preah Vihear,riverine flood,1
+2007,China,Anhui Sheng,tornado,1
+2007,China,Chongqing Shi,flash flood,1
+2007,China,Fujian Sheng,tropical cyclone,1
+2007,China,Guangdong Sheng,tropical cyclone,1
+2007,China,Henan Sheng,riverine flood,1
+2007,China,Hubei Sheng,landslide (wet),1
+2007,China,Shandong Sheng,riverine flood,1
+2007,China,Sichuan Sheng,riverine flood,1
+2007,China,Sichuan Sheng,storm (general),1
+2007,China,Xinjiang Uygur Zizhiqu,riverine flood,1
+2007,China,Yunnan Sheng,riverine flood,1
+2007,Cyprus,Paphos,heat wave,1
+2007,India,Delhi,heat wave,1
+2007,India,Gujarat,cold wave,1
+2007,India,Jammu and Kashmir,flood (general),1
+2007,India,Manipur,riverine flood,1
+2007,India,Orissa,tropical cyclone,1
+2007,India,Tamil Nadu,riverine flood,1
+2007,India,Tripura,riverine flood,1
+2007,India,West Bengal,riverine flood,1
+2007,Indonesia,Maluku Utara,ash fall,1
+2007,Indonesia,Nusatenggara Timur,flash flood,1
+2007,Indonesia,Sulawesi Selatan,riverine flood,1
+2007,Indonesia,Sulawesi Utara,landslide (wet),1
+2007,Indonesia,Sumatera Barat,ground movement,1
+2007,Iran (Islamic Republic of),Esfahan,flash flood,1
+2007,Iran (Islamic Republic of),Kerman,tropical cyclone,1
+2007,Japan,Akita,tropical cyclone,1
+2007,Japan,Nagano,tropical cyclone,1
+2007,Japan,Siga,ground movement,1
+2007,Japan,Tokusima,riverine flood,1
+2007,Japan,Tokusima,tropical cyclone,1
+2007,Japan,Toyama,ground movement,2
+2007,Japan,Yamanasi,heat wave,1
+2007,Kyrgyzstan,Osh,riverine flood,1
+2007,Lebanon,North,forest fire,1
+2007,Malaysia,Pahang,riverine flood,1
+2007,Malaysia,Terengganu,riverine flood,1
+2007,Maldives,Laamu,coastal flood,1
+2007,Myanmar,Ayeyawaddy,riverine flood,1
+2007,Myanmar,Yangon,riverine flood,1
+2007,Nepal,Central,riverine flood,1
+2007,Philippines,Region IV,riverine flood,1
+2007,Philippines,Region V,riverine flood,1
+2007,Philippines,Region VIII,riverine flood,1
+2007,Philippines,Region X,coastal flood,1
+2007,Sri Lanka,Central,riverine flood,1
+2007,Sri Lanka,Western,flash flood,1
+2007,Tajikistan,Sogd,ground movement,1
+2007,Thailand,Phichit,riverine flood,1
+2007,Thailand,Phitsanulok,riverine flood,1
+2007,Thailand,Songkhla,riverine flood,1
+2007,Thailand,Surat Thani,riverine flood,1
+2007,Thailand,Trang,flash flood,1
+2007,Timor-Leste,Liquica,flood (general),1
+2007,Timor-Leste,Manufahi,drought,1
+2007,Timor-Leste,Viqueque,riverine flood,1
+2007,Türkiye,Agri,riverine flood,1
+2007,Türkiye,Edirne,riverine flood,1
+2007,Türkiye,Erzurum,riverine flood,1
+2007,Türkiye,Sinop,heat wave,1
+2007,Viet Nam,Da Nang City,coastal flood,1
+2007,Viet Nam,Ha Tinh,coastal flood,1
+2007,Viet Nam,Kien Giang,flood (general),1
+2007,Viet Nam,Ninh Binh,tropical cyclone,1
+2007,Viet Nam,Quan Binh,riverine flood,1
+2007,Viet Nam,Quang Nam,riverine flood,1
+2007,Yemen,Al Hudaydah,ash fall,1
+2007,Yemen,Dhamar,riverine flood,1
+2007,Yemen,Ibb,flash flood,1
+2008,Afghanistan,Badghis,drought,1
+2008,Afghanistan,Farah,severe winter conditions,1
+2008,Bangladesh,Chittagong,landslide (wet),1
+2008,Bangladesh,Sylhet,tropical cyclone,1
+2008,China,Anhui Sheng,tropical cyclone,1
+2008,China,Guangdong Sheng,tropical cyclone,1
+2008,China,Guangxi Zhuangzu Zizhiqu,riverine flood,2
+2008,China,Hainan Sheng,riverine flood,1
+2008,China,Hubei Sheng,riverine flood,1
+2008,China,Jiangsu Sheng,drought,1
+2008,China,Jiangxi Sheng,severe winter conditions,1
+2008,China,Jiangxi Sheng,tropical cyclone,1
+2008,China,Shaanxi Sheng,riverine flood,1
+2008,China,Shanxi Sheng,landslide (wet),1
+2008,China,Sichuan Sheng,ground movement,3
+2008,China,Sichuan Sheng,landslide (wet),1
+2008,China,Sichuan Sheng,tropical cyclone,1
+2008,China,Xizang Zizhiqu,ground movement,1
+2008,China,Yunnan Sheng,ground movement,1
+2008,China,Yunnan Sheng,riverine flood,2
+2008,India,Assam,riverine flood,1
+2008,India,Bihar,riverine flood,1
+2008,India,Himachal Pradesh,riverine flood,1
+2008,India,Jammu and Kashmir,cold wave,1
+2008,India,Jharkhand,flash flood,1
+2008,India,Karnataka,flood (general),1
+2008,India,West Bengal,riverine flood,1
+2008,Indonesia,Gorontalo,riverine flood,1
+2008,Indonesia,Java Barat,riverine flood,1
+2008,Indonesia,Jawa Barat,riverine flood,1
+2008,Indonesia,Sumatra Selatan,ground movement,1
+2008,Iran (Islamic Republic of),Hormozgan,ground movement,1
+2008,Iran (Islamic Republic of),Lorestan,blizzard/winter storm,1
+2008,Japan,Akita,ground movement,1
+2008,Kazakhstan,Kyzylordinskaya,riverine flood,1
+2008,Kyrgyzstan,Osh,ground movement,1
+2008,Lao People's Democratic Republic,Champasak,riverine flood,1
+2008,Malaysia,Pahang,riverine flood,1
+2008,Malaysia,Sarawak,flash flood,1
+2008,Mongolia,Zavxan,blizzard/winter storm,1
+2008,Myanmar,Ayeyawaddy,tropical cyclone,1
+2008,Nepal,Eastern,riverine flood,1
+2008,Nepal,Mid Western,riverine flood,1
+2008,Pakistan,Balochistan,ground movement,1
+2008,Pakistan,Balochistan,riverine flood,1
+2008,Philippines,Region II,flash flood,1
+2008,Philippines,Region IV,riverine flood,1
+2008,Philippines,Region XI,flash flood,1
+2008,Philippines,Region XI,riverine flood,2
+2008,Philippines,Region XII,riverine flood,1
+2008,Sri Lanka,Eastern,riverine flood,1
+2008,Sri Lanka,Northern,flash flood,1
+2008,Sri Lanka,Western,flash flood,1
+2008,State of Palestine,Rafah,flash flood,1
+2008,Syrian Arab Republic,Hassakeh,drought,1
+2008,Tajikistan,Tadzhikistan Territories,drought,1
+2008,Thailand,Narathiwat,flash flood,1
+2008,Thailand,Pattani,flash flood,1
+2008,Thailand,Uttaradit,drought,1
+2008,Thailand,Uttaradit,tropical cyclone,1
+2008,Türkiye,Antalya,forest fire,1
+2008,Viet Nam,Dak Nong,flash flood,1
+2008,Viet Nam,Ha Noi City,riverine flood,1
+2008,Viet Nam,Ha Tinh,tropical cyclone,1
+2008,Viet Nam,Quang Nam,riverine flood,1
+2008,Viet Nam,Quang Nam,tropical cyclone,1
+2008,Viet Nam,Son La,tropical cyclone,1
+2008,Viet Nam,Thanh Hoa,flash flood,1
+2008,Viet Nam,Vinh Phuc,tropical cyclone,1
+2008,Yemen,Al Mahwit,flash flood,1
+2009,Afghanistan,Badakhshan,flash flood,1
+2009,Afghanistan,Balkh,riverine flood,1
+2009,Bangladesh,Chittagong,tropical cyclone,1
+2009,Bangladesh,Khulna,cold wave,1
+2009,Bangladesh,Sylhet,drought,1
+2009,Bangladesh,Sylhet,riverine flood,1
+2009,Bhutan,Trashigang,ground movement,1
+2009,Bhutan,Wangduephodrang,tropical cyclone,1
+2009,Cambodia,Stung Treng,tropical cyclone,1
+2009,China,Anhui Sheng,severe weather,1
+2009,China,Chongqing Shi,drought,1
+2009,China,Fujian Sheng,riverine flood,1
+2009,China,Guangdong Sheng,riverine flood,1
+2009,China,Guangdong Sheng,tropical cyclone,1
+2009,China,Guizhou Sheng,riverine flood,1
+2009,China,Hainan Sheng,tropical cyclone,1
+2009,China,Hubei Sheng,blizzard/winter storm,1
+2009,China,Jiangsu Sheng,tropical cyclone,1
+2009,China,Shandong Sheng,blizzard/winter storm,1
+2009,China,Shanxi Sheng,landslide (wet),1
+2009,China,Sichuan Sheng,landslide (wet),2
+2009,China,Sichuan Sheng,riverine flood,2
+2009,China,Xinjiang Uygur Zizhiqu,ground movement,1
+2009,China,Yunnan Sheng,ground movement,1
+2009,India,Andhra Pradesh,heat wave,1
+2009,India,Jharkhand,lightning/thunderstorms,1
+2009,India,Karnataka,riverine flood,1
+2009,India,Maharashtra,landslide (wet),1
+2009,India,Maharashtra,riverine flood,1
+2009,India,Maharashtra,tropical cyclone,1
+2009,India,West Bengal,tropical cyclone,1
+2009,Indonesia,Banten,riverine flood,1
+2009,Indonesia,Dki Jakarta,ground movement,1
+2009,Indonesia,Nusatenggara Barat,ground movement,1
+2009,Indonesia,Nusatenggara Barat,landslide (wet),1
+2009,Indonesia,Sulawesi Utara,flash flood,1
+2009,Indonesia,Sumatera Utara,flash flood,1
+2009,Japan,Okayama,tropical cyclone,1
+2009,Japan,Saitama,tropical cyclone,1
+2009,Japan,Tookyoo,tsunami,1
+2009,Japan,Tottori,landslide (wet),1
+2009,Lao People's Democratic Republic,Salavan,tropical cyclone,1
+2009,Malaysia,Perak,riverine flood,1
+2009,Myanmar,Kachin,landslide (wet),1
+2009,Nepal,Central,riverine flood,1
+2009,Nepal,Eastern,cold wave,1
+2009,Nepal,Eastern,landslide (wet),1
+2009,Nepal,Far Western,riverine flood,1
+2009,Nepal,Mid Western,drought,1
+2009,Philippines,NCR,riverine flood,1
+2009,Philippines,Region I,riverine flood,1
+2009,Philippines,Region V,riverine flood,1
+2009,Philippines,Region X,flash flood,2
+2009,Philippines,Region X,riverine flood,1
+2009,Philippines,Region XII,flash flood,1
+2009,Tajikistan,Tadzhikistan Territories,riverine flood,1
+2009,Thailand,Phatthalung,riverine flood,1
+2009,Türkiye,Artvin,riverine flood,1
+2009,Türkiye,Istanbul,flash flood,1
+2009,Türkiye,Trabzon,landslide (wet),1
+2009,Viet Nam,Gia Lai,tropical cyclone,1
+2009,Viet Nam,Lai Chau,riverine flood,1
+2009,Viet Nam,Quang Tri,tropical cyclone,1
+2009,Viet Nam,Yen Bai,tropical cyclone,1
+2009,Yemen,Al Mahwit,landslide (wet),1
+2010,Afghanistan,Badghis,riverine flood,1
+2010,Afghanistan,Ghazni,riverine flood,1
+2010,Bangladesh,Barisal,riverine flood,1
+2010,Bangladesh,Sylhet,flash flood,1
+2010,Cambodia,Pursat,riverine flood,1
+2010,China,Gansu Sheng,landslide (wet),1
+2010,China,Gansu Sheng,riverine flood,1
+2010,China,Guangdong Sheng,tropical cyclone,1
+2010,China,Guizhou Sheng,landslide (wet),1
+2010,China,Hainan Sheng,riverine flood,1
+2010,China,Liaoning Sheng,riverine flood,1
+2010,China,Qinghai Sheng,ground movement,1
+2010,China,Shaanxi Sheng,landslide (wet),1
+2010,China,Shanxi Sheng,drought,1
+2010,China,Sichuan Sheng,ground movement,2
+2010,China,Sichuan Sheng,"land fire (brush, bush, pasture)",1
+2010,China,Sichuan Sheng,landslide (wet),2
+2010,China,Sichuan Sheng,riverine flood,1
+2010,China,Yunnan Sheng,landslide (wet),2
+2010,China,Zhejiang Sheng,tropical cyclone,1
+2010,India,Assam,hail,1
+2010,India,Assam,tropical cyclone,1
+2010,India,Bihar,cold wave,1
+2010,India,Bihar,storm (general),1
+2010,India,Jammu and Kashmir,flash flood,1
+2010,India,Jharkhand,lightning/thunderstorms,1
+2010,India,Kerala,riverine flood,1
+2010,India,Tamil Nadu,tropical cyclone,1
+2010,India,Uttar Pradesh,heat wave,1
+2010,India,Uttar Pradesh,riverine flood,2
+2010,India,Uttar Pradesh,severe weather,1
+2010,Indonesia,Jawa Barat,riverine flood,1
+2010,Indonesia,Nusatenggara Timur,flash flood,1
+2010,Indonesia,Papua Barat,flash flood,1
+2010,Indonesia,Sumatera Utara,ash fall,1
+2010,Iran (Islamic Republic of),Kerman,ground movement,1
+2010,Iran (Islamic Republic of),Lorestan,ground movement,1
+2010,Iran (Islamic Republic of),Semnan,ground movement,1
+2010,Israel,Haifa,forest fire,1
+2010,Japan,Hirosima,riverine flood,1
+2010,Japan,Yamanasi,heat wave,1
+2010,Myanmar,Rakhine,tropical cyclone,1
+2010,Nepal,Eastern,riverine flood,2
+2010,Oman,Muscat,tropical cyclone,1
+2010,Pakistan,Balochistan,tropical cyclone,1
+2010,Pakistan,Sindh,flash flood,1
+2010,Philippines,ARMM,riverine flood,1
+2010,Philippines,Region IV,riverine flood,1
+2010,Philippines,Region IX,flash flood,1
+2010,Philippines,Region XII,flash flood,1
+2010,Philippines,Region XIII,flash flood,1
+2010,Republic of Korea,Seoul,tropical cyclone,1
+2010,Saudi Arabia,Jizan,riverine flood,1
+2010,Saudi Arabia,Najran,riverine flood,1
+2010,Sri Lanka,North Western,riverine flood,1
+2010,Sri Lanka,Western,flash flood,1
+2010,Tajikistan,Badakhshoni,ground movement,1
+2010,Thailand,Ranong,riverine flood,1
+2010,Thailand,Uttaradit,drought,1
+2010,Türkiye,Elazig,ground movement,1
+2010,Türkiye,Rize,landslide (wet),1
+2010,Viet Nam,Dak Lak,riverine flood,1
+2010,Viet Nam,Ha Tinh,tropical cyclone,1
+2010,Viet Nam,Lao Cai,tropical cyclone,1
+2010,Viet Nam,Quang Binh,riverine flood,1
+2010,Viet Nam,Quang Nam,riverine flood,1
+2010,Viet Nam,Quang Ninh,tropical cyclone,1
+2011,Afghanistan,Ghor,drought,1
+2011,Bangladesh,Barisal,cold wave,1
+2011,Bangladesh,Chittagong,landslide (wet),1
+2011,Bangladesh,Rangpur,cold wave,1
+2011,Bhutan,Thimphu,ground movement,1
+2011,Cambodia,Pursat,riverine flood,1
+2011,China,Guangdong Sheng,tropical cyclone,1
+2011,China,Guangxi Zhuangzu Zizhiqu,cold wave,1
+2011,China,Hainan Sheng,tropical cyclone,2
+2011,China,Henan Sheng,riverine flood,1
+2011,China,Jiangxi Sheng,riverine flood,1
+2011,China,Shaanxi Sheng,landslide (wet),1
+2011,China,Sichuan Sheng,landslide (wet),1
+2011,China,Xinjiang Uygur Zizhiqu,ground movement,3
+2011,China,Xizang Zizhiqu,riverine flood,1
+2011,China,Yunnan Sheng,ground movement,2
+2011,China,Zhejiang Sheng,riverine flood,1
+2011,India,Haryana,cold wave,1
+2011,India,Himachal Pradesh,cold wave,1
+2011,India,Meghalaya,ground movement,1
+2011,India,Rajasthan,riverine flood,1
+2011,India,Uttarakhand,riverine flood,1
+2011,Indonesia,Jawa Tengah,flash flood,1
+2011,Indonesia,Jawa Tengah,riverine flood,1
+2011,Indonesia,Nangroe Aceh Darussalam,ground movement,1
+2011,Indonesia,Nangroe Aceh Darussalam,riverine flood,1
+2011,Indonesia,Papua,tsunami,1
+2011,Japan,Hukusima,flood (general),1
+2011,Japan,Kooti,tropical cyclone,1
+2011,Japan,Kumamoto,tropical cyclone,1
+2011,Japan,Nagano,tsunami,1
+2011,Japan,Siga,storm (general),1
+2011,Japan,Yamagata,ground movement,1
+2011,Japan,Yamanasi,heat wave,1
+2011,Lao People's Democratic Republic,Champasak,flash flood,1
+2011,Lao People's Democratic Republic,Xaignabouli,riverine flood,1
+2011,Myanmar,Magway,flash flood,1
+2011,Nepal,Central,landslide (wet),1
+2011,Nepal,Eastern,cold wave,1
+2011,Nepal,Eastern,riverine flood,1
+2011,Nepal,Far Western,riverine flood,1
+2011,Nepal,Mid Western,landslide (wet),1
+2011,Nepal,Western,cold wave,1
+2011,Nepal,Western,ground movement,1
+2011,Oman,Muscat,tropical cyclone,1
+2011,Pakistan,Sindh,ground movement,1
+2011,Philippines,Region IX,flash flood,1
+2011,Philippines,Region VI,riverine flood,1
+2011,Philippines,Region X,flash flood,1
+2011,Philippines,Region XI,flash flood,1
+2011,Philippines,Region XII,flash flood,1
+2011,Sri Lanka,Uva,riverine flood,2
+2011,Sri Lanka,Uva,severe weather,1
+2011,Tajikistan,Sogd,ground movement,1
+2011,Thailand,Nan,ground movement,1
+2011,Thailand,Phangnga,flash flood,1
+2011,Thailand,Phetchabun,tropical cyclone,1
+2011,Thailand,Samut Sakhon,riverine flood,1
+2011,Thailand,Yasothon,drought,1
+2011,Türkiye,Antalya,riverine flood,1
+2011,Türkiye,Hakkari,ground movement,1
+2011,Viet Nam,Kien Giang,riverine flood,1
+2011,Viet Nam,Quang Nam,riverine flood,1
+2011,Viet Nam,Yen Bai,lightning/thunderstorms,1
+2012,Afghanistan,Baghlan,ground movement,1
+2012,Afghanistan,Daykundi,severe winter conditions,1
+2012,Afghanistan,Jawzan,flash flood,1
+2012,Afghanistan,Kunduz,flash flood,1
+2012,Bangladesh,Chittagong,storm (general),1
+2012,China,Beijing Shi,riverine flood,1
+2012,China,Fujian Sheng,tropical cyclone,1
+2012,China,Gansu Sheng,riverine flood,1
+2012,China,Guangdong Sheng,lightning/thunderstorms,1
+2012,China,Guangxi Zhuangzu Zizhiqu,tropical cyclone,2
+2012,China,Guizhou Sheng,riverine flood,1
+2012,China,Jiangsu Sheng,lightning/thunderstorms,1
+2012,China,Shandong Sheng,riverine flood,2
+2012,China,Shandong Sheng,tropical cyclone,1
+2012,China,Sichuan Sheng,ground movement,1
+2012,China,Yunnan Sheng,ground movement,1
+2012,China,Yunnan Sheng,landslide (wet),1
+2012,China,Yunnan Sheng,riverine flood,1
+2012,China,Zhejiang Sheng,tropical cyclone,2
+2012,Georgia,Kakheti,lightning/thunderstorms,1
+2012,India,Assam,riverine flood,1
+2012,India,Himachal Pradesh,riverine flood,1
+2012,India,Tamil Nadu,tropical cyclone,1
+2012,India,Uttar Pradesh,cold wave,1
+2012,Indonesia,Jawa Barat,storm (general),1
+2012,Indonesia,Malaku,landslide (wet),1
+2012,Indonesia,Maluku,riverine flood,1
+2012,Indonesia,Sulawesi Tengah,ground movement,1
+2012,Indonesia,Sumatera Barat,flash flood,1
+2012,Indonesia,Sumatera Utara,tornado,1
+2012,Indonesia,West Java,landslide (wet),1
+2012,Iran (Islamic Republic of),East Azarbayejan,ground movement,1
+2012,Iran (Islamic Republic of),Khorasan,ground movement,1
+2012,Japan,Aomori,blizzard/winter storm,1
+2012,Japan,Kagosima,tropical cyclone,1
+2012,Japan,Mie,tropical cyclone,1
+2012,Japan,Ooita,riverine flood,1
+2012,Kazakhstan,Karagandinskaya,severe winter conditions,1
+2012,Kyrgyzstan,Naryn,riverine flood,1
+2012,Myanmar,Kayin,riverine flood,1
+2012,Myanmar,Sagaing,ground movement,1
+2012,Nepal,Western,riverine flood,1
+2012,Pakistan,Jammu and Kashmir,riverine flood,2
+2012,Philippines,Region IV,riverine flood,1
+2012,Philippines,Region XII,flash flood,2
+2012,Philippines,Region XII,riverine flood,1
+2012,Philippines,Region XIII,riverine flood,1
+2012,Republic of Korea,Taegu,tropical cyclone,1
+2012,Republic of Korea,Taejon,tropical cyclone,1
+2012,Saudi Arabia,Tabuk,riverine flood,1
+2012,Sri Lanka,Western,tropical cyclone,1
+2012,State of Palestine,Jerusalem,riverine flood,1
+2012,Tajikistan,Tadzhikistan Territories,severe winter conditions,1
+2012,Thailand,Chaiyaphum,riverine flood,1
+2012,Thailand,Phuket,drought,1
+2012,Türkiye,Samsun,riverine flood,1
+2012,Viet Nam,Hai Phong City,tropical cyclone,2
+2012,Viet Nam,Nghe An,riverine flood,1
+2012,Viet Nam,Tuyen Quang,tropical cyclone,1
+2013,Afghanistan,Badakhshan,riverine flood,1
+2013,Afghanistan,Balkh,riverine flood,1
+2013,Afghanistan,Nangarrhar,riverine flood,1
+2013,Bangladesh,Chittagong,severe weather,1
+2013,Cambodia,Kampot,riverine flood,1
+2013,China,Anhui Sheng,tropical cyclone,1
+2013,China,Chongqing Shi,riverine flood,1
+2013,China,Fujian Sheng,tropical cyclone,2
+2013,China,Gansu Sheng,drought,1
+2013,China,Guangdong Sheng,lightning/thunderstorms,1
+2013,China,Guangdong Sheng,tropical cyclone,1
+2013,China,Guangxi Zhuangzu Zizhiqu,lightning/thunderstorms,1
+2013,China,Guizhou Sheng,landslide (wet),1
+2013,China,Guizhou Sheng,riverine flood,2
+2013,China,Hainan Sheng,tropical cyclone,1
+2013,China,Hubei Sheng,ground movement,1
+2013,China,Jiangsu Sheng,blizzard/winter storm,1
+2013,China,Jiangxi Sheng,riverine flood,1
+2013,China,Jilin Sheng,ground movement,1
+2013,China,Liaoning Sheng,riverine flood,1
+2013,China,Nei Mongol Zizhiqu,riverine flood,1
+2013,China,Shandong Sheng,riverine flood,1
+2013,China,Shanghai Shi,tropical cyclone,1
+2013,China,Sichuan Sheng,ground movement,1
+2013,China,Sichuan Sheng,landslide (wet),1
+2013,China,Sichuan Sheng,lightning/thunderstorms,1
+2013,China,Sichuan Sheng,riverine flood,4
+2013,China,Xinjiang Uygur Zizhiqu,ground movement,1
+2013,China,Xizang Zizhiqu,landslide (wet),1
+2013,China,Yunnan Sheng,ground movement,2
+2013,China,Yunnan Sheng,landslide (dry),1
+2013,China,Yunnan Sheng,lightning/thunderstorms,1
+2013,China,Yunnan Sheng,riverine flood,1
+2013,China,Yunnan Sheng,tropical cyclone,1
+2013,India,Assam,riverine flood,1
+2013,India,Chhattisgarh,tropical cyclone,1
+2013,India,Jharkhand,lightning/thunderstorms,1
+2013,India,West Bengal,riverine flood,2
+2013,Indonesia,Jawa Barat,landslide (wet),1
+2013,Indonesia,Maluku,riverine flood,1
+2013,Indonesia,Sulawesi Selatan,riverine flood,1
+2013,Indonesia,Sumatera Utara,riverine flood,1
+2013,Iran (Islamic Republic of),Bushehr,ground movement,2
+2013,Iraq,Baghdad,riverine flood,1
+2013,Israel,Tel Aviv,blizzard/winter storm,1
+2013,Japan,Kagosima,tropical cyclone,1
+2013,Japan,Kyooto,tropical cyclone,1
+2013,Japan,Tokusima,heat wave,1
+2013,Japan,Yamaguti,riverine flood,1
+2013,Lao People's Democratic Republic,Xekong,riverine flood,1
+2013,Malaysia,Kelantan,riverine flood,1
+2013,Myanmar,Ayeyawaddy,riverine flood,1
+2013,Nepal,Central,riverine flood,1
+2013,Nepal,Eastern,flash flood,1
+2013,Nepal,Western,cold wave,1
+2013,Pakistan,Balochistan,ground movement,1
+2013,Philippines,Region IV,riverine flood,2
+2013,Philippines,Region XIII,riverine flood,1
+2013,Saudi Arabia,Northern Frontier,riverine flood,1
+2013,Sri Lanka,North Western,riverine flood,1
+2013,Sri Lanka,Northern,riverine flood,1
+2013,Sri Lanka,Western,tropical cyclone,1
+2013,State of Palestine,Jabalya,riverine flood,1
+2013,State of Palestine,Tulkarm,blizzard/winter storm,1
+2013,Taiwan (Province of China),Taiwan Sheng,ground movement,1
+2013,Taiwan (Province of China),Taiwan Sheng,tropical cyclone,1
+2013,Tajikistan,Badakhshoni Kuni,severe winter conditions,1
+2013,Thailand,Trang,riverine flood,1
+2013,Thailand,Ubon Ratchathani,riverine flood,1
+2013,Viet Nam,Kon Tum,riverine flood,2
+2013,Viet Nam,Lai Chau,riverine flood,1
+2013,Viet Nam,Quang Nam,tropical cyclone,1
+2013,Viet Nam,Quang Ngai,tropical cyclone,1
+2013,Viet Nam,Thanh Hoa,tropical cyclone,1
+2013,Viet Nam,Tuyen Quang,riverine flood,1
+2013,Viet Nam,Vinh Long,riverine flood,1
+2013,Viet Nam,Yen Bai,riverine flood,1
+2013,Viet Nam,Yen Bai,tropical cyclone,1
+2013,Yemen,Abyan,riverine flood,1
+2014,Afghanistan,Kabul,blizzard/winter storm,1
+2014,Afghanistan,Kunar,flash flood,1
+2014,Cambodia,Takeo,flash flood,1
+2014,China,Chongqing Shi,landslide (wet),1
+2014,China,Chongqing Shi,riverine flood,1
+2014,China,Chongqing Shi,severe weather,1
+2014,China,Fujian Sheng,riverine flood,1
+2014,China,Fujian Sheng,tropical cyclone,1
+2014,China,Gansu Sheng,ground movement,1
+2014,China,Gansu Sheng,riverine flood,1
+2014,China,Guangxi Zhuangzu Zizhiqu,tropical cyclone,1
+2014,China,Guizhou Sheng,flash flood,1
+2014,China,Guizhou Sheng,landslide (wet),1
+2014,China,Guizhou Sheng,lightning/thunderstorms,3
+2014,China,Guizhou Sheng,riverine flood,2
+2014,China,Hainan Sheng,blizzard/winter storm,1
+2014,China,Heilongjiang Sheng,lightning/thunderstorms,1
+2014,China,Henan Sheng,blizzard/winter storm,1
+2014,China,Henan Sheng,drought,1
+2014,China,Hunan Sheng,riverine flood,2
+2014,China,Nei Mongol Zizhiqu,blizzard/winter storm,1
+2014,China,Nei Mongol Zizhiqu,drought,1
+2014,China,Qinghai Sheng,severe weather,1
+2014,China,Shandong Sheng,tropical cyclone,1
+2014,China,Sichuan Sheng,riverine flood,1
+2014,China,Xinjiang Uygur Zizhiqu,ground movement,1
+2014,China,Yunnan Sheng,ground movement,5
+2014,China,Yunnan Sheng,riverine flood,1
+2014,China,Yunnan Sheng,tropical cyclone,1
+2014,China,Zhejiang Sheng,blizzard/winter storm,1
+2014,China,Zhejiang Sheng,flood (general),1
+2014,China,Zhejiang Sheng,lightning/thunderstorms,1
+2014,Georgia,Guria,riverine flood,1
+2014,India,Andhra Pradesh,tropical cyclone,1
+2014,India,Assam,riverine flood,1
+2014,India,Delhi,cold wave,1
+2014,India,Himachal Pradesh,riverine flood,1
+2014,India,Maharashtra,landslide (wet),1
+2014,India,Meghalaya,riverine flood,1
+2014,India,Uttar Pradesh,severe winter conditions,1
+2014,India,West Bengal,lightning/thunderstorms,1
+2014,Indonesia,Dki Jakarta,riverine flood,1
+2014,Indonesia,Jawa Tengah,landslide (wet),1
+2014,Indonesia,Jawa Timur,riverine flood,1
+2014,Indonesia,Papua,riverine flood,1
+2014,Indonesia,Sumatera Selatan,riverine flood,1
+2014,Iran (Islamic Republic of),Golestan,flood (general),1
+2014,Iran (Islamic Republic of),Hormozgan,ground movement,1
+2014,Iran (Islamic Republic of),Ilam,ground movement,1
+2014,Japan,Hokkaidoo,tropical cyclone,1
+2014,Japan,Kanagawa,tropical cyclone,1
+2014,Japan,Nagano,ground movement,1
+2014,Japan,Niigata,blizzard/winter storm,1
+2014,Japan,Sizuoka,tropical cyclone,1
+2014,Japan,Tokusima,tropical cyclone,1
+2014,Japan,Yamagata,blizzard/winter storm,1
+2014,Japan,Yamanasi,blizzard/winter storm,1
+2014,Japan,Yamanasi,heat wave,1
+2014,Kazakhstan,Karagandinskaya,flash flood,1
+2014,Kyrgyzstan,Talas,blizzard/winter storm,1
+2014,Lao People's Democratic Republic,Savannakhet,riverine flood,1
+2014,Malaysia,Perlis,riverine flood,1
+2014,Malaysia,Selangor,drought,1
+2014,Myanmar,Yangon,riverine flood,1
+2014,Nepal,Central,flood (general),1
+2014,Nepal,Central,landslide (wet),1
+2014,Nepal,Central,riverine flood,1
+2014,Nepal,Western,blizzard/winter storm,1
+2014,Pakistan,Jammu and Kashmir,riverine flood,1
+2014,Pakistan,Sindh,heat wave,1
+2014,Philippines,Region IV,tropical cyclone,1
+2014,Philippines,Region X,flash flood,1
+2014,Philippines,Region XII,flood (general),1
+2014,Sri Lanka,Uva,landslide (wet),2
+2014,Sri Lanka,Western,riverine flood,1
+2014,Tajikistan,Khatlon,flash flood,1
+2014,Tajikistan,Tadzhikistan Territories,flash flood,1
+2014,Thailand,Nan,ground movement,1
+2014,Thailand,Narathiwat,riverine flood,1
+2014,Thailand,Nong Bua Lamphu,cold wave,1
+2014,Thailand,Phra Nakhon Si Ayudhya,riverine flood,1
+2014,Thailand,Udon Thani,drought,1
+2014,Thailand,Uttaradit,lightning/thunderstorms,1
+2014,Thailand,Yala,riverine flood,1
+2014,Türkiye,Canakkale,ground movement,1
+2014,Viet Nam,Binh Dinh,tropical cyclone,1
+2014,Viet Nam,Yen Bai,tropical cyclone,1
+2015,Afghanistan,Badakhshan,ground movement,1
+2015,Afghanistan,Badakhshan,landslide (wet),1
+2015,Afghanistan,Kabul,ground movement,1
+2015,Bangladesh,Chittagong,landslide (wet),1
+2015,Bangladesh,Dhaka,ground movement,1
+2015,China,Anhui Sheng,tropical cyclone,1
+2015,China,Chongqing Shi,riverine flood,1
+2015,China,Fujian Sheng,flood (general),1
+2015,China,Gansu Sheng,severe weather,1
+2015,China,Guangxi Zhuangzu Zizhiqu,lightning/thunderstorms,1
+2015,China,Hainan Sheng,flood (general),1
+2015,China,Hainan Sheng,tropical cyclone,1
+2015,China,Hunan Sheng,flood (general),1
+2015,China,Jiangxi Sheng,flood (general),1
+2015,China,Jiangxi Sheng,riverine flood,1
+2015,China,Jiangxi Sheng,tropical cyclone,1
+2015,China,Ningxia Huizu Zizhiqu,drought,1
+2015,China,Shaanxi Sheng,severe weather,3
+2015,China,Shandong Sheng,severe weather,1
+2015,China,Sichuan Sheng,riverine flood,2
+2015,China,Tianjin Shi,blizzard/winter storm,1
+2015,China,Xinjiang Uygur Zizhiqu,ground movement,2
+2015,China,Xizang Zizhiqu,blizzard/winter storm,1
+2015,China,Yunnan Sheng,flood (general),2
+2015,China,Yunnan Sheng,ground movement,1
+2015,China,Zhejiang Sheng,flood (general),1
+2015,China,Zhejiang Sheng,landslide (wet),1
+2015,China,Zhejiang Sheng,tropical cyclone,1
+2015,Georgia,Tbilisi,flash flood,1
+2015,India,Andhra Pradesh,lightning/thunderstorms,1
+2015,India,Arunachal Pradesh,flood (general),1
+2015,India,Himachal Pradesh,riverine flood,1
+2015,India,Jammu and Kashmir,flash flood,1
+2015,India,Madhya Pradesh,riverine flood,1
+2015,India,Maharashtra,riverine flood,1
+2015,India,Orissa,heat wave,1
+2015,India,Puducherry,flood (general),1
+2015,India,Punjab,ground movement,1
+2015,India,Sikkim,ground movement,1
+2015,India,Tamil Nadu,flash flood,1
+2015,India,West Bengal,lightning/thunderstorms,1
+2015,India,West Bengal,riverine flood,1
+2015,Indonesia,Bengkulu,landslide (wet),1
+2015,Indonesia,Jawa Barat,rockfall (wet),1
+2015,Indonesia,Jawa Timur,landslide (wet),1
+2015,Indonesia,Kalimantan Barat,forest fire,1
+2015,Indonesia,Nusatenggara Barat,riverine flood,2
+2015,Indonesia,Papua,drought,1
+2015,Iran (Islamic Republic of),Hormozgan,flood (general),1
+2015,Iran (Islamic Republic of),Kerman,flash flood,1
+2015,Iran (Islamic Republic of),West Azarbayejan,flash flood,1
+2015,Iraq,Wassit,flash flood,1
+2015,Israel,Tel Aviv,sand/dust storm,1
+2015,Japan,Ibaraki,riverine flood,1
+2015,Japan,Miyagi,tropical cyclone,1
+2015,Japan,Okinawa,tropical cyclone,1
+2015,Japan,Tokusima,tropical cyclone,1
+2015,Kazakhstan,Karagandinskaya,flash flood,1
+2015,Lebanon,Bekaa,sand/dust storm,1
+2015,Lebanon,South,blizzard/winter storm,1
+2015,Mongolia,Zavxan,severe winter conditions,1
+2015,Myanmar,Kayar,landslide (wet),1
+2015,Myanmar,Sagaing,flash flood,1
+2015,Nepal,Central,ground movement,1
+2015,Nepal,Eastern,landslide (wet),1
+2015,Nepal,Western,ground movement,1
+2015,Nepal,Western,landslide (wet),1
+2015,Pakistan,Jammu and Kashmir,riverine flood,1
+2015,Pakistan,Punjab,heat wave,1
+2015,Pakistan,Punjab,riverine flood,1
+2015,Pakistan,Sindh,flood (general),1
+2015,Philippines,ARMM,flood (general),1
+2015,Philippines,NCR,flood (general),1
+2015,Philippines,Region X,riverine flood,1
+2015,Saudi Arabia,Riyad,riverine flood,1
+2015,Saudi Arabia,Tabuk,flood (general),1
+2015,State of Palestine,Rafah,blizzard/winter storm,1
+2015,Syrian Arab Republic,Dara,sand/dust storm,1
+2015,Syrian Arab Republic,Idleb,blizzard/winter storm,1
+2015,Tajikistan,Khatlon,riverine flood,1
+2015,Tajikistan,Tadzhikistan Territories,mudslide,1
+2015,Türkiye,Edirne,riverine flood,1
+2015,Viet Nam,Ha Giang,flood (general),1
+2015,Viet Nam,Vinh Long,drought,1
+2015,Yemen,Aden,tropical cyclone,1
+2015,Yemen,Shabwah,tropical cyclone,1
+2016,Afghanistan,Badghis,flash flood,1
+2016,Afghanistan,Uruzgan,flash flood,1
+2016,Armenia,Gegharqunik,landslide (wet),1
+2016,Cambodia,Kampong Speu,drought,1
+2016,China,Beijing Shi,storm (general),1
+2016,China,Beijing Shi,tornado,1
+2016,China,Fujian,flood (general),1
+2016,China,Fujian Sheng,riverine flood,1
+2016,China,Guangxi Zhuangzu Zizhiqu,riverine flood,1
+2016,China,Guangxi Zhuangzu Zizhiqu,tropical cyclone,1
+2016,China,Guizhou Sheng,flash flood,1
+2016,China,Guizhou Sheng,flood (general),1
+2016,China,Guizhou Sheng,landslide (wet),1
+2016,China,Hainan Sheng,storm (general),1
+2016,China,Hainan Sheng,tropical cyclone,1
+2016,China,Liaoning Sheng,severe weather,1
+2016,China,Nei Mongol Zizhiqu,cold wave,1
+2016,China,Nei Mongol Zizhiqu,drought,1
+2016,China,Qinghai Sheng,lightning/thunderstorms,1
+2016,China,Shandong Sheng,lightning/thunderstorms,1
+2016,China,Yunnan,mudslide,1
+2016,China,Yunnan Sheng,flood (general),2
+2016,China,Zhejiang Sheng,flood (general),2
+2016,China,Zhejiang Sheng,tropical cyclone,1
+2016,India,Arunachal Pradesh,flash flood,1
+2016,India,Assam,ground movement,1
+2016,India,Madhya Pradesh,lightning/thunderstorms,1
+2016,India,Nagaland,flood (general),1
+2016,India,Uttar Pradesh,heat wave,1
+2016,India,Uttar Pradeshr,flood (general),1
+2016,Indonesia,Jambi,flood (general),1
+2016,Indonesia,Jawa Barat,riverine flood,1
+2016,Indonesia,Maluku Utara,ground movement,1
+2016,Indonesia,Sulawesi Selatan,flood (general),1
+2016,Indonesia,Sumatera Utara,landslide (wet),1
+2016,Israel,Haifa,"land fire (brush, bush, pasture)",1
+2016,Japan,Kagosima,cold wave,1
+2016,Japan,Miyazaki,ground movement,1
+2016,Japan,Oosaka,tropical cyclone,1
+2016,Japan,Tiba,tropical cyclone,1
+2016,Japan,Tottori,ground movement,1
+2016,Lao People's Democratic Republic,Louangphabang,flood (general),1
+2016,Malaysia,Pulau Pinang,flood (general),1
+2016,Malaysia,Sarawak,flood (general),1
+2016,Mongolia,Ulaanbaatar,severe winter conditions,1
+2016,Myanmar,Mandalay,lightning/thunderstorms,1
+2016,Myanmar,Mon,flood (general),1
+2016,Myanmar,Sagaing,ground movement,1
+2016,Myanmar,Shin,lightning/thunderstorms,1
+2016,Pakistan,Azad Jammu and Kashmir,lightning/thunderstorms,1
+2016,Pakistan,Khyber Pakhtunkhwa,flash flood,1
+2016,Pakistan,Sindh,flash flood,1
+2016,Philippines,Mountain,flood (general),1
+2016,Philippines,Mountain,tropical cyclone,1
+2016,Saudi Arabia,Asir,flood (general),1
+2016,Taiwan (Province of China),Taiwan Sheng,ground movement,1
+2016,Tajikistan,Tadzhikistan Territories,ground movement,1
+2016,Thailand,Chiang Rai,flash flood,1
+2016,Thailand,Narathiwat,flood (general),1
+2016,Timor-Leste,Viqueque,drought,1
+2016,Viet Nam,Binh Dinh,flood (general),1
+2016,Viet Nam,Nghe An,tropical cyclone,2
+2016,Viet Nam,Thai Binh and Ninh Binh,tropical cyclone,1
+2016,Viet Nam,Thua Thien Hue,riverine flood,1
+2016,Yemen,Marib,flash flood,1
+2016,Yemen,Taez,landslide (wet),1
+2017,Afghanistan,Nangarhar,flood (general),1
+2017,China,Fujian,flood (general),1
+2017,China,Henan,severe weather,1
+2017,China,Sichuan,lightning/thunderstorms,1
+2017,Iran (Islamic Republic of),Khorazan Razavi,flash flood,1
+2017,Iran (Islamic Republic of),North Khorasan,ground movement,1
+2017,Kyrgyzstan,Osh,ground movement,1
+2017,Pakistan,Khyber Pakhtunkhwa,lightning/thunderstorms,1
+2017,Sri Lanka,Northern,flood (general),1
+2017,Thailand,Ranong,riverine flood,1
+2017,Thailand,Ubon Ratchathani,flood (general),1
+2017,Thailand,Yala,riverine flood,1
+2017,Yemen,Lahj,flood (general),1
+2018,Cambodia,Kampot,flood (general),1
+2018,China,Shandong,tropical cyclone,1
+2018,China,and Zhejiang,tropical cyclone,1
+2018,Democratic People's Republic of Korea,South Hamgyong,tropical cyclone,1
+2018,Iran (Islamic Republic of),Yazd,flash flood,1
+2018,Mongolia,Bayanzurkh,flash flood,1
+2018,Mongolia,Uvs,severe winter conditions,1
+2018,Philippines,Albay,lava flow,1
+2018,Philippines,Mountain,tropical cyclone,1
+2018,Viet Nam,Bac Giang,tropical cyclone,1
+2019,Afghanistan,Badakhshan,flash flood,1
+2019,Afghanistan,Laghman,flood (general),1
+2019,China,Chongqing,flood (general),1
+2019,China,Sichuan,flood (general),1
+2019,Indonesia,Sulawesi,landslide (wet),1
+2019,Indonesia,and Aceh,flood (general),1
+2019,Lao People's Democratic Republic,Sekong,flood (general),1
+2019,Mongolia,Arkhangai,severe winter conditions,1
+2019,Pakistan,Khyber Pakhtunkhwa,flood (general),1
+2019,Sri Lanka,and East,flood (general),1
+2019,Thailand,Surat Thani,tropical cyclone,1
+2019,Viet Nam,Ha Tinh and Lao Cai,flood (general),1
+2019,Viet Nam,Thua Thien Hue,tropical cyclone,1
+2020,Afghanistan,Baghlan,blizzard/winter storm,1
+2020,Afghanistan,Ghor,flash flood,1
+2020,Afghanistan,Paktika,flash flood,1
+2020,China,Fujian,flood (general),1
+2020,Democratic People's Republic of Korea,and Kangwon,flood (general),1
+2020,Indonesia,Bekasi,flood (general),1
+2020,Indonesia,Central Kalimantan,flood (general),1
+2020,Indonesia,North Sulawesi,flash flood,2
+2020,Indonesia,northern Sulawesi,flash flood,1
+2020,Iran (Islamic Republic of),Khuzestan,flood (general),1
+2020,Lao People's Democratic Republic,Sekong,tropical cyclone,1
+2020,Mongolia,Umnugovi,flash flood,1
+2020,Philippines,Cordillera Administrative Region,tropical cyclone,1
+2020,Philippines,Quezon,ash fall,1
+2020,Philippines,Rizal,tropical cyclone,1
+2020,Republic of Korea,South Jeolla,flood (general),1
+2020,Thailand,Mae Hong Son,flash flood,1
+2020,Thailand,Narathiwat,flood (general),1
+2020,Viet Nam,Bac Giang,flash flood,1
+2020,Viet Nam,Phu Yen,tropical cyclone,1
+2020,Viet Nam,Thanh Hóa,tropical cyclone,1
+2021,Afghanistan,Kunduz,flash flood,1
+2021,China,Fujian,drought,1
+2021,Indonesia,Aceh,flood (general),1
+2021,Mongolia,Khovd,flash flood,1
+2021,Mongolia,and Khovd,sand/dust storm,1
+2021,Thailand,Pattani,flood (general),1
+2021,Thailand,Ranong and Saraburi,flood (general),1
+2021,Türkiye,Osmaniye,forest fire,1
+2021,Viet Nam,Lao Cai,flash flood,1
+2021,Viet Nam,Nam Dinh,tropical cyclone,1
+2022,Afghanistan,Nangarhar,flash flood,1
+2022,Afghanistan,Parwan and Panjshir,flash flood,1
+2022,Afghanistan,Urozgan,flash flood,1
+2022,China,Gansu,flood (general),1
+2022,Indonesia,Central Sulawesi and Gorontalo,flood (general),1
+2022,Mongolia,Selenge,flash flood,1
+2022,Pakistan,Gilgit Baltistan and Kashmir,flood (general),1
+2022,Philippines,Davao de Oro and Sarangani,flash flood,1
+2022,Philippines,Negros Occidental and Iloilo,tropical cyclone,1
+2022,Republic of Korea,Gangwon and Gyeongg,flood (general),1
+2022,Sri Lanka,Central,severe weather,1
+2022,Thailand,Nonthaburi,flood (general),1
+2022,Thailand,Phayao and Nakhon Ratchasima,flood (general),1
+2022,Türkiye,Yozgat,flood (general),1
+2022,Viet Nam,Bac Kan and Cao Bang,flood (general),1
+2022,Viet Nam,Kon Tum,storm surge,1
+2023,Indonesia,Southeast Sulawesi and Central Sulawesi,severe weather,1
+2023,Thailand,Narathiwat,flood (general),1
+2023,Türkiye,Sakarya,extra-tropical storm,1

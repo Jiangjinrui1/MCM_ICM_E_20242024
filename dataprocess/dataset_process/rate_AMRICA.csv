@@ -1,0 +1,712 @@
+Country,province,Disaster Subtype,rate
+Argentina,Buenos Aires,cold wave,0.00022742779167614282
+Argentina,Buenos Aires,flood (general),0.00011371389583807141
+Argentina,Buenos Aires,lightning/thunderstorms,0.0003411416875142142
+Argentina,Buenos Aires,riverine flood,0.00011371389583807141
+Argentina,Buenos Aires,storm (general),0.00011371389583807141
+Argentina,Cardoba,riverine flood,0.00011371389583807141
+Argentina,Catamarca,landslide (wet),0.00011371389583807141
+Argentina,Chubut,ash fall,0.00011371389583807141
+Argentina,Corrientes,flood (general),0.00011371389583807141
+Argentina,Corrientes,riverine flood,0.00011371389583807141
+Argentina,Entre Rios,riverine flood,0.00011371389583807141
+Argentina,Entre Ríos,flood (general),0.00011371389583807141
+Argentina,Formosa,flood (general),0.00011371389583807141
+Argentina,Formosa,forest fire,0.00011371389583807141
+Argentina,Formosa,riverine flood,0.00011371389583807141
+Argentina,Jujuy,storm (general),0.00011371389583807141
+Argentina,La Cordoba,flood (general),0.00011371389583807141
+Argentina,La Rioja,riverine flood,0.00011371389583807141
+Argentina,La Rioja,severe winter conditions,0.00011371389583807141
+Argentina,Misiones,severe weather,0.00011371389583807141
+Argentina,Neuquen,ash fall,0.00011371389583807141
+Argentina,Neuquen,forest fire,0.00011371389583807141
+Argentina,Neuquen,riverine flood,0.00011371389583807141
+Argentina,Rio Negro,ash fall,0.00011371389583807141
+Argentina,Salta,riverine flood,0.00011371389583807141
+Argentina,Santa Cruz,cold wave,0.00011371389583807141
+Argentina,Santa Cruz,flood (general),0.00011371389583807141
+Argentina,Santa Fe,drought,0.00011371389583807141
+Argentina,Santa Fe,flood (general),0.00022742779167614282
+Argentina,Santa Fe,riverine flood,0.0006822833750284285
+Argentina,Santiago del Estero,drought,0.00022742779167614282
+Argentina,Santiago del Estero,riverine flood,0.00011371389583807141
+Argentina,Tucuman,cold wave,0.00022742779167614282
+Argentina,Tucuman,riverine flood,0.00022742779167614282
+Barbados,Christ Church,tropical cyclone,0.00022742779167614282
+Belize,Corozal,flood (general),0.00011371389583807141
+Belize,Orange Walk,riverine flood,0.00011371389583807141
+Belize,Orange Walk,tropical cyclone,0.0003411416875142142
+Belize,Stann Creek,tropical cyclone,0.0003411416875142142
+Belize,Toledo,tropical cyclone,0.00022742779167614282
+Bolivia (Plurinational State of),Beni,drought,0.00011371389583807141
+Bolivia (Plurinational State of),Beni,riverine flood,0.00022742779167614282
+Bolivia (Plurinational State of),Chuquisaca,drought,0.00011371389583807141
+Bolivia (Plurinational State of),Cochabamba,heat wave,0.00011371389583807141
+Bolivia (Plurinational State of),La Paz,cold wave,0.00011371389583807141
+Bolivia (Plurinational State of),La Paz,drought,0.00011371389583807141
+Bolivia (Plurinational State of),La Paz,flash flood,0.00011371389583807141
+Bolivia (Plurinational State of),La Paz,flood (general),0.00011371389583807141
+Bolivia (Plurinational State of),La Paz,forest fire,0.00011371389583807141
+Bolivia (Plurinational State of),La Paz,riverine flood,0.00022742779167614282
+Bolivia (Plurinational State of),La Paz and Santa Cruz,riverine flood,0.00011371389583807141
+Bolivia (Plurinational State of),Pando,flood (general),0.00011371389583807141
+Bolivia (Plurinational State of),Pando,forest fire,0.00011371389583807141
+Bolivia (Plurinational State of),Potosi,cold wave,0.00011371389583807141
+Bolivia (Plurinational State of),Santa Cruz,drought,0.00011371389583807141
+Bolivia (Plurinational State of),Santa Cruz,riverine flood,0.00011371389583807141
+Bolivia (Plurinational State of),Tarija,drought,0.00011371389583807141
+Bolivia (Plurinational State of),Tarija,flood (general),0.00011371389583807141
+Bolivia (Plurinational State of),Tarija,forest fire,0.00011371389583807141
+Bolivia (Plurinational State of),Tarija,riverine flood,0.0007959972708664999
+Bolivia (Plurinational State of),Tarija,severe weather,0.00011371389583807141
+Brazil,Acre,riverine flood,0.00011371389583807141
+Brazil,Amazonas,riverine flood,0.00011371389583807141
+Brazil,Bahia,drought,0.00011371389583807141
+Brazil,Ceara,riverine flood,0.00011371389583807141
+Brazil,Espirito Santo,riverine flood,0.00022742779167614282
+Brazil,Minas Gerais,drought,0.00011371389583807141
+Brazil,Minas Gerais,heat wave,0.00011371389583807141
+Brazil,Minas Gerais,riverine flood,0.0003411416875142142
+Brazil,Parana,cold wave,0.00011371389583807141
+Brazil,Parana,lightning/thunderstorms,0.00011371389583807141
+Brazil,Paraíba,flash flood,0.00011371389583807141
+Brazil,Pernambuco,drought,0.00011371389583807141
+Brazil,Pernambuco,mudslide,0.00011371389583807141
+Brazil,Pernambuco,riverine flood,0.00022742779167614282
+Brazil,Piaui,drought,0.00011371389583807141
+Brazil,Rio De Janeiro,riverine flood,0.00011371389583807141
+Brazil,Rio Grande Do Sul,riverine flood,0.00011371389583807141
+Brazil,Rio Grande do Norte,riverine flood,0.00011371389583807141
+Brazil,Rio Grande do Sul,extra-tropical storm,0.00011371389583807141
+Brazil,Rio Grande do Sul,riverine flood,0.00022742779167614282
+Brazil,Rio de Janeiro,flash flood,0.0003411416875142142
+Brazil,Rio de Janeiro,mudslide,0.00022742779167614282
+Brazil,Rio de Janeiro,riverine flood,0.0006822833750284285
+Brazil,Santa Catarina,flood (general),0.00011371389583807141
+Brazil,Santa Catarina,severe weather,0.00011371389583807141
+Brazil,Sao Paulo,flood (general),0.00011371389583807141
+Brazil,Sao Paulo,riverine flood,0.00022742779167614282
+Brazil,Sao Paulo,storm (general),0.00011371389583807141
+Brazil,Sergipe,drought,0.00011371389583807141
+Canada,Alberta,forest fire,0.00022742779167614282
+Canada,Alberta,riverine flood,0.00022742779167614282
+Canada,Alberta,severe weather,0.00011371389583807141
+Canada,Alberta,tornado,0.00011371389583807141
+Canada,Bristish Columbia,riverine flood,0.00011371389583807141
+Canada,British Columbia,forest fire,0.00011371389583807141
+Canada,British Columbia,riverine flood,0.00022742779167614282
+Canada,Manitoba,forest fire,0.00011371389583807141
+Canada,Manitoba,riverine flood,0.00011371389583807141
+Canada,New Brunswick,riverine flood,0.00011371389583807141
+Canada,Newfoundland and Labrador,blizzard/winter storm,0.00011371389583807141
+Canada,Newfoundland and Labrador,riverine flood,0.0003411416875142142
+Canada,Newfoundland and Labrador,tropical cyclone,0.00011371389583807141
+Canada,North Ontario,riverine flood,0.00011371389583807141
+Canada,Northwest Territories,riverine flood,0.00011371389583807141
+Canada,Nova Scotia,blizzard/winter storm,0.00011371389583807141
+Canada,Ontario,flash flood,0.00011371389583807141
+Canada,Ontario,riverine flood,0.0003411416875142142
+Canada,Ontario,tornado,0.00011371389583807141
+Canada,Prince Edward Island,blizzard/winter storm,0.00011371389583807141
+Canada,Prince Edward Island,tropical cyclone,0.00022742779167614282
+Canada,Quebec,blizzard/winter storm,0.00011371389583807141
+Canada,Quebec,flash flood,0.00022742779167614282
+Canada,Quebec,severe winter conditions,0.00011371389583807141
+Canada,Saskatchewan,cold wave,0.00011371389583807141
+Canada,Saskatchewan,riverine flood,0.00011371389583807141
+Canada,Southern Alberta,riverine flood,0.00011371389583807141
+Cayman Islands,Cayman Brac,tropical cyclone,0.00022742779167614282
+Cayman Islands,Little Cayman,tropical cyclone,0.00011371389583807141
+Chile,Aisen del General Carlos Ibañez del Campo,tsunami,0.00011371389583807141
+Chile,Araucania,ash fall,0.00011371389583807141
+Chile,Araucania,forest fire,0.00011371389583807141
+Chile,Araucania,riverine flood,0.00022742779167614282
+Chile,Araucania,severe winter conditions,0.00022742779167614282
+Chile,Arica y Painacota,flood (general),0.00011371389583807141
+Chile,Biobio,blizzard/winter storm,0.00011371389583807141
+Chile,Coquimbo,flash flood,0.00011371389583807141
+Chile,Coquimbo,severe weather,0.00011371389583807141
+Chile,Los Lagos,ash fall,0.00022742779167614282
+Chile,Los Lagos,flood (general),0.00011371389583807141
+Chile,Los Lagos,storm (general),0.00011371389583807141
+Chile,Los Rios,ash fall,0.00011371389583807141
+Chile,Los Rios,flood (general),0.00011371389583807141
+Chile,Los Rios,riverine flood,0.00011371389583807141
+Chile,Magallanes y Antartica chilena,wildfire (general),0.00011371389583807141
+Chile,Maule,ground movement,0.00011371389583807141
+Chile,Maule,riverine flood,0.00045485558335228563
+Chile,Metropolitana,riverine flood,0.00011371389583807141
+Chile,Tarapaca,cold wave,0.00011371389583807141
+Chile,Tarapaca,ground movement,0.00022742779167614282
+Chile,Tarapaca,riverine flood,0.00011371389583807141
+Chile,Valparaiso,cold wave,0.00022742779167614282
+Chile,Valparaiso,severe winter conditions,0.00011371389583807141
+Chile,Valparaiso,tsunami,0.00011371389583807141
+Colombia,Amazonas,landslide (wet),0.00011371389583807141
+Colombia,Amazonas,riverine flood,0.00011371389583807141
+Colombia,Antioquia,landslide (wet),0.00022742779167614282
+Colombia,Antioquia,riverine flood,0.00011371389583807141
+Colombia,Bolivar,mudslide,0.00011371389583807141
+Colombia,Caldas,riverine flood,0.00011371389583807141
+Colombia,Caqueta,riverine flood,0.00011371389583807141
+Colombia,Casanare,drought,0.00011371389583807141
+Colombia,Casanare,riverine flood,0.00011371389583807141
+Colombia,Cauca,ash fall,0.00011371389583807141
+Colombia,Cauca,riverine flood,0.00011371389583807141
+Colombia,Choco,riverine flood,0.00022742779167614282
+Colombia,Cordoba,riverine flood,0.00022742779167614282
+Colombia,Cundinamarca,landslide (wet),0.00011371389583807141
+Colombia,Guajira,riverine flood,0.00011371389583807141
+Colombia,Guaviare,riverine flood,0.00022742779167614282
+Colombia,Huila,riverine flood,0.00011371389583807141
+Colombia,Magdalena,riverine flood,0.00022742779167614282
+Colombia,Meta,ground movement,0.00011371389583807141
+Colombia,Nariño,riverine flood,0.00011371389583807141
+Colombia,Putumayo,riverine flood,0.00011371389583807141
+Colombia,San Andres y Providencia,tropical cyclone,0.00011371389583807141
+Colombia,Tolima,riverine flood,0.0003411416875142142
+Colombia,Valle,flood (general),0.00011371389583807141
+Colombia,Valle Del Cauca,ground movement,0.00011371389583807141
+Colombia,Valle Del Cauca,riverine flood,0.00011371389583807141
+Colombia,Valle del Cauca,riverine flood,0.00011371389583807141
+Colombia,Vichada,forest fire,0.00011371389583807141
+Colombia,Vichada,riverine flood,0.00011371389583807141
+Colombia,Vichada,wildfire (general),0.00011371389583807141
+Costa Rica,Alajuela,riverine flood,0.0003411416875142142
+Costa Rica,Cartago,riverine flood,0.00011371389583807141
+Costa Rica,Guanacaste,flood (general),0.00011371389583807141
+Costa Rica,Guanacaste,riverine flood,0.00011371389583807141
+Costa Rica,Limon,riverine flood,0.00045485558335228563
+Costa Rica,Puntarenas,ground movement,0.00011371389583807141
+Costa Rica,Puntarenas,landslide (wet),0.00011371389583807141
+Costa Rica,Puntarenas,riverine flood,0.00011371389583807141
+Costa Rica,Puntarenas,tropical cyclone,0.00011371389583807141
+Costa Rica,San Jose,drought,0.00011371389583807141
+Costa Rica,San Jose,riverine flood,0.00011371389583807141
+Cuba,Camaguey,drought,0.00011371389583807141
+Cuba,Camagüey,tropical cyclone,0.00011371389583807141
+Cuba,Ciego de Avila,storm (general),0.00011371389583807141
+Cuba,Ciego de Avila,tropical cyclone,0.00011371389583807141
+Cuba,Granma,tropical cyclone,0.00011371389583807141
+Cuba,Guantanamo,riverine flood,0.00011371389583807141
+Cuba,Guantanamo,tropical cyclone,0.00011371389583807141
+Cuba,Guatanamo,tropical cyclone,0.00011371389583807141
+Cuba,Holguín,tropical cyclone,0.00011371389583807141
+Cuba,Isla De La Juventud,tropical cyclone,0.00022742779167614282
+Cuba,Isla de la Juventud,tropical cyclone,0.00011371389583807141
+Cuba,Isla dela Juventud,tropical cyclone,0.00011371389583807141
+Cuba,La Habane,drought,0.00011371389583807141
+Cuba,Matanzas,tropical cyclone,0.00022742779167614282
+Cuba,Pinar del Rio,tropical cyclone,0.00011371389583807141
+Cuba,Santiago de Cuba,riverine flood,0.00011371389583807141
+Cuba,Santiago de Cuba,tropical cyclone,0.00022742779167614282
+Cuba,Villa Clara,drought,0.00011371389583807141
+Cuba,Villa Clara,riverine flood,0.00011371389583807141
+Cuba,and Havana,tropical cyclone,0.00011371389583807141
+Cuba,and Matanzas,tropical cyclone,0.00011371389583807141
+Dominican Republic,Baoruco,tropical cyclone,0.00011371389583807141
+Dominican Republic,Distrito Nacional,tropical cyclone,0.00011371389583807141
+Dominican Republic,Duarte and Barahona,storm (general),0.00011371389583807141
+Dominican Republic,El Seibo,riverine flood,0.00011371389583807141
+Dominican Republic,La Altagracia,tropical cyclone,0.00011371389583807141
+Dominican Republic,Maria Trinidad Sanches,flash flood,0.00011371389583807141
+Dominican Republic,Monsenor Nouel,tropical cyclone,0.00011371389583807141
+Dominican Republic,Monte Cristi,riverine flood,0.00011371389583807141
+Dominican Republic,Puerto Plata,flash flood,0.00011371389583807141
+Dominican Republic,Puerto Plata,tropical cyclone,0.00011371389583807141
+Dominican Republic,San José de Ocoa,tropical cyclone,0.00011371389583807141
+Dominican Republic,San Pedro de Macoris,tropical cyclone,0.00011371389583807141
+Dominican Republic,Sanchez Ramirez,flood (general),0.00011371389583807141
+Dominican Republic,Sanchez Ramirez,riverine flood,0.00011371389583807141
+Dominican Republic,Santiago,riverine flood,0.00011371389583807141
+Dominican Republic,Santiago Rodrigez,riverine flood,0.00011371389583807141
+Dominican Republic,Santo Domingo,tropical cyclone,0.00022742779167614282
+Dominican Republic,Valverde,coastal flood,0.00011371389583807141
+Dominican Republic,Valverde,flash flood,0.00011371389583807141
+Dominican Republic,Valverde,riverine flood,0.00045485558335228563
+Dominican Republic,Valverde,tropical cyclone,0.0006822833750284285
+Ecuador,Azuay,landslide (wet),0.00011371389583807141
+Ecuador,Chimborazo,ash fall,0.00011371389583807141
+Ecuador,Chimborazo,volcanic activity (general),0.00011371389583807141
+Ecuador,El Oro,flash flood,0.00011371389583807141
+Ecuador,El Oro,flood (general),0.00011371389583807141
+Ecuador,Esmeraldas,landslide (wet),0.00011371389583807141
+Ecuador,Guayas,ash fall,0.00011371389583807141
+Ecuador,Guayas,riverine flood,0.00022742779167614282
+Ecuador,Imbabura,flood (general),0.00011371389583807141
+Ecuador,Loja,forest fire,0.00011371389583807141
+Ecuador,Los Rios,riverine flood,0.00011371389583807141
+Ecuador,Manabi,ash fall,0.00011371389583807141
+Ecuador,Morona Santiago,landslide (dry),0.00011371389583807141
+Ecuador,Napo,riverine flood,0.00011371389583807141
+Ecuador,Orellana,riverine flood,0.00011371389583807141
+Ecuador,Pastaza,flood (general),0.00011371389583807141
+Ecuador,Pichincha,lava flow,0.00011371389583807141
+Ecuador,Pincincha,riverine flood,0.00011371389583807141
+Ecuador,Santa Elena,ground movement,0.00011371389583807141
+Ecuador,Santa Elena,riverine flood,0.00011371389583807141
+Ecuador,Sucumbios,landslide (wet),0.00011371389583807141
+Ecuador,Tungurahua,drought,0.00011371389583807141
+Ecuador,Tungurahua,riverine flood,0.00022742779167614282
+Ecuador,Zamora Chinchipe,riverine flood,0.00011371389583807141
+Ecuador,Zona No Delimitada,riverine flood,0.00011371389583807141
+El Salvador,Chalatenango,drought,0.00011371389583807141
+El Salvador,La Libertad,ground movement,0.00011371389583807141
+El Salvador,La Libertad,tropical cyclone,0.00022742779167614282
+El Salvador,La Union,drought,0.00011371389583807141
+El Salvador,La Union,storm surge,0.00011371389583807141
+El Salvador,San Miguel,riverine flood,0.00011371389583807141
+El Salvador,San Salvador,riverine flood,0.00011371389583807141
+El Salvador,Usulutan,drought,0.00011371389583807141
+El Salvador,Usulutan,ground movement,0.00011371389583807141
+El Salvador,Usulutan,riverine flood,0.0005685694791903571
+El Salvador,Usulutan,tropical cyclone,0.0005685694791903571
+Guatemala,Alta Verapaz,landslide (wet),0.00011371389583807141
+Guatemala,Alta Verapaz,riverine flood,0.00022742779167614282
+Guatemala,Alta Verapraz,landslide (dry),0.00011371389583807141
+Guatemala,Chimaltenango,tropical cyclone,0.00011371389583807141
+Guatemala,Chiquimula,cold wave,0.00011371389583807141
+Guatemala,El Progreso,tropical cyclone,0.00011371389583807141
+Guatemala,Escuintla,ash fall,0.00022742779167614282
+Guatemala,Escuintla,drought,0.00011371389583807141
+Guatemala,Escuintla and Chimaltenango,ash fall,0.00011371389583807141
+Guatemala,Guatemala,ground movement,0.00022742779167614282
+Guatemala,Guatemala,landslide (wet),0.0003411416875142142
+Guatemala,Huehuetenango,drought,0.00011371389583807141
+Guatemala,Huehuetenango,landslide (wet),0.00011371389583807141
+Guatemala,Huehuetenango,riverine flood,0.00011371389583807141
+Guatemala,Huehuetenango,tropical cyclone,0.00011371389583807141
+Guatemala,Izabal,tropical cyclone,0.00011371389583807141
+Guatemala,Jalapa,riverine flood,0.00011371389583807141
+Guatemala,Jutiapa,cold wave,0.00011371389583807141
+Guatemala,Jutiapa,tropical cyclone,0.00011371389583807141
+Guatemala,Peten,riverine flood,0.00011371389583807141
+Guatemala,Quetzaltenango,tropical cyclone,0.00011371389583807141
+Guatemala,Quiché,drought,0.00011371389583807141
+Guatemala,Quiché,tropical cyclone,0.00011371389583807141
+Guatemala,Sacatepéquez,ash fall,0.00011371389583807141
+Guatemala,San Marcos,ground movement,0.00011371389583807141
+Guatemala,San Marcos,landslide (wet),0.00011371389583807141
+Guatemala,San Marcos,riverine flood,0.00011371389583807141
+Guatemala,San Marcos,tropical cyclone,0.00022742779167614282
+Guatemala,Suchitepequez,riverine flood,0.00011371389583807141
+Guatemala,Totonicapan,ground movement,0.00011371389583807141
+Guatemala,Totonicapan,landslide (wet),0.00011371389583807141
+Guatemala,Totonicapan,severe winter conditions,0.00011371389583807141
+Guatemala,Zacapa,cold wave,0.00011371389583807141
+Guatemala,Zacapa,riverine flood,0.00045485558335228563
+Haiti,Artibonite,tropical cyclone,0.00022742779167614282
+Haiti,Centre,riverine flood,0.00011371389583807141
+Haiti,Centre,tropical cyclone,0.00011371389583807141
+Haiti,Grande Anse,flood (general),0.00011371389583807141
+Haiti,Grande Anse,riverine flood,0.00011371389583807141
+Haiti,Grande Anse,tropical cyclone,0.0003411416875142142
+Haiti,Nippes,flash flood,0.00022742779167614282
+Haiti,Nippes,tropical cyclone,0.00011371389583807141
+Haiti,Nord,flood (general),0.00011371389583807141
+Haiti,Nord,riverine flood,0.00011371389583807141
+Haiti,Nord Est,riverine flood,0.00022742779167614282
+Haiti,Nord Ouest,drought,0.00011371389583807141
+Haiti,Nord Ouest,riverine flood,0.00022742779167614282
+Haiti,Nord Ouest,tropical cyclone,0.0003411416875142142
+Haiti,Ouest,flash flood,0.00011371389583807141
+Haiti,Ouest,flood (general),0.00022742779167614282
+Haiti,Ouest,riverine flood,0.0003411416875142142
+Haiti,Ouest,tropical cyclone,0.00011371389583807141
+Haiti,Sud,drought,0.00011371389583807141
+Haiti,Sud,riverine flood,0.0003411416875142142
+Haiti,Sud,tropical cyclone,0.00011371389583807141
+Haiti,Sud Est,flood (general),0.00011371389583807141
+Haiti,Sud Est,ground movement,0.00011371389583807141
+Haiti,Sud Est,riverine flood,0.00022742779167614282
+Haiti,Sud Est,tropical cyclone,0.00045485558335228563
+Honduras,Colon,flood (general),0.00011371389583807141
+Honduras,Colon,riverine flood,0.00011371389583807141
+Honduras,Colon,tropical cyclone,0.00011371389583807141
+Honduras,Comayagua,tropical cyclone,0.00022742779167614282
+Honduras,Cortes,flood (general),0.00011371389583807141
+Honduras,Francisco Morazan,drought,0.00022742779167614282
+Honduras,Francisco Morazan,riverine flood,0.0003411416875142142
+Honduras,Intibuca,drought,0.00011371389583807141
+Honduras,Intibuca,riverine flood,0.00011371389583807141
+Honduras,Islas De Bahia,tropical cyclone,0.00011371389583807141
+Honduras,Lempira,drought,0.00011371389583807141
+Honduras,Paraiso,tropical cyclone,0.00011371389583807141
+Honduras,Paraíso,flood (general),0.00011371389583807141
+Honduras,Valle,drought,0.00011371389583807141
+Honduras,Yoro,drought,0.00011371389583807141
+Honduras,Yoro,forest fire,0.00011371389583807141
+Honduras,Yoro,riverine flood,0.0005685694791903571
+Honduras,Yoro,tropical cyclone,0.00011371389583807141
+Jamaica,Hanover,tropical cyclone,0.00011371389583807141
+Jamaica,Manchester,tropical cyclone,0.00011371389583807141
+Jamaica,Portland,riverine flood,0.00011371389583807141
+Jamaica,Saint Andrew And Kingston,drought,0.00011371389583807141
+Jamaica,Saint Andrew And Kingston,tropical cyclone,0.0003411416875142142
+Jamaica,Saint Elizabeth,riverine flood,0.00011371389583807141
+Jamaica,Saint Elizabeth,tropical cyclone,0.00011371389583807141
+Jamaica,Saint Mary,tropical cyclone,0.00011371389583807141
+Jamaica,Saint Thomas,tropical cyclone,0.00011371389583807141
+Jamaica,Westmoreland,drought,0.00011371389583807141
+Jamaica,Westmoreland,tropical cyclone,0.0005685694791903571
+Martinique,Le Marin,tropical cyclone,0.00022742779167614282
+Mexico,Baja California,tropical cyclone,0.00011371389583807141
+Mexico,Baja California Sur,cold wave,0.00011371389583807141
+Mexico,Baja California Sur,tropical cyclone,0.0003411416875142142
+Mexico,Chiapas,landslide (wet),0.00011371389583807141
+Mexico,Chiapas,riverine flood,0.00011371389583807141
+Mexico,Chiapas,tropical cyclone,0.00011371389583807141
+Mexico,Coahuila,flash flood,0.00011371389583807141
+Mexico,Coahuila,tropical cyclone,0.00011371389583807141
+Mexico,Colima,ash fall,0.00011371389583807141
+Mexico,Colima,tropical cyclone,0.00011371389583807141
+Mexico,Durango,landslide (wet),0.00011371389583807141
+Mexico,Guerrero,riverine flood,0.00011371389583807141
+Mexico,Guerrero,severe weather,0.00011371389583807141
+Mexico,Guerrero,tropical cyclone,0.00011371389583807141
+Mexico,Jalisco,tropical cyclone,0.00011371389583807141
+Mexico,Mexico,ground movement,0.00011371389583807141
+Mexico,Michoacan,ground movement,0.00011371389583807141
+Mexico,Michoacan,riverine flood,0.00011371389583807141
+Mexico,Morelos,ash fall,0.00011371389583807141
+Mexico,Nayarit,tropical cyclone,0.00011371389583807141
+Mexico,Nuevo León,tropical cyclone,0.00011371389583807141
+Mexico,Oaxaca,flash flood,0.00011371389583807141
+Mexico,Oaxaca,flood (general),0.00011371389583807141
+Mexico,Oaxaca,landslide (wet),0.00022742779167614282
+Mexico,Oaxaca,riverine flood,0.00022742779167614282
+Mexico,Oaxaca,severe weather,0.00011371389583807141
+Mexico,Oaxaca,tropical cyclone,0.0010234250625426426
+Mexico,Puebla,riverine flood,0.00011371389583807141
+Mexico,Puebla,tropical cyclone,0.00045485558335228563
+Mexico,Quintana Roo,tropical cyclone,0.00011371389583807141
+Mexico,San Luis Potosi,drought,0.00022742779167614282
+Mexico,San Luis Potosi,flash flood,0.00011371389583807141
+Mexico,San Luis Potosi,tropical cyclone,0.00011371389583807141
+Mexico,Sinaloa,tropical cyclone,0.0003411416875142142
+Mexico,Sonora,forest fire,0.00011371389583807141
+Mexico,Tabasco,coastal flood,0.00011371389583807141
+Mexico,Tabasco,riverine flood,0.00011371389583807141
+Mexico,Tabasco,tropical cyclone,0.00011371389583807141
+Mexico,Tamaulipas,cold wave,0.00011371389583807141
+Mexico,Tamaulipas,riverine flood,0.00011371389583807141
+Mexico,Tamaulipas,tropical cyclone,0.00022742779167614282
+Mexico,Tlaxcala,cold wave,0.00011371389583807141
+Mexico,Veracruz,coastal flood,0.00011371389583807141
+Mexico,Veracruz,tropical cyclone,0.0003411416875142142
+Mexico,Yucatan,tropical cyclone,0.00011371389583807141
+Mexico,Zacatecas,cold wave,0.00011371389583807141
+Mexico,Zacatecas,flash flood,0.00011371389583807141
+Montserrat,Salem,ash fall,0.00011371389583807141
+Nicaragua,Atlantico Norte,tropical cyclone,0.00011371389583807141
+Nicaragua,Atlantico Sur,mudslide,0.00011371389583807141
+Nicaragua,Atlantico Sur,riverine flood,0.00011371389583807141
+Nicaragua,Chinandega,riverine flood,0.00011371389583807141
+Nicaragua,Granada,tropical cyclone,0.00022742779167614282
+Nicaragua,Jinotega,tropical cyclone,0.00011371389583807141
+Nicaragua,Managua,riverine flood,0.00022742779167614282
+Nicaragua,Masaya,ground movement,0.00011371389583807141
+Nicaragua,Matagalpa,drought,0.00011371389583807141
+Nicaragua,Matagalpa,riverine flood,0.00011371389583807141
+Nicaragua,Nueva Segovia,drought,0.00011371389583807141
+Nicaragua,Nueva Segovia,riverine flood,0.00011371389583807141
+Nicaragua,Rivas,drought,0.00011371389583807141
+Nicaragua,Rivas,forest fire,0.00011371389583807141
+Nicaragua,Rivas,riverine flood,0.00045485558335228563
+Nicaragua,Rivas,tropical cyclone,0.00022742779167614282
+Panama,Bocas del Toro,riverine flood,0.00011371389583807141
+Panama,Chiriqui,flash flood,0.00011371389583807141
+Panama,Chiriqui,ground movement,0.00011371389583807141
+Panama,Chiriqui,riverine flood,0.00022742779167614282
+Panama,Colon,flash flood,0.00011371389583807141
+Panama,Colon,riverine flood,0.0003411416875142142
+Panama,Darien,riverine flood,0.00022742779167614282
+Panama,Embera,riverine flood,0.00011371389583807141
+Panama,Herrera,drought,0.00011371389583807141
+Panama,Kuna Yala,wildfire (general),0.00011371389583807141
+Panama,Los Santos,riverine flood,0.00011371389583807141
+Panama,Ngobe Bugle,riverine flood,0.00011371389583807141
+Panama,Panama,riverine flood,0.00011371389583807141
+Panama,Panama,tropical cyclone,0.00011371389583807141
+Panama,Veraguas,drought,0.00011371389583807141
+Panama,Veraguas,riverine flood,0.00022742779167614282
+Paraguay,Alto Paraguay,drought,0.00011371389583807141
+Paraguay,Amambay,forest fire,0.00011371389583807141
+Paraguay,Amambay,storm (general),0.00011371389583807141
+Paraguay,Boqueron,drought,0.00011371389583807141
+Paraguay,Caaguazu,drought,0.00011371389583807141
+Paraguay,Caaguazu,severe weather,0.00011371389583807141
+Paraguay,Canindeyu,drought,0.00011371389583807141
+Paraguay,Central,riverine flood,0.00011371389583807141
+Paraguay,Concepcion,hail,0.00011371389583807141
+Paraguay,Guaira,riverine flood,0.00011371389583807141
+Paraguay,Neembucu,riverine flood,0.00011371389583807141
+Paraguay,Neembucu,severe weather,0.00011371389583807141
+Paraguay,Neembucú,drought,0.00011371389583807141
+Paraguay,Presidente Hayes,drought,0.00011371389583807141
+Paraguay,Presidente Hayes,riverine flood,0.00011371389583807141
+Paraguay,San Pedro,cold wave,0.0003411416875142142
+Paraguay,San Pedro,riverine flood,0.00011371389583807141
+Peru,Apurimac,blizzard/winter storm,0.00011371389583807141
+Peru,Apurimac,cold wave,0.00011371389583807141
+Peru,Arequipa,drought,0.00011371389583807141
+Peru,Arequipa,ground movement,0.00022742779167614282
+Peru,Arequipa,riverine flood,0.00022742779167614282
+Peru,Ayacucho,landslide (wet),0.00011371389583807141
+Peru,Ayacucho,tsunami,0.00011371389583807141
+Peru,Cajamarca,landslide (wet),0.00011371389583807141
+Peru,Cusco,ground movement,0.00011371389583807141
+Peru,Cusco,landslide (wet),0.00011371389583807141
+Peru,Cuzco,mudslide,0.00011371389583807141
+Peru,El Santa,flood (general),0.00011371389583807141
+Peru,Huancavelica,flash flood,0.00011371389583807141
+Peru,Huancavelica,riverine flood,0.00011371389583807141
+Peru,Huanuco,cold wave,0.00011371389583807141
+Peru,Huanuco,riverine flood,0.00022742779167614282
+Peru,Ica,ground movement,0.0003411416875142142
+Peru,Ica,riverine flood,0.00011371389583807141
+Peru,Junin,flash flood,0.00011371389583807141
+Peru,Junin,flood (general),0.00011371389583807141
+Peru,Junin,landslide (wet),0.00011371389583807141
+Peru,La Libertad,landslide (wet),0.00011371389583807141
+Peru,La Libertad,riverine flood,0.00011371389583807141
+Peru,Lima,riverine flood,0.00011371389583807141
+Peru,Loreto,cold wave,0.00011371389583807141
+Peru,Loreto,riverine flood,0.00011371389583807141
+Peru,Marañón,flash flood,0.00011371389583807141
+Peru,Moquegua,ash fall,0.00011371389583807141
+Peru,Moquegua,cold wave,0.00011371389583807141
+Peru,Moquegua,riverine flood,0.00011371389583807141
+Peru,Pasco,riverine flood,0.00022742779167614282
+Peru,Paucar del Sara Sara,ground movement,0.00011371389583807141
+Peru,Puno,ground movement,0.00011371389583807141
+Peru,Puno,riverine flood,0.00022742779167614282
+Peru,Puno,rockfall (wet),0.00011371389583807141
+Peru,San Martin,landslide (wet),0.00011371389583807141
+Peru,San Martin,riverine flood,0.0003411416875142142
+Peru,Satipo,flood (general),0.00011371389583807141
+Peru,Tacna,severe winter conditions,0.00022742779167614282
+Peru,Ucayali,blizzard/winter storm,0.00011371389583807141
+Peru,Ucayali,cold wave,0.00022742779167614282
+Peru,Ucayali,drought,0.00011371389583807141
+Peru,Ucayali,riverine flood,0.00022742779167614282
+Puerto Rico,Guayanilla,ground movement,0.00011371389583807141
+Puerto Rico,San Juan,flash flood,0.00011371389583807141
+Puerto Rico,San Juan,tropical cyclone,0.0006822833750284285
+Saint Lucia,Region Number 8,tropical cyclone,0.0003411416875142142
+Saint Vincent and the Grenadines,Saint David,riverine flood,0.00011371389583807141
+Saint Vincent and the Grenadines,Saint Patrick,tropical cyclone,0.0003411416875142142
+Suriname,Sipaliwini,riverine flood,0.00011371389583807141
+Turks and Caicos Islands,Providenciales and West Caicos,tropical cyclone,0.00011371389583807141
+Turks and Caicos Islands,South and East Caicos,tropical cyclone,0.00011371389583807141
+United States Virgin Islands,Saint Croix,tropical cyclone,0.00011371389583807141
+United States of America,Alabama,heat wave,0.00011371389583807141
+United States of America,Alabama,tropical cyclone,0.00022742779167614282
+United States of America,Alaska,forest fire,0.00011371389583807141
+United States of America,Alaska,riverine flood,0.00011371389583807141
+United States of America,Arizona,blizzard/winter storm,0.00011371389583807141
+United States of America,Arizona,drought,0.00011371389583807141
+United States of America,Arizona,forest fire,0.00022742779167614282
+United States of America,Arizona,riverine flood,0.00011371389583807141
+United States of America,Arkansas,blizzard/winter storm,0.00022742779167614282
+United States of America,Arkansas,tornado,0.00022742779167614282
+United States of America,California,forest fire,0.0005685694791903571
+United States of America,California,ground movement,0.00045485558335228563
+United States of America,California,heat wave,0.00011371389583807141
+United States of America,California,"land fire (brush, bush, pasture)",0.00011371389583807141
+United States of America,California,riverine flood,0.00011371389583807141
+United States of America,California,wildfire (general),0.00011371389583807141
+United States of America,Californie,forest fire,0.00011371389583807141
+United States of America,Colorado,forest fire,0.00011371389583807141
+United States of America,Colorado,riverine flood,0.00011371389583807141
+United States of America,Colorado,severe weather,0.00011371389583807141
+United States of America,Colorado,storm (general),0.00011371389583807141
+United States of America,Colorado,wildfire (general),0.00011371389583807141
+United States of America,Connecticut,blizzard/winter storm,0.00011371389583807141
+United States of America,Connecticut,lightning/thunderstorms,0.00011371389583807141
+United States of America,District of Columbia,blizzard/winter storm,0.00022742779167614282
+United States of America,District of Columbia,cold wave,0.00011371389583807141
+United States of America,District of Columbia,tropical cyclone,0.00011371389583807141
+United States of America,Florida,forest fire,0.00022742779167614282
+United States of America,Florida,severe weather,0.00022742779167614282
+United States of America,Florida,tornado,0.00022742779167614282
+United States of America,Florida,tropical cyclone,0.0003411416875142142
+United States of America,Georgia,forest fire,0.00011371389583807141
+United States of America,Georgia,riverine flood,0.00011371389583807141
+United States of America,Georgia,tropical cyclone,0.00011371389583807141
+United States of America,Hawaii,riverine flood,0.00011371389583807141
+United States of America,Illinois,lightning/thunderstorms,0.00011371389583807141
+United States of America,Illinois,riverine flood,0.0003411416875142142
+United States of America,Illinois,severe weather,0.00011371389583807141
+United States of America,Illinois,storm (general),0.00011371389583807141
+United States of America,Illinois,tornado,0.0003411416875142142
+United States of America,Indiana,blizzard/winter storm,0.00011371389583807141
+United States of America,Indiana,severe weather,0.00011371389583807141
+United States of America,Iowa,blizzard/winter storm,0.00011371389583807141
+United States of America,Iowa,hail,0.00011371389583807141
+United States of America,Iowa,tornado,0.00022742779167614282
+United States of America,Iowa,tropical cyclone,0.00011371389583807141
+United States of America,Kansas,blizzard/winter storm,0.00011371389583807141
+United States of America,Kansas,tornado,0.00022742779167614282
+United States of America,Kentucky,riverine flood,0.00011371389583807141
+United States of America,Kentucky,severe winter conditions,0.00011371389583807141
+United States of America,Kentucky,storm (general),0.00011371389583807141
+United States of America,Kentucky,tornado,0.00022742779167614282
+United States of America,Louisiana,blizzard/winter storm,0.00011371389583807141
+United States of America,Louisiana,drought,0.00011371389583807141
+United States of America,Louisiana,flood (general),0.00011371389583807141
+United States of America,Louisiana,lightning/thunderstorms,0.00022742779167614282
+United States of America,Louisiana,riverine flood,0.00011371389583807141
+United States of America,Louisiana,tropical cyclone,0.00011371389583807141
+United States of America,Lousiana,lightning/thunderstorms,0.00011371389583807141
+United States of America,Maine,blizzard/winter storm,0.00011371389583807141
+United States of America,Maine,riverine flood,0.00011371389583807141
+United States of America,Maryland,blizzard/winter storm,0.00022742779167614282
+United States of America,Maryland,drought,0.00011371389583807141
+United States of America,Maryland,riverine flood,0.00011371389583807141
+United States of America,Maryland,tropical cyclone,0.00011371389583807141
+United States of America,Massachusetts,blizzard/winter storm,0.00022742779167614282
+United States of America,Massachusetts,riverine flood,0.00011371389583807141
+United States of America,Massachussetts,storm (general),0.00011371389583807141
+United States of America,Michigan,blizzard/winter storm,0.00011371389583807141
+United States of America,Michigan,tropical cyclone,0.00011371389583807141
+United States of America,Minnesota,blizzard/winter storm,0.00011371389583807141
+United States of America,Minnesota,riverine flood,0.00011371389583807141
+United States of America,Minnesota,tornado,0.00045485558335228563
+United States of America,Mississippi,heat wave,0.00011371389583807141
+United States of America,Mississippi,lightning/thunderstorms,0.00011371389583807141
+United States of America,Mississippi,severe weather,0.00011371389583807141
+United States of America,Mississippi,tornado,0.00022742779167614282
+United States of America,Mississippi,tropical cyclone,0.00022742779167614282
+United States of America,Mississppi,riverine flood,0.00011371389583807141
+United States of America,Missouri,cold wave,0.00011371389583807141
+United States of America,Missouri,riverine flood,0.00022742779167614282
+United States of America,Missouri,tornado,0.00045485558335228563
+United States of America,Missouri,tropical cyclone,0.00011371389583807141
+United States of America,Montana,lightning/thunderstorms,0.00011371389583807141
+United States of America,Nebraska,flood (general),0.00011371389583807141
+United States of America,Nebraska,lightning/thunderstorms,0.00022742779167614282
+United States of America,Nebraska,tornado,0.00011371389583807141
+United States of America,Nevada,ground movement,0.00011371389583807141
+United States of America,Nevada,riverine flood,0.00011371389583807141
+United States of America,Nevada,storm (general),0.00011371389583807141
+United States of America,New Jersey,blizzard/winter storm,0.00011371389583807141
+United States of America,New Jersey,riverine flood,0.00022742779167614282
+United States of America,New Mexico,blizzard/winter storm,0.00011371389583807141
+United States of America,New Mexico,lightning/thunderstorms,0.00011371389583807141
+United States of America,New York,blizzard/winter storm,0.00011371389583807141
+United States of America,New York,lightning/thunderstorms,0.00022742779167614282
+United States of America,North Carolina,blizzard/winter storm,0.00011371389583807141
+United States of America,North Carolina,heat wave,0.00011371389583807141
+United States of America,North Carolina,riverine flood,0.00011371389583807141
+United States of America,North Carolina,tropical cyclone,0.00022742779167614282
+United States of America,North Dakota,forest fire,0.00011371389583807141
+United States of America,North Dakota,riverine flood,0.00011371389583807141
+United States of America,North Dakota,tornado,0.00011371389583807141
+United States of America,Ohio,hail,0.00011371389583807141
+United States of America,Ohio,riverine flood,0.00022742779167614282
+United States of America,Ohio,severe weather,0.00011371389583807141
+United States of America,Ohio,storm (general),0.00011371389583807141
+United States of America,Ohio,tornado,0.00011371389583807141
+United States of America,Ohio,tropical cyclone,0.00011371389583807141
+United States of America,Oklahoma,blizzard/winter storm,0.00022742779167614282
+United States of America,Oklahoma,forest fire,0.00022742779167614282
+United States of America,Oklahoma,hail,0.00011371389583807141
+United States of America,Oklahoma,riverine flood,0.00045485558335228563
+United States of America,Oklahoma,tornado,0.00045485558335228563
+United States of America,Oregon,blizzard/winter storm,0.00011371389583807141
+United States of America,Oregon,riverine flood,0.00022742779167614282
+United States of America,Oregon,storm (general),0.00011371389583807141
+United States of America,Pennsylvania,blizzard/winter storm,0.0009097111667045713
+United States of America,Pennsylvania,riverine flood,0.00011371389583807141
+United States of America,Pennsylvania,severe weather,0.00011371389583807141
+United States of America,Pennsylvania,storm (general),0.00011371389583807141
+United States of America,Pennsylvania,tornado,0.00022742779167614282
+United States of America,Pennsylvannia,tropical cyclone,0.00011371389583807141
+United States of America,Rhode Island,blizzard/winter storm,0.00011371389583807141
+United States of America,Rhode Island,storm (general),0.00045485558335228563
+United States of America,Rhode Island,tropical cyclone,0.00011371389583807141
+United States of America,South Carolina,blizzard/winter storm,0.00022742779167614282
+United States of America,South Carolina,hail,0.00011371389583807141
+United States of America,South Carolina,severe weather,0.00022742779167614282
+United States of America,South Dakota,heat wave,0.00011371389583807141
+United States of America,South Dakota,lightning/thunderstorms,0.00011371389583807141
+United States of America,South Dakota,tornado,0.00011371389583807141
+United States of America,Tennessee,blizzard/winter storm,0.00011371389583807141
+United States of America,Tennessee,forest fire,0.00011371389583807141
+United States of America,Tennessee,lightning/thunderstorms,0.00011371389583807141
+United States of America,Tennessee,riverine flood,0.00011371389583807141
+United States of America,Tennessee,severe weather,0.00011371389583807141
+United States of America,Tennessee,storm (general),0.00011371389583807141
+United States of America,Tennessee,tornado,0.0003411416875142142
+United States of America,Tennessee,tropical cyclone,0.00022742779167614282
+United States of America,Texas,blizzard/winter storm,0.00022742779167614282
+United States of America,Texas,drought,0.00011371389583807141
+United States of America,Texas,flash flood,0.00011371389583807141
+United States of America,Texas,flood (general),0.00011371389583807141
+United States of America,Texas,hail,0.00011371389583807141
+United States of America,Texas,lightning/thunderstorms,0.00011371389583807141
+United States of America,Texas,riverine flood,0.00045485558335228563
+United States of America,Texas,storm (general),0.00022742779167614282
+United States of America,Texas,tornado,0.0007959972708664999
+United States of America,Utah,drought,0.00011371389583807141
+United States of America,Utah,flash flood,0.00011371389583807141
+United States of America,Vermont,blizzard/winter storm,0.0003411416875142142
+United States of America,Vermont,cold wave,0.00011371389583807141
+United States of America,Vermont,riverine flood,0.00011371389583807141
+United States of America,Vermont,severe winter conditions,0.00011371389583807141
+United States of America,Vermont,storm (general),0.00011371389583807141
+United States of America,Virginia,blizzard/winter storm,0.00011371389583807141
+United States of America,Virginia,riverine flood,0.00011371389583807141
+United States of America,Virginia,storm (general),0.00022742779167614282
+United States of America,Virginia,tornado,0.00011371389583807141
+United States of America,Virginia,tropical cyclone,0.0003411416875142142
+United States of America,Washington,blizzard/winter storm,0.00011371389583807141
+United States of America,Washington,forest fire,0.00011371389583807141
+United States of America,Washington,landslide (wet),0.00011371389583807141
+United States of America,Washington,riverine flood,0.00011371389583807141
+United States of America,Washington,storm (general),0.00011371389583807141
+United States of America,Washington,tornado,0.00011371389583807141
+United States of America,Washington,wildfire (general),0.00011371389583807141
+United States of America,West Virginia,blizzard/winter storm,0.00022742779167614282
+United States of America,West Virginia,lightning/thunderstorms,0.00022742779167614282
+United States of America,West Virginia,severe weather,0.00011371389583807141
+United States of America,West Virginia,tornado,0.00011371389583807141
+United States of America,West Virginia,tropical cyclone,0.00011371389583807141
+United States of America,Wisconsin,drought,0.00022742779167614282
+United States of America,Wisconsin,extra-tropical storm,0.00011371389583807141
+United States of America,Wisconsin,heat wave,0.00011371389583807141
+United States of America,Wisconsin,lightning/thunderstorms,0.00011371389583807141
+United States of America,Wisconsin,riverine flood,0.0003411416875142142
+United States of America,Wisconsin,severe weather,0.00011371389583807141
+United States of America,Wisconsin,storm (general),0.0003411416875142142
+United States of America,Wisconsin,tornado,0.0003411416875142142
+United States of America,Wyoming,blizzard/winter storm,0.00022742779167614282
+United States of America,Wyoming,lightning/thunderstorms,0.00011371389583807141
+United States of America,Wyoming,storm (general),0.00022742779167614282
+United States of America,Wyoming,tornado,0.00011371389583807141
+Uruguay,Cerro Largo,flood (general),0.00011371389583807141
+Uruguay,Durazno,flood (general),0.00011371389583807141
+Uruguay,Maldonado,cold wave,0.00011371389583807141
+Uruguay,Maldonado,storm (general),0.00011371389583807141
+Uruguay,Montevideo,storm (general),0.00011371389583807141
+Uruguay,San Jose,flood (general),0.00011371389583807141
+Uruguay,Soriano,riverine flood,0.00011371389583807141
+Uruguay,Soriano,severe winter conditions,0.00011371389583807141
+Uruguay,Tacuarembo,riverine flood,0.00022742779167614282
+Uruguay,Treinta Y Tres,cold wave,0.00011371389583807141
+Uruguay,Treinta Y Tres,flood (general),0.00022742779167614282
+Uruguay,Treinta Y Tres,riverine flood,0.00011371389583807141
+Uruguay,Treinta y Tres,riverine flood,0.00022742779167614282
+Venezuela (Bolivarian Republic of),Bolivar,riverine flood,0.00011371389583807141
+Venezuela (Bolivarian Republic of),Distrito Capital,drought,0.00011371389583807141
+Venezuela (Bolivarian Republic of),Distrito Capital,riverine flood,0.00022742779167614282
+Venezuela (Bolivarian Republic of),Guarico,riverine flood,0.00011371389583807141
+Venezuela (Bolivarian Republic of),Miranda,riverine flood,0.00011371389583807141
+Venezuela (Bolivarian Republic of),Monagas,flood (general),0.00011371389583807141
+Venezuela (Bolivarian Republic of),Sucre,tropical cyclone,0.00011371389583807141
+Venezuela (Bolivarian Republic of),Trujillo,riverine flood,0.00022742779167614282
+Venezuela (Bolivarian Republic of),Vargas,tropical cyclone,0.00011371389583807141
+Venezuela (Bolivarian Republic of),Zulia,flash flood,0.00011371389583807141
+Venezuela (Bolivarian Republic of),Zulia,riverine flood,0.0006822833750284285

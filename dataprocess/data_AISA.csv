@@ -1,0 +1,3129 @@
+Start Year,Country,Start Month,Disaster Subtype,COUNT
+2000,Afghanistan,5,Drought,1
+2000,Armenia,6,Drought,1
+2000,Azerbaijan,10,Drought,1
+2000,Azerbaijan,11,Ground movement,1
+2000,Azerbaijan,12,Avalanche (wet),1
+2000,Bangladesh,1,Cold wave,1
+2000,Bangladesh,1,Ground movement,1
+2000,Bangladesh,3,Tornado,1
+2000,Bangladesh,4,Tropical cyclone,2
+2000,Bangladesh,5,Storm (General),2
+2000,Bangladesh,6,Flash flood,1
+2000,Bangladesh,6,Tornado,1
+2000,Bangladesh,8,Coastal flood,1
+2000,Bangladesh,9,Flash flood,1
+2000,Bangladesh,10,Tropical cyclone,1
+2000,Bhutan,8,Riverine flood,1
+2000,Cambodia,7,Riverine flood,1
+2000,China,1,Ground movement,3
+2000,China,1,Storm (General),1
+2000,China,3,Storm (General),1
+2000,China,4,Drought,1
+2000,China,4,Riverine flood,1
+2000,China,5,Flash flood,1
+2000,China,5,Riverine flood,1
+2000,China,5,Storm (General),1
+2000,China,6,Flash flood,1
+2000,China,6,Ground movement,1
+2000,China,6,Landslide (wet),1
+2000,China,6,Riverine flood,2
+2000,China,6,Storm (General),1
+2000,China,7,Flood (General),2
+2000,China,7,Tornado,1
+2000,China,8,Drought,1
+2000,China,8,Ground movement,1
+2000,China,8,Landslide (wet),1
+2000,China,8,Storm (General),1
+2000,China,8,Tropical cyclone,2
+2000,China,9,Drought,1
+2000,China,9,Tropical cyclone,2
+2000,China,10,Flash flood,1
+2000,Cyprus,3,Drought,1
+2000,Cyprus,6,Forest fire,1
+2000,Cyprus,7,Heat wave,1
+2000,Democratic People's Republic of Korea,8,Tropical cyclone,1
+2000,Georgia,8,Drought,1
+2000,India,1,Cold wave,1
+2000,India,4,Drought,1
+2000,India,6,Flash flood,1
+2000,India,6,Landslide (wet),1
+2000,India,7,Flash flood,1
+2000,India,7,Landslide (wet),1
+2000,India,8,Flash flood,1
+2000,India,8,Landslide (wet),1
+2000,India,8,Riverine flood,1
+2000,India,9,Riverine flood,1
+2000,India,10,Flood (General),1
+2000,India,10,Tropical cyclone,1
+2000,India,11,Tropical cyclone,1
+2000,Indonesia,2,Forest fire,1
+2000,Indonesia,2,Mudslide,1
+2000,Indonesia,5,Flash flood,1
+2000,Indonesia,5,Ground movement,1
+2000,Indonesia,6,Ground movement,2
+2000,Indonesia,6,Landslide (wet),1
+2000,Indonesia,7,Ground movement,1
+2000,Indonesia,10,Ground movement,1
+2000,Indonesia,10,Mudslide,1
+2000,Indonesia,11,Landslide (wet),1
+2000,Indonesia,11,Riverine flood,1
+2000,Indonesia,12,Flash flood,1
+2000,Iran (Islamic Republic of),1,Storm (General),1
+2000,Iran (Islamic Republic of),2,Ground movement,2
+2000,Iran (Islamic Republic of),8,Flash flood,1
+2000,Iran (Islamic Republic of),9,Flood (General),1
+2000,Iran (Islamic Republic of),11,Flash flood,1
+2000,Israel,1,Storm (General),1
+2000,Israel,7,Heat wave,1
+2000,Japan,3,Ash fall,1
+2000,Japan,5,Hail,1
+2000,Japan,7,Ground movement,1
+2000,Japan,7,Tropical cyclone,1
+2000,Japan,8,Ash fall,1
+2000,Japan,9,Coastal flood,1
+2000,Japan,9,Tropical cyclone,1
+2000,Japan,10,Ground movement,1
+2000,Jordan,1,Storm (General),1
+2000,Jordan,7,Heat wave,1
+2000,Jordan,8,Drought,1
+2000,Kazakhstan,4,Flood (General),1
+2000,Kyrgyzstan,10,Cold wave,1
+2000,Lao People's Democratic Republic,9,Flood (General),1
+2000,Malaysia,9,Storm (General),1
+2000,Malaysia,11,Flash flood,1
+2000,Mongolia,1,Storm (General),1
+2000,Mongolia,2,Drought,1
+2000,Mongolia,12,Blizzard/Winter storm,1
+2000,Nepal,6,Flood (General),1
+2000,Pakistan,6,Heat wave,1
+2000,Philippines,1,Coastal flood,1
+2000,Philippines,1,Flash flood,1
+2000,Philippines,2,Ash fall,1
+2000,Philippines,5,Tropical cyclone,1
+2000,Philippines,7,Sudden Subsidence (wet),1
+2000,Philippines,7,Tropical cyclone,2
+2000,Philippines,9,Coastal flood,1
+2000,Philippines,10,Tropical cyclone,1
+2000,Philippines,11,Landslide (dry),1
+2000,Philippines,11,Tropical cyclone,2
+2000,Republic of Korea,4,Forest fire,1
+2000,Republic of Korea,7,Flood (General),1
+2000,Republic of Korea,8,Flash flood,1
+2000,Republic of Korea,8,Tropical cyclone,1
+2000,Republic of Korea,9,Tropical cyclone,1
+2000,Sri Lanka,9,Riverine flood,1
+2000,Sri Lanka,11,Riverine flood,1
+2000,Sri Lanka,12,Tropical cyclone,1
+2000,Taiwan (Province of China),8,Tropical cyclone,1
+2000,Taiwan (Province of China),11,Tropical cyclone,1
+2000,Tajikistan,5,Drought,1
+2000,Tajikistan,10,Ground movement,1
+2000,Thailand,6,Flood (General),1
+2000,Thailand,7,Flood (General),1
+2000,Thailand,8,Tropical cyclone,1
+2000,Thailand,9,Riverine flood,1
+2000,Thailand,11,Riverine flood,1
+2000,Turkmenistan,12,Ground movement,1
+2000,Türkiye,4,Forest fire,1
+2000,Türkiye,5,Ground movement,1
+2000,Türkiye,5,Riverine flood,1
+2000,Türkiye,6,Ground movement,1
+2000,Türkiye,6,Heat wave,1
+2000,Türkiye,7,Forest fire,1
+2000,Uzbekistan,8,Drought,1
+2000,Viet Nam,6,Storm (General),1
+2000,Viet Nam,7,Landslide (wet),1
+2000,Viet Nam,7,Riverine flood,1
+2000,Viet Nam,7,Storm (General),1
+2000,Viet Nam,8,Storm (General),2
+2000,Viet Nam,8,Tornado,1
+2000,Viet Nam,8,Tropical cyclone,1
+2000,Viet Nam,9,Tropical cyclone,1
+2000,Viet Nam,10,Landslide (wet),1
+2000,Viet Nam,11,Riverine flood,1
+2001,Afghanistan,1,Cold wave,1
+2001,Afghanistan,2,Ground movement,1
+2001,Afghanistan,6,Ground movement,1
+2001,Afghanistan,11,Cold wave,1
+2001,Bangladesh,4,Storm (General),1
+2001,Bangladesh,4,Tropical cyclone,1
+2001,Bangladesh,5,Tropical cyclone,1
+2001,Bangladesh,6,Riverine flood,1
+2001,Bangladesh,8,Flood (General),1
+2001,Bangladesh,10,Tornado,1
+2001,Bangladesh,12,Cold wave,1
+2001,Cambodia,8,Riverine flood,1
+2001,Cambodia,9,Drought,1
+2001,China,1,Blizzard/Winter storm,1
+2001,China,2,Drought,1
+2001,China,2,Ground movement,1
+2001,China,3,Drought,1
+2001,China,3,Lightning/Thunderstorms,1
+2001,China,4,Flood (General),1
+2001,China,4,Ground movement,1
+2001,China,5,Ground movement,1
+2001,China,5,Landslide (wet),1
+2001,China,6,Flood (General),1
+2001,China,6,Riverine flood,3
+2001,China,6,Tropical cyclone,2
+2001,China,7,Ground movement,1
+2001,China,7,Landslide (wet),2
+2001,China,7,Riverine flood,1
+2001,China,7,Storm (General),1
+2001,China,7,Tropical cyclone,3
+2001,China,8,Landslide (wet),1
+2001,China,8,Riverine flood,1
+2001,China,8,Tropical cyclone,1
+2001,China,9,Flash flood,1
+2001,China,9,Landslide (wet),2
+2001,China,9,Storm (General),1
+2001,China,10,Ground movement,1
+2001,China,12,Riverine flood,1
+2001,Democratic People's Republic of Korea,8,Riverine flood,1
+2001,Democratic People's Republic of Korea,10,Flash flood,1
+2001,Georgia,2,Storm (General),1
+2001,India,1,Cold wave,1
+2001,India,1,Ground movement,1
+2001,India,5,Lightning/Thunderstorms,1
+2001,India,5,Tropical cyclone,1
+2001,India,6,Flood (General),1
+2001,India,6,Riverine flood,1
+2001,India,7,Landslide (wet),1
+2001,India,7,Riverine flood,2
+2001,India,8,Flood (General),2
+2001,India,8,Landslide (wet),1
+2001,India,8,Riverine flood,1
+2001,India,9,Flash flood,1
+2001,India,9,Flood (General),1
+2001,India,10,Tropical cyclone,1
+2001,India,11,Landslide (wet),1
+2001,India,12,Cold wave,1
+2001,Indonesia,1,Landslide (wet),1
+2001,Indonesia,2,Flash flood,1
+2001,Indonesia,2,Ground movement,1
+2001,Indonesia,2,Landslide (wet),1
+2001,Indonesia,6,Ground movement,1
+2001,Indonesia,7,Riverine flood,1
+2001,Indonesia,10,Landslide (wet),2
+2001,Indonesia,12,Flood (General),1
+2001,Indonesia,12,Riverine flood,1
+2001,Iran (Islamic Republic of),5,Flash flood,1
+2001,Iran (Islamic Republic of),7,Riverine flood,1
+2001,Iran (Islamic Republic of),8,Flash flood,1
+2001,Iran (Islamic Republic of),10,Flash flood,1
+2001,Iran (Islamic Republic of),10,Ground movement,1
+2001,Japan,1,Storm (General),1
+2001,Japan,3,Ground movement,1
+2001,Japan,6,Flood (General),1
+2001,Japan,6,Storm (General),1
+2001,Japan,8,Tropical cyclone,1
+2001,Japan,9,Tropical cyclone,1
+2001,Kazakhstan,1,Cold wave,1
+2001,Kazakhstan,5,Flood (General),1
+2001,Lao People's Democratic Republic,8,Flood (General),1
+2001,Malaysia,8,Flash flood,1
+2001,Malaysia,10,Flood (General),2
+2001,Malaysia,12,Riverine flood,1
+2001,Mongolia,4,Blizzard/Winter storm,1
+2001,Myanmar,6,Riverine flood,1
+2001,Nepal,6,Landslide (wet),1
+2001,Pakistan,1,Cold wave,1
+2001,Pakistan,1,Ground movement,1
+2001,Pakistan,3,Tornado,1
+2001,Pakistan,7,Flash flood,1
+2001,Pakistan,7,Landslide (wet),1
+2001,Pakistan,7,Mudslide,1
+2001,Philippines,1,Riverine flood,1
+2001,Philippines,2,Tropical cyclone,1
+2001,Philippines,5,Ash fall,1
+2001,Philippines,7,Ash fall,1
+2001,Philippines,7,Tropical cyclone,1
+2001,Philippines,8,Flash flood,1
+2001,Philippines,8,Storm (General),1
+2001,Philippines,9,Storm (General),1
+2001,Philippines,10,Flash flood,1
+2001,Philippines,11,Tropical cyclone,1
+2001,Philippines,12,Tropical cyclone,1
+2001,Republic of Korea,1,Storm (General),1
+2001,Republic of Korea,6,Drought,1
+2001,Republic of Korea,7,Flash flood,2
+2001,Sri Lanka,2,Flood (General),1
+2001,Sri Lanka,9,Drought,1
+2001,Syrian Arab Republic,2,Sand/Dust storm,1
+2001,Taiwan (Province of China),6,Tropical cyclone,1
+2001,Taiwan (Province of China),7,Tropical cyclone,3
+2001,Taiwan (Province of China),9,Tropical cyclone,1
+2001,Tajikistan,5,Landslide (wet),1
+2001,Tajikistan,6,Storm (General),1
+2001,Tajikistan,8,Flood (General),1
+2001,Thailand,3,Flood (General),1
+2001,Thailand,5,Flash flood,1
+2001,Thailand,6,Flash flood,1
+2001,Thailand,6,Storm (General),1
+2001,Thailand,8,Flash flood,1
+2001,Thailand,8,Flood (General),1
+2001,Timor-Leste,6,Riverine flood,1
+2001,Türkiye,3,Riverine flood,1
+2001,Türkiye,5,Riverine flood,1
+2001,Türkiye,6,Ground movement,1
+2001,Türkiye,7,Ground movement,1
+2001,Türkiye,11,Landslide (wet),1
+2001,Türkiye,12,Cold wave,1
+2001,Türkiye,12,Riverine flood,1
+2001,Viet Nam,6,Flood (General),1
+2001,Viet Nam,7,Tropical cyclone,1
+2001,Viet Nam,8,Riverine flood,1
+2001,Viet Nam,8,Tropical cyclone,1
+2001,Viet Nam,10,Flash flood,1
+2001,Viet Nam,11,Coastal flood,1
+2001,Viet Nam,11,Tropical cyclone,1
+2001,Yemen,6,Storm (General),1
+2001,Yemen,7,Flash flood,1
+2001,Yemen,8,Storm (General),1
+2002,Afghanistan,2,Avalanche (wet),1
+2002,Afghanistan,3,Flood (General),1
+2002,Afghanistan,3,Ground movement,2
+2002,Afghanistan,4,Ground movement,1
+2002,Afghanistan,4,Riverine flood,2
+2002,Afghanistan,8,Flood (General),1
+2002,Bangladesh,3,Storm (General),1
+2002,Bangladesh,4,Tropical cyclone,1
+2002,Bangladesh,7,Flash flood,1
+2002,Bangladesh,7,Storm (General),1
+2002,Bangladesh,11,Tropical cyclone,1
+2002,Bangladesh,12,Cold wave,1
+2002,Cambodia,1,Drought,1
+2002,Cambodia,8,Riverine flood,1
+2002,China,3,Sand/Dust storm,1
+2002,China,4,Drought,1
+2002,China,5,Flood (General),1
+2002,China,5,Riverine flood,2
+2002,China,6,Drought,1
+2002,China,6,Flash flood,1
+2002,China,6,Landslide (wet),1
+2002,China,7,Hail,1
+2002,China,7,Heat wave,1
+2002,China,7,Riverine flood,1
+2002,China,7,Storm (General),1
+2002,China,8,Coastal flood,1
+2002,China,8,Flood (General),1
+2002,China,8,Ground movement,1
+2002,China,8,Landslide (wet),1
+2002,China,8,Riverine flood,2
+2002,China,9,Drought,1
+2002,China,9,Landslide (wet),1
+2002,China,9,Storm (General),1
+2002,China,9,Tropical cyclone,1
+2002,China,10,Landslide (wet),1
+2002,China,10,Riverine flood,1
+2002,China,12,Ground movement,1
+2002,China,12,Tornado,1
+2002,Democratic People's Republic of Korea,8,Riverine flood,1
+2002,Democratic People's Republic of Korea,8,Tropical cyclone,1
+2002,Georgia,4,Ground movement,1
+2002,India,4,Hail,1
+2002,India,4,Lightning/Thunderstorms,1
+2002,India,4,Tropical cyclone,1
+2002,India,5,Heat wave,1
+2002,India,6,Riverine flood,1
+2002,India,7,Drought,1
+2002,India,8,Riverine flood,2
+2002,India,9,Ground movement,1
+2002,India,9,Riverine flood,1
+2002,India,10,Flood (General),1
+2002,India,10,Riverine flood,1
+2002,India,11,Tropical cyclone,1
+2002,India,12,Cold wave,1
+2002,Indonesia,1,Riverine flood,3
+2002,Indonesia,3,Riverine flood,1
+2002,Indonesia,4,Riverine flood,1
+2002,Indonesia,5,Riverine flood,1
+2002,Indonesia,8,Forest fire,1
+2002,Indonesia,8,Ground movement,1
+2002,Indonesia,9,Ground movement,1
+2002,Indonesia,10,Tsunami,1
+2002,Indonesia,11,Ash fall,1
+2002,Indonesia,11,Ground movement,1
+2002,Indonesia,11,Riverine flood,1
+2002,Indonesia,12,Mudslide,1
+2002,Iran (Islamic Republic of),1,Riverine flood,1
+2002,Iran (Islamic Republic of),2,Ground movement,1
+2002,Iran (Islamic Republic of),4,Ground movement,1
+2002,Iran (Islamic Republic of),4,Riverine flood,1
+2002,Iran (Islamic Republic of),6,Ground movement,1
+2002,Iran (Islamic Republic of),6,"Land fire (Brush, Bush, Pasture)",1
+2002,Iran (Islamic Republic of),8,Riverine flood,1
+2002,Iran (Islamic Republic of),9,Ground movement,1
+2002,Iran (Islamic Republic of),12,Ground movement,1
+2002,Japan,3,Forest fire,1
+2002,Japan,7,Storm (General),1
+2002,Japan,7,Tropical cyclone,2
+2002,Japan,9,Storm (General),1
+2002,Japan,12,Storm (General),1
+2002,Jordan,12,Storm (General),1
+2002,Kyrgyzstan,5,Landslide (wet),1
+2002,Lao People's Democratic Republic,8,Riverine flood,1
+2002,Lebanon,12,Storm (General),1
+2002,Malaysia,1,Landslide (wet),1
+2002,Malaysia,3,Lightning/Thunderstorms,1
+2002,Mongolia,1,Storm (General),1
+2002,Mongolia,12,Storm (General),1
+2002,Myanmar,8,Riverine flood,1
+2002,Nepal,7,Landslide (wet),1
+2002,Nepal,12,Cold wave,1
+2002,Oman,5,Tropical cyclone,1
+2002,Pakistan,3,Ground movement,1
+2002,Pakistan,5,Heat wave,1
+2002,Pakistan,5,Severe weather,1
+2002,Pakistan,8,Flash flood,1
+2002,Pakistan,8,Riverine flood,1
+2002,Pakistan,9,Flood (General),1
+2002,Pakistan,11,Ground movement,2
+2002,Pakistan,12,Cold wave,1
+2002,Philippines,1,Riverine flood,1
+2002,Philippines,3,Drought,1
+2002,Philippines,3,Ground movement,1
+2002,Philippines,3,Riverine flood,1
+2002,Philippines,3,Storm (General),1
+2002,Philippines,6,Tropical cyclone,1
+2002,Philippines,7,Coastal flood,1
+2002,Philippines,7,Storm (General),1
+2002,Philippines,7,Tropical cyclone,2
+2002,Philippines,8,Coastal flood,1
+2002,Philippines,8,Storm (General),1
+2002,Republic of Korea,7,Storm (General),2
+2002,Republic of Korea,8,Riverine flood,1
+2002,Republic of Korea,8,Tropical cyclone,1
+2002,Saudi Arabia,4,Riverine flood,1
+2002,Sri Lanka,12,Riverine flood,1
+2002,Syrian Arab Republic,10,Landslide (wet),1
+2002,Taiwan (Province of China),3,Ground movement,1
+2002,Taiwan (Province of China),7,Tropical cyclone,1
+2002,Taiwan (Province of China),9,Storm (General),1
+2002,Tajikistan,1,Ground movement,1
+2002,Tajikistan,3,Ground movement,1
+2002,Tajikistan,3,Riverine flood,1
+2002,Tajikistan,5,Flood (General),1
+2002,Tajikistan,6,Riverine flood,1
+2002,Tajikistan,8,Flash flood,1
+2002,Thailand,1,Hail,1
+2002,Thailand,2,Drought,1
+2002,Thailand,4,Hail,1
+2002,Thailand,9,Flash flood,1
+2002,Thailand,9,Landslide (wet),1
+2002,Thailand,10,Flash flood,1
+2002,Türkiye,2,Ground movement,1
+2002,Türkiye,7,Riverine flood,1
+2002,Türkiye,12,Storm (General),1
+2002,Viet Nam,3,Forest fire,1
+2002,Viet Nam,5,Drought,1
+2002,Viet Nam,7,Riverine flood,1
+2002,Viet Nam,9,Riverine flood,2
+2002,Viet Nam,10,Lightning/Thunderstorms,1
+2002,Yemen,4,Flood (General),1
+2002,Yemen,7,Riverine flood,2
+2002,Yemen,8,Riverine flood,1
+2003,Afghanistan,1,Flash flood,1
+2003,Afghanistan,3,Riverine flood,1
+2003,Afghanistan,4,Flash flood,1
+2003,Afghanistan,4,Ground movement,1
+2003,Afghanistan,5,Flash flood,1
+2003,Afghanistan,6,Riverine flood,1
+2003,Afghanistan,7,Flash flood,1
+2003,Afghanistan,7,Riverine flood,2
+2003,Azerbaijan,4,Riverine flood,1
+2003,Bangladesh,4,Storm (General),1
+2003,Bangladesh,5,Heat wave,1
+2003,Bangladesh,5,Tropical cyclone,1
+2003,Bangladesh,6,Flash flood,1
+2003,Bangladesh,6,Riverine flood,1
+2003,Bangladesh,7,Ground movement,1
+2003,Bangladesh,12,Cold wave,1
+2003,Bangladesh,12,Tropical cyclone,1
+2003,China,1,Drought,1
+2003,China,2,Ground movement,1
+2003,China,4,Forest fire,1
+2003,China,4,Ground movement,1
+2003,China,4,Hail,1
+2003,China,5,Ground movement,1
+2003,China,5,Landslide (wet),1
+2003,China,5,Riverine flood,1
+2003,China,6,Riverine flood,2
+2003,China,7,Drought,1
+2003,China,7,Ground movement,1
+2003,China,7,Riverine flood,1
+2003,China,7,Tornado,1
+2003,China,7,Tropical cyclone,1
+2003,China,8,Ground movement,1
+2003,China,8,Landslide (wet),1
+2003,China,8,Riverine flood,1
+2003,China,9,Riverine flood,1
+2003,China,9,Tropical cyclone,1
+2003,China,10,Ground movement,2
+2003,China,11,Ground movement,3
+2003,China,11,Tropical cyclone,1
+2003,China,12,Ground movement,1
+2003,"China, Hong Kong Special Administrative Region",7,Tropical cyclone,1
+2003,"China, Hong Kong Special Administrative Region",9,Tropical cyclone,1
+2003,Cyprus,1,Tornado,1
+2003,India,2,Storm (General),2
+2003,India,2,Tropical cyclone,1
+2003,India,3,Avalanche (wet),1
+2003,India,3,Hail,1
+2003,India,4,Tropical cyclone,2
+2003,India,5,Heat wave,1
+2003,India,6,Riverine flood,1
+2003,India,7,Flash flood,1
+2003,India,7,Riverine flood,1
+2003,India,8,Flash flood,1
+2003,India,8,Riverine flood,1
+2003,India,9,Riverine flood,1
+2003,India,12,Cold wave,1
+2003,India,12,Tropical cyclone,1
+2003,Indonesia,1,Flash flood,1
+2003,Indonesia,1,Flood (General),2
+2003,Indonesia,1,Ground movement,1
+2003,Indonesia,1,Landslide (wet),2
+2003,Indonesia,1,Riverine flood,1
+2003,Indonesia,2,Riverine flood,1
+2003,Indonesia,3,Landslide (wet),2
+2003,Indonesia,5,Ground movement,1
+2003,Indonesia,8,Drought,1
+2003,Indonesia,8,Ground movement,1
+2003,Indonesia,11,Flash flood,1
+2003,Indonesia,11,Riverine flood,1
+2003,Indonesia,12,Riverine flood,1
+2003,Iran (Islamic Republic of),1,Ground movement,1
+2003,Iran (Islamic Republic of),2,Avalanche (wet),1
+2003,Iran (Islamic Republic of),3,Riverine flood,1
+2003,Iran (Islamic Republic of),7,Ground movement,2
+2003,Iran (Islamic Republic of),12,Ground movement,2
+2003,Japan,5,Ground movement,1
+2003,Japan,7,Ground movement,1
+2003,Japan,7,Riverine flood,1
+2003,Japan,8,Tropical cyclone,1
+2003,Japan,9,Ground movement,1
+2003,Japan,9,Tropical cyclone,1
+2003,Kazakhstan,5,Ground movement,1
+2003,Kyrgyzstan,4,Landslide (wet),1
+2003,Lebanon,2,Riverine flood,1
+2003,Malaysia,10,Riverine flood,1
+2003,Malaysia,11,Flash flood,1
+2003,Malaysia,12,Riverine flood,1
+2003,Mongolia,7,Flash flood,1
+2003,Nepal,7,Riverine flood,1
+2003,Nepal,12,Cold wave,1
+2003,Oman,4,Storm (General),1
+2003,Pakistan,2,Storm (General),1
+2003,Pakistan,5,Heat wave,1
+2003,Pakistan,5,Landslide (wet),1
+2003,Pakistan,7,Riverine flood,2
+2003,Pakistan,9,Flash flood,1
+2003,Philippines,5,Flash flood,1
+2003,Philippines,5,Tropical cyclone,1
+2003,Philippines,6,Tropical cyclone,1
+2003,Philippines,7,Tropical cyclone,3
+2003,Philippines,8,Storm (General),2
+2003,Philippines,8,Tropical cyclone,1
+2003,Philippines,12,Landslide (wet),1
+2003,Republic of Korea,9,Tropical cyclone,1
+2003,Saudi Arabia,8,Riverine flood,1
+2003,Saudi Arabia,11,Riverine flood,1
+2003,Sri Lanka,5,Flash flood,1
+2003,Taiwan (Province of China),9,Tropical cyclone,1
+2003,Tajikistan,2,Landslide (wet),1
+2003,Tajikistan,4,Mudslide,1
+2003,Tajikistan,6,Riverine flood,1
+2003,Thailand,4,Hail,1
+2003,Thailand,10,Riverine flood,2
+2003,Thailand,12,Flash flood,1
+2003,Timor-Leste,6,Riverine flood,1
+2003,Timor-Leste,12,Flood (General),1
+2003,Türkiye,1,Ground movement,1
+2003,Türkiye,4,Ground movement,1
+2003,Türkiye,5,Ground movement,1
+2003,Türkiye,7,Ground movement,1
+2003,Türkiye,12,Riverine flood,1
+2003,Viet Nam,7,Tropical cyclone,1
+2003,Viet Nam,9,Riverine flood,1
+2003,Viet Nam,10,Coastal flood,1
+2003,Viet Nam,11,Riverine flood,1
+2003,Yemen,6,Riverine flood,1
+2004,Afghanistan,1,Riverine flood,1
+2004,Afghanistan,7,Ground movement,1
+2004,Afghanistan,7,Riverine flood,1
+2004,Armenia,3,Riverine flood,1
+2004,Bangladesh,4,Tornado,1
+2004,Bangladesh,5,Tornado,1
+2004,Bangladesh,6,Riverine flood,1
+2004,Bangladesh,6,Storm (General),1
+2004,Bangladesh,7,Storm (General),1
+2004,Bangladesh,9,Riverine flood,1
+2004,Bangladesh,10,Flash flood,1
+2004,Bangladesh,12,Tsunami,1
+2004,Bhutan,7,Riverine flood,1
+2004,Cambodia,8,Riverine flood,1
+2004,China,3,Ground movement,1
+2004,China,4,Hail,1
+2004,China,5,Flash flood,1
+2004,China,5,Ground movement,1
+2004,China,5,Riverine flood,1
+2004,China,5,Storm (General),1
+2004,China,5,Tornado,1
+2004,China,6,Flash flood,1
+2004,China,6,Hail,1
+2004,China,6,Landslide (wet),1
+2004,China,6,Riverine flood,4
+2004,China,6,Storm (General),1
+2004,China,7,Heat wave,1
+2004,China,7,Riverine flood,1
+2004,China,8,Ground movement,1
+2004,China,8,Tropical cyclone,2
+2004,China,9,Ground movement,1
+2004,China,9,Riverine flood,1
+2004,China,10,Ground movement,1
+2004,China,12,Landslide (dry),1
+2004,Cyprus,1,Storm (General),1
+2004,Democratic People's Republic of Korea,7,Riverine flood,1
+2004,Democratic People's Republic of Korea,9,Riverine flood,1
+2004,Georgia,3,Riverine flood,1
+2004,Georgia,7,Riverine flood,1
+2004,India,4,Riverine flood,1
+2004,India,6,Riverine flood,2
+2004,India,8,Riverine flood,1
+2004,India,9,Flash flood,1
+2004,India,10,Flash flood,1
+2004,India,12,Tsunami,1
+2004,Indonesia,1,Ash fall,1
+2004,Indonesia,1,Ground movement,1
+2004,Indonesia,1,Landslide (wet),1
+2004,Indonesia,2,Ground movement,2
+2004,Indonesia,2,Riverine flood,1
+2004,Indonesia,2,Severe weather,1
+2004,Indonesia,3,Landslide (wet),1
+2004,Indonesia,3,Tropical cyclone,1
+2004,Indonesia,4,Landslide (wet),2
+2004,Indonesia,6,Ash fall,2
+2004,Indonesia,9,Ash fall,1
+2004,Indonesia,11,Ground movement,2
+2004,Indonesia,12,Tsunami,1
+2004,Iran (Islamic Republic of),1,Flash flood,1
+2004,Iran (Islamic Republic of),2,Storm (General),1
+2004,Iran (Islamic Republic of),5,Ground movement,1
+2004,Iran (Islamic Republic of),12,Flash flood,1
+2004,Iraq,1,Flash flood,1
+2004,Japan,6,Tropical cyclone,1
+2004,Japan,7,Flash flood,1
+2004,Japan,7,Heat wave,1
+2004,Japan,8,Tropical cyclone,3
+2004,Japan,9,Tropical cyclone,2
+2004,Japan,10,Ground movement,1
+2004,Japan,10,Tropical cyclone,2
+2004,Japan,11,Riverine flood,1
+2004,Kazakhstan,3,Mudslide,1
+2004,Kyrgyzstan,4,Landslide (wet),2
+2004,Kyrgyzstan,8,Avalanche (wet),1
+2004,Malaysia,1,Riverine flood,1
+2004,Malaysia,3,Riverine flood,1
+2004,Malaysia,7,Storm (General),1
+2004,Malaysia,11,Storm (General),1
+2004,Malaysia,12,Riverine flood,1
+2004,Malaysia,12,Tsunami,1
+2004,Maldives,12,Tsunami,1
+2004,Myanmar,5,Tropical cyclone,1
+2004,Myanmar,12,Tsunami,1
+2004,Nepal,7,Riverine flood,1
+2004,Pakistan,2,Ground movement,1
+2004,Pakistan,7,Riverine flood,1
+2004,Pakistan,8,Riverine flood,1
+2004,Philippines,1,Riverine flood,1
+2004,Philippines,2,Riverine flood,1
+2004,Philippines,5,Tropical cyclone,1
+2004,Philippines,6,Flash flood,1
+2004,Philippines,6,Tornado,1
+2004,Philippines,6,Tropical cyclone,1
+2004,Philippines,8,Tropical cyclone,1
+2004,Philippines,11,Tropical cyclone,4
+2004,Philippines,12,Landslide (wet),1
+2004,Republic of Korea,3,Blizzard/Winter storm,1
+2004,Republic of Korea,3,Forest fire,1
+2004,Republic of Korea,6,Tropical cyclone,1
+2004,Republic of Korea,8,Riverine flood,1
+2004,Republic of Korea,8,Tropical cyclone,1
+2004,Republic of Korea,9,Riverine flood,1
+2004,Republic of Korea,9,Tropical cyclone,1
+2004,Saudi Arabia,4,Riverine flood,1
+2004,Sri Lanka,12,Riverine flood,1
+2004,Sri Lanka,12,Tsunami,1
+2004,Syrian Arab Republic,2,Blizzard/Winter storm,1
+2004,Taiwan (Province of China),6,Tropical cyclone,1
+2004,Taiwan (Province of China),8,Tropical cyclone,1
+2004,Taiwan (Province of China),9,Tropical cyclone,1
+2004,Taiwan (Province of China),10,Tropical cyclone,1
+2004,Taiwan (Province of China),12,Tropical cyclone,1
+2004,Tajikistan,4,Ground movement,1
+2004,Tajikistan,7,Riverine flood,1
+2004,Thailand,5,Storm (General),1
+2004,Thailand,6,Tropical cyclone,1
+2004,Thailand,8,Riverine flood,1
+2004,Thailand,9,Flash flood,1
+2004,Thailand,10,Landslide (wet),1
+2004,Thailand,12,Riverine flood,1
+2004,Thailand,12,Tsunami,1
+2004,Türkiye,1,Cold wave,1
+2004,Türkiye,1,Storm (General),1
+2004,Türkiye,3,Ground movement,2
+2004,Türkiye,3,Riverine flood,1
+2004,Türkiye,5,Riverine flood,1
+2004,Türkiye,6,Tornado,1
+2004,Türkiye,7,Ground movement,1
+2004,Türkiye,8,Flash flood,1
+2004,Türkiye,11,Blizzard/Winter storm,1
+2004,Viet Nam,4,Riverine flood,1
+2004,Viet Nam,6,Tropical cyclone,1
+2004,Viet Nam,7,Flash flood,1
+2004,Viet Nam,8,Riverine flood,1
+2004,Viet Nam,9,Landslide (wet),1
+2004,Viet Nam,11,Tropical cyclone,1
+2005,Afghanistan,1,Storm (General),1
+2005,Afghanistan,3,Riverine flood,2
+2005,Afghanistan,4,Cold wave,1
+2005,Afghanistan,5,Riverine flood,1
+2005,Afghanistan,6,Riverine flood,2
+2005,Afghanistan,9,Riverine flood,1
+2005,Afghanistan,10,Ground movement,1
+2005,Afghanistan,12,Ground movement,1
+2005,Afghanistan,12,Riverine flood,2
+2005,Bangladesh,3,Tornado,1
+2005,Bangladesh,3,Tropical cyclone,1
+2005,Bangladesh,5,Flash flood,1
+2005,Bangladesh,5,Storm (General),3
+2005,Bangladesh,6,Storm (General),1
+2005,Bangladesh,7,Heat wave,1
+2005,Bangladesh,7,Riverine flood,1
+2005,Bangladesh,9,Storm (General),1
+2005,Bangladesh,10,Flash flood,1
+2005,Bangladesh,12,Severe winter conditions,1
+2005,Cambodia,4,Drought,1
+2005,Cambodia,9,Riverine flood,1
+2005,China,2,Storm (General),1
+2005,China,3,Storm (General),1
+2005,China,4,Storm (General),1
+2005,China,5,Flash flood,1
+2005,China,5,Hail,1
+2005,China,5,Storm (General),1
+2005,China,6,Flash flood,1
+2005,China,6,Hail,1
+2005,China,6,Riverine flood,3
+2005,China,6,Storm (General),1
+2005,China,7,Drought,1
+2005,China,7,Heat wave,1
+2005,China,7,Riverine flood,2
+2005,China,7,Tornado,1
+2005,China,7,Tropical cyclone,2
+2005,China,8,Ground movement,1
+2005,China,8,Riverine flood,2
+2005,China,9,Riverine flood,1
+2005,China,9,Tropical cyclone,3
+2005,China,10,Drought,1
+2005,China,10,Riverine flood,1
+2005,China,10,Tropical cyclone,1
+2005,China,11,Ground movement,1
+2005,"China, Hong Kong Special Administrative Region",6,Riverine flood,1
+2005,Democratic People's Republic of Korea,6,Flash flood,1
+2005,Georgia,4,Riverine flood,1
+2005,India,2,Avalanche (wet),1
+2005,India,3,Storm (General),1
+2005,India,5,Riverine flood,1
+2005,India,5,Storm (General),2
+2005,India,6,Heat wave,1
+2005,India,6,Riverine flood,2
+2005,India,7,Riverine flood,7
+2005,India,8,Flash flood,1
+2005,India,8,Landslide (wet),1
+2005,India,9,Riverine flood,3
+2005,India,9,Storm (General),1
+2005,India,10,Ground movement,1
+2005,India,10,Riverine flood,2
+2005,India,12,Riverine flood,1
+2005,India,12,Severe winter conditions,1
+2005,Indonesia,1,Ground movement,1
+2005,Indonesia,2,Landslide (wet),1
+2005,Indonesia,3,Ground movement,1
+2005,Indonesia,4,Ash fall,1
+2005,Indonesia,4,Flash flood,1
+2005,Indonesia,8,Forest fire,1
+2005,Indonesia,9,Landslide (wet),1
+2005,Indonesia,10,Flash flood,1
+2005,Indonesia,12,Flash flood,1
+2005,Iran (Islamic Republic of),1,Ground movement,1
+2005,Iran (Islamic Republic of),2,Ground movement,1
+2005,Iran (Islamic Republic of),2,Storm (General),1
+2005,Iran (Islamic Republic of),3,Ground movement,1
+2005,Iran (Islamic Republic of),3,Riverine flood,1
+2005,Iran (Islamic Republic of),7,Riverine flood,1
+2005,Iran (Islamic Republic of),8,Flood (General),1
+2005,Iran (Islamic Republic of),8,Riverine flood,1
+2005,Iran (Islamic Republic of),11,Ground movement,1
+2005,Japan,3,Ground movement,1
+2005,Japan,4,Ground movement,1
+2005,Japan,6,Riverine flood,1
+2005,Japan,8,Tropical cyclone,1
+2005,Japan,9,Tropical cyclone,1
+2005,Japan,12,Storm (General),1
+2005,Kazakhstan,2,Flash flood,1
+2005,Kyrgyzstan,6,Riverine flood,1
+2005,Malaysia,7,Flash flood,1
+2005,Malaysia,8,Forest fire,1
+2005,Malaysia,11,Flash flood,1
+2005,Myanmar,9,Landslide (wet),1
+2005,Nepal,7,Riverine flood,1
+2005,Nepal,9,Riverine flood,1
+2005,Nepal,10,Avalanche (wet),1
+2005,Pakistan,1,Storm (General),1
+2005,Pakistan,2,Riverine flood,1
+2005,Pakistan,3,Flash flood,1
+2005,Pakistan,3,Riverine flood,1
+2005,Pakistan,6,Heat wave,1
+2005,Pakistan,6,Riverine flood,1
+2005,Pakistan,7,Riverine flood,1
+2005,Pakistan,10,Ground movement,1
+2005,Pakistan,12,Avalanche (wet),1
+2005,Philippines,3,Tropical cyclone,1
+2005,Philippines,5,Flood (General),1
+2005,Philippines,9,Tropical cyclone,1
+2005,Philippines,12,Riverine flood,1
+2005,Republic of Korea,4,Forest fire,1
+2005,Republic of Korea,8,Flash flood,1
+2005,Republic of Korea,8,Tropical cyclone,1
+2005,Republic of Korea,9,Tropical cyclone,1
+2005,Republic of Korea,12,Storm (General),1
+2005,Saudi Arabia,1,Flash flood,1
+2005,Saudi Arabia,4,Flash flood,1
+2005,Sri Lanka,11,Riverine flood,1
+2005,Taiwan (Province of China),6,Flash flood,1
+2005,Taiwan (Province of China),7,Tropical cyclone,2
+2005,Taiwan (Province of China),9,Tropical cyclone,1
+2005,Taiwan (Province of China),10,Tropical cyclone,1
+2005,Tajikistan,2,Avalanche (wet),1
+2005,Tajikistan,6,Riverine flood,1
+2005,Tajikistan,7,Flash flood,1
+2005,Thailand,1,Drought,1
+2005,Thailand,5,Storm (General),1
+2005,Thailand,8,Forest fire,1
+2005,Thailand,8,Riverine flood,1
+2005,Thailand,9,Tropical cyclone,1
+2005,Thailand,11,Flash flood,1
+2005,Türkiye,1,Blizzard/Winter storm,1
+2005,Türkiye,1,Ground movement,1
+2005,Türkiye,3,Ground movement,1
+2005,Türkiye,3,Landslide (wet),1
+2005,Türkiye,6,Ground movement,1
+2005,Türkiye,7,Flood (General),1
+2005,Türkiye,8,Flash flood,1
+2005,Türkiye,12,Severe winter conditions,1
+2005,Uzbekistan,2,Flash flood,1
+2005,Viet Nam,5,Drought,1
+2005,Viet Nam,5,Riverine flood,1
+2005,Viet Nam,8,Storm (General),1
+2005,Viet Nam,9,Riverine flood,1
+2005,Viet Nam,9,Tropical cyclone,2
+2005,Viet Nam,10,Flash flood,1
+2005,Viet Nam,10,Riverine flood,1
+2005,Viet Nam,11,Tropical cyclone,1
+2005,Viet Nam,12,Riverine flood,1
+2005,Yemen,4,Riverine flood,1
+2005,Yemen,8,Flash flood,1
+2005,Yemen,12,Landslide (wet),1
+2006,Afghanistan,1,Avalanche (wet),1
+2006,Afghanistan,1,Landslide (wet),1
+2006,Afghanistan,1,Storm (General),1
+2006,Afghanistan,2,Blizzard/Winter storm,1
+2006,Afghanistan,4,Flash flood,1
+2006,Afghanistan,5,Riverine flood,2
+2006,Afghanistan,7,Drought,1
+2006,Afghanistan,7,Flash flood,1
+2006,Afghanistan,7,Ground movement,1
+2006,Afghanistan,7,Riverine flood,2
+2006,Afghanistan,11,Flash flood,1
+2006,Bangladesh,3,Tornado,1
+2006,Bangladesh,4,Storm (General),1
+2006,Bangladesh,4,Tropical cyclone,2
+2006,Bangladesh,5,Riverine flood,1
+2006,Bangladesh,8,Riverine flood,1
+2006,Bangladesh,9,Tropical cyclone,1
+2006,Cambodia,7,Riverine flood,1
+2006,Cambodia,8,Riverine flood,1
+2006,China,1,Blizzard/Winter storm,1
+2006,China,1,Ground movement,1
+2006,China,4,Hail,1
+2006,China,4,Riverine flood,2
+2006,China,5,Drought,1
+2006,China,5,Riverine flood,3
+2006,China,5,Tropical cyclone,1
+2006,China,6,Flash flood,1
+2006,China,6,Ground movement,1
+2006,China,6,Landslide (dry),1
+2006,China,6,Riverine flood,7
+2006,China,7,Flash flood,1
+2006,China,7,Ground movement,1
+2006,China,7,Landslide (wet),1
+2006,China,7,Riverine flood,4
+2006,China,7,Tropical cyclone,2
+2006,China,8,Flash flood,1
+2006,China,8,Ground movement,1
+2006,China,8,Tropical cyclone,2
+2006,China,10,Ground movement,1
+2006,China,10,Riverine flood,1
+2006,China,10,Tropical cyclone,1
+2006,China,11,Ground movement,1
+2006,Democratic People's Republic of Korea,7,Flash flood,1
+2006,Democratic People's Republic of Korea,10,Coastal flood,1
+2006,Georgia,4,Riverine flood,1
+2006,India,3,Riverine flood,1
+2006,India,4,Flash flood,1
+2006,India,5,Heat wave,1
+2006,India,5,Lightning/Thunderstorms,1
+2006,India,5,Riverine flood,3
+2006,India,6,Riverine flood,1
+2006,India,7,Riverine flood,4
+2006,India,8,Flash flood,1
+2006,India,8,Riverine flood,4
+2006,India,9,Tropical cyclone,1
+2006,India,10,Flash flood,1
+2006,India,10,Riverine flood,1
+2006,Indonesia,1,Landslide (wet),2
+2006,Indonesia,1,Riverine flood,1
+2006,Indonesia,2,Flash flood,1
+2006,Indonesia,3,Tsunami,1
+2006,Indonesia,4,Ash fall,1
+2006,Indonesia,4,Riverine flood,1
+2006,Indonesia,5,Ground movement,1
+2006,Indonesia,6,Flash flood,2
+2006,Indonesia,6,Flood (General),1
+2006,Indonesia,6,Riverine flood,1
+2006,Indonesia,7,Tsunami,1
+2006,Indonesia,8,Forest fire,1
+2006,Indonesia,12,Flash flood,1
+2006,Indonesia,12,Ground movement,2
+2006,Indonesia,12,Landslide (wet),1
+2006,Iran (Islamic Republic of),2,Ground movement,1
+2006,Iran (Islamic Republic of),3,Ground movement,1
+2006,Iran (Islamic Republic of),5,Ground movement,1
+2006,Iran (Islamic Republic of),5,Riverine flood,1
+2006,Iraq,2,Riverine flood,1
+2006,Iraq,11,Flash flood,1
+2006,Japan,1,Storm (General),1
+2006,Japan,6,Riverine flood,1
+2006,Japan,7,Riverine flood,1
+2006,Japan,9,Tropical cyclone,1
+2006,Japan,11,Tornado,1
+2006,Kyrgyzstan,1,Storm (General),1
+2006,Kyrgyzstan,12,Ground movement,1
+2006,Malaysia,1,Riverine flood,1
+2006,Malaysia,2,Riverine flood,1
+2006,Malaysia,4,Riverine flood,1
+2006,Malaysia,12,Flash flood,1
+2006,Myanmar,4,Tropical cyclone,1
+2006,Myanmar,9,Riverine flood,1
+2006,Nepal,6,Riverine flood,1
+2006,Nepal,7,Drought,1
+2006,Nepal,8,Landslide (wet),2
+2006,Pakistan,5,Heat wave,1
+2006,Pakistan,7,Landslide (wet),1
+2006,Pakistan,7,Riverine flood,3
+2006,Pakistan,8,Flash flood,1
+2006,Pakistan,8,Riverine flood,2
+2006,Pakistan,12,Flood (General),1
+2006,Philippines,1,Flash flood,1
+2006,Philippines,2,Landslide (wet),2
+2006,Philippines,3,Flash flood,1
+2006,Philippines,5,Tropical cyclone,1
+2006,Philippines,6,Tropical cyclone,1
+2006,Philippines,7,Tropical cyclone,2
+2006,Philippines,8,Ash fall,1
+2006,Philippines,8,Avalanche (wet),1
+2006,Philippines,8,Flood (General),1
+2006,Philippines,8,Tropical cyclone,1
+2006,Philippines,9,Tropical cyclone,1
+2006,Philippines,10,Riverine flood,2
+2006,Philippines,10,Tropical cyclone,1
+2006,Philippines,11,Tropical cyclone,2
+2006,Philippines,12,Riverine flood,1
+2006,Philippines,12,Tropical cyclone,1
+2006,Republic of Korea,7,Flash flood,1
+2006,Sri Lanka,10,Riverine flood,1
+2006,Syrian Arab Republic,10,Riverine flood,1
+2006,Taiwan (Province of China),6,Riverine flood,1
+2006,Taiwan (Province of China),7,Tropical cyclone,2
+2006,Taiwan (Province of China),12,Ground movement,1
+2006,Tajikistan,1,Avalanche (wet),1
+2006,Tajikistan,4,Mudslide,1
+2006,Tajikistan,7,Ground movement,1
+2006,Thailand,2,Riverine flood,1
+2006,Thailand,5,Flash flood,1
+2006,Thailand,8,Riverine flood,1
+2006,Timor-Leste,1,Storm (General),1
+2006,Türkiye,7,Riverine flood,1
+2006,Türkiye,10,Flash flood,1
+2006,Viet Nam,4,Storm (General),1
+2006,Viet Nam,5,Tropical cyclone,1
+2006,Viet Nam,7,Flash flood,2
+2006,Viet Nam,7,Tropical cyclone,1
+2006,Viet Nam,8,Riverine flood,2
+2006,Viet Nam,9,Tropical cyclone,1
+2006,Viet Nam,10,Riverine flood,1
+2006,Viet Nam,11,Hail,1
+2006,Viet Nam,11,Tropical cyclone,1
+2006,Yemen,2,Flash flood,1
+2006,Yemen,4,Riverine flood,1
+2007,Afghanistan,3,Riverine flood,1
+2007,Afghanistan,4,Flash flood,2
+2007,Afghanistan,5,Flash flood,1
+2007,Afghanistan,5,Riverine flood,1
+2007,Afghanistan,6,Riverine flood,1
+2007,Afghanistan,7,Flash flood,1
+2007,Bangladesh,1,Severe winter conditions,1
+2007,Bangladesh,5,Tropical cyclone,1
+2007,Bangladesh,6,Riverine flood,1
+2007,Bangladesh,7,Riverine flood,1
+2007,Bangladesh,11,Tropical cyclone,1
+2007,Cambodia,8,Riverine flood,1
+2007,China,4,Storm (General),1
+2007,China,5,Flash flood,1
+2007,China,6,Flash flood,1
+2007,China,6,Ground movement,1
+2007,China,6,Riverine flood,2
+2007,China,7,Riverine flood,4
+2007,China,7,Tornado,1
+2007,China,8,Riverine flood,3
+2007,China,8,Tornado,1
+2007,China,8,Tropical cyclone,1
+2007,China,9,Tropical cyclone,1
+2007,China,10,Tropical cyclone,1
+2007,China,11,Landslide (wet),1
+2007,Cyprus,6,Heat wave,1
+2007,Democratic People's Republic of Korea,8,Riverine flood,1
+2007,Democratic People's Republic of Korea,9,Tropical cyclone,1
+2007,India,2,Flood (General),1
+2007,India,3,Cold wave,1
+2007,India,4,Heat wave,1
+2007,India,6,Flash flood,1
+2007,India,6,Riverine flood,2
+2007,India,7,Riverine flood,6
+2007,India,8,Riverine flood,3
+2007,India,9,Coastal flood,1
+2007,India,9,Riverine flood,1
+2007,India,10,Riverine flood,1
+2007,India,11,Tropical cyclone,1
+2007,India,12,Cold wave,1
+2007,Indonesia,1,Landslide (wet),2
+2007,Indonesia,1,Riverine flood,1
+2007,Indonesia,3,Flash flood,1
+2007,Indonesia,3,Ground movement,1
+2007,Indonesia,5,Riverine flood,1
+2007,Indonesia,7,Ash fall,1
+2007,Indonesia,7,Riverine flood,3
+2007,Indonesia,9,Flood (General),1
+2007,Indonesia,9,Ground movement,2
+2007,Indonesia,10,Ash fall,1
+2007,Indonesia,11,Ground movement,1
+2007,Indonesia,12,Riverine flood,1
+2007,Iran (Islamic Republic of),6,Flash flood,1
+2007,Iran (Islamic Republic of),6,Tropical cyclone,1
+2007,Japan,3,Ground movement,1
+2007,Japan,4,Ground movement,1
+2007,Japan,7,Ground movement,1
+2007,Japan,7,Riverine flood,1
+2007,Japan,7,Tropical cyclone,1
+2007,Japan,8,Heat wave,1
+2007,Japan,8,Tropical cyclone,1
+2007,Japan,9,Tropical cyclone,1
+2007,Kyrgyzstan,4,Riverine flood,1
+2007,Lebanon,10,Forest fire,1
+2007,Malaysia,1,Riverine flood,1
+2007,Malaysia,12,Riverine flood,1
+2007,Maldives,5,Coastal flood,1
+2007,Myanmar,5,Riverine flood,1
+2007,Myanmar,6,Riverine flood,1
+2007,Myanmar,7,Riverine flood,1
+2007,Myanmar,8,Riverine flood,1
+2007,Nepal,7,Riverine flood,1
+2007,Oman,6,Tropical cyclone,1
+2007,Pakistan,1,Landslide (wet),1
+2007,Pakistan,3,Avalanche (wet),1
+2007,Pakistan,3,Landslide (wet),1
+2007,Pakistan,6,Flash flood,1
+2007,Pakistan,6,Riverine flood,2
+2007,Pakistan,6,Tropical cyclone,1
+2007,Pakistan,7,Flood (General),1
+2007,Pakistan,8,Flash flood,1
+2007,Pakistan,8,Riverine flood,1
+2007,Philippines,1,Riverine flood,1
+2007,Philippines,7,Ash fall,1
+2007,Philippines,8,Drought,1
+2007,Philippines,8,Tropical cyclone,2
+2007,Philippines,9,Tropical cyclone,3
+2007,Philippines,10,Riverine flood,1
+2007,Philippines,11,Coastal flood,2
+2007,Philippines,11,Tropical cyclone,3
+2007,Philippines,12,Riverine flood,1
+2007,Republic of Korea,9,Flood (General),1
+2007,Republic of Korea,9,Tropical cyclone,1
+2007,Sri Lanka,1,Riverine flood,1
+2007,Sri Lanka,5,Flash flood,1
+2007,Sri Lanka,12,Riverine flood,1
+2007,Taiwan (Province of China),8,Tropical cyclone,1
+2007,Taiwan (Province of China),10,Tropical cyclone,1
+2007,Tajikistan,4,Riverine flood,1
+2007,Tajikistan,7,Flood (General),1
+2007,Tajikistan,7,Ground movement,1
+2007,Tajikistan,12,Avalanche (wet),1
+2007,Thailand,4,Flash flood,1
+2007,Thailand,5,Riverine flood,1
+2007,Thailand,9,Riverine flood,1
+2007,Thailand,10,Riverine flood,1
+2007,Thailand,12,Riverine flood,1
+2007,Timor-Leste,2,Drought,1
+2007,Timor-Leste,6,Riverine flood,1
+2007,Timor-Leste,12,Flood (General),1
+2007,Türkiye,5,Riverine flood,1
+2007,Türkiye,6,Heat wave,1
+2007,Türkiye,8,Riverine flood,1
+2007,Türkiye,11,Riverine flood,1
+2007,Viet Nam,8,Coastal flood,1
+2007,Viet Nam,9,Tropical cyclone,1
+2007,Viet Nam,10,Flood (General),1
+2007,Viet Nam,10,Riverine flood,2
+2007,Viet Nam,11,Coastal flood,1
+2007,Yemen,1,Riverine flood,1
+2007,Yemen,3,Flash flood,1
+2007,Yemen,8,Riverine flood,1
+2007,Yemen,9,Ash fall,1
+2008,Afghanistan,1,Severe winter conditions,1
+2008,Afghanistan,8,Flash flood,1
+2008,Afghanistan,10,Drought,1
+2008,Bangladesh,3,Tropical cyclone,1
+2008,Bangladesh,6,Riverine flood,1
+2008,Bangladesh,8,Landslide (wet),1
+2008,Bangladesh,8,Riverine flood,1
+2008,Bangladesh,10,Tropical cyclone,1
+2008,China,1,Severe winter conditions,1
+2008,China,2,Severe winter conditions,1
+2008,China,3,Avalanche (wet),1
+2008,China,4,Sand/Dust storm,1
+2008,China,4,Tropical cyclone,1
+2008,China,5,Ground movement,2
+2008,China,5,Riverine flood,2
+2008,China,6,Hail,1
+2008,China,6,Landslide (wet),1
+2008,China,6,Riverine flood,1
+2008,China,6,Tropical cyclone,1
+2008,China,7,Landslide (wet),1
+2008,China,7,Riverine flood,1
+2008,China,7,Tropical cyclone,1
+2008,China,8,Ground movement,3
+2008,China,8,Riverine flood,1
+2008,China,8,Tropical cyclone,2
+2008,China,9,Landslide (wet),1
+2008,China,9,Tropical cyclone,2
+2008,China,10,Ground movement,1
+2008,China,10,Riverine flood,2
+2008,China,11,Drought,1
+2008,China,12,Ground movement,1
+2008,"China, Hong Kong Special Administrative Region",8,Tropical cyclone,1
+2008,"China, Hong Kong Special Administrative Region",9,Tropical cyclone,2
+2008,India,2,Landslide (wet),1
+2008,India,3,Flood (General),1
+2008,India,5,Sand/Dust storm,1
+2008,India,6,Flash flood,1
+2008,India,7,Riverine flood,2
+2008,India,8,Riverine flood,1
+2008,India,9,Riverine flood,2
+2008,India,11,Flash flood,1
+2008,India,12,Cold wave,1
+2008,Indonesia,1,Riverine flood,2
+2008,Indonesia,2,Flash flood,1
+2008,Indonesia,2,Ground movement,1
+2008,Indonesia,2,Riverine flood,2
+2008,Indonesia,3,Riverine flood,2
+2008,Indonesia,4,Ash fall,1
+2008,Indonesia,4,Flash flood,1
+2008,Indonesia,5,Landslide (wet),1
+2008,Indonesia,9,Ground movement,1
+2008,Indonesia,9,Riverine flood,1
+2008,Indonesia,10,Riverine flood,1
+2008,Indonesia,11,Ground movement,1
+2008,Indonesia,11,Riverine flood,1
+2008,Indonesia,12,Riverine flood,1
+2008,Iran (Islamic Republic of),1,Blizzard/Winter storm,1
+2008,Iran (Islamic Republic of),5,Ground movement,1
+2008,Iran (Islamic Republic of),8,Riverine flood,1
+2008,Iran (Islamic Republic of),9,Ground movement,1
+2008,Iran (Islamic Republic of),9,Riverine flood,1
+2008,Iraq,9,Riverine flood,1
+2008,Japan,6,Ground movement,1
+2008,Japan,7,Ground movement,1
+2008,Japan,7,Heat wave,1
+2008,Japan,7,Riverine flood,1
+2008,Kazakhstan,2,Riverine flood,1
+2008,Kyrgyzstan,1,Ground movement,1
+2008,Kyrgyzstan,10,Ground movement,1
+2008,Lao People's Democratic Republic,8,Riverine flood,1
+2008,Malaysia,12,Flash flood,1
+2008,Malaysia,12,Riverine flood,1
+2008,Mongolia,5,Blizzard/Winter storm,1
+2008,Myanmar,5,Tropical cyclone,1
+2008,Nepal,7,Riverine flood,1
+2008,Nepal,9,Riverine flood,1
+2008,Pakistan,5,Riverine flood,1
+2008,Pakistan,8,Riverine flood,2
+2008,Pakistan,10,Ground movement,1
+2008,Philippines,1,Riverine flood,1
+2008,Philippines,2,Riverine flood,1
+2008,Philippines,4,Tropical cyclone,1
+2008,Philippines,5,Tropical cyclone,2
+2008,Philippines,6,Flash flood,1
+2008,Philippines,6,Riverine flood,1
+2008,Philippines,6,Tropical cyclone,1
+2008,Philippines,7,Tropical cyclone,2
+2008,Philippines,8,Riverine flood,1
+2008,Philippines,8,Tropical cyclone,2
+2008,Philippines,9,Landslide (wet),1
+2008,Philippines,9,Riverine flood,1
+2008,Philippines,9,Tropical cyclone,2
+2008,Philippines,11,Flash flood,1
+2008,Philippines,11,Tropical cyclone,1
+2008,Philippines,12,Riverine flood,1
+2008,Republic of Korea,5,Coastal flood,1
+2008,Sri Lanka,3,Riverine flood,1
+2008,Sri Lanka,4,Tropical cyclone,1
+2008,Sri Lanka,5,Flash flood,1
+2008,Sri Lanka,11,Flash flood,1
+2008,State of Palestine,10,Flash flood,1
+2008,Taiwan (Province of China),7,Tropical cyclone,2
+2008,Taiwan (Province of China),9,Tropical cyclone,3
+2008,Tajikistan,1,Severe winter conditions,1
+2008,Tajikistan,10,Drought,1
+2008,Thailand,4,Drought,1
+2008,Thailand,5,Tropical cyclone,1
+2008,Thailand,8,Tropical cyclone,1
+2008,Thailand,9,Riverine flood,1
+2008,Thailand,11,Flash flood,1
+2008,Thailand,12,Flash flood,1
+2008,Türkiye,8,Forest fire,1
+2008,Viet Nam,5,Flash flood,1
+2008,Viet Nam,8,Riverine flood,1
+2008,Viet Nam,8,Tropical cyclone,1
+2008,Viet Nam,9,Tropical cyclone,2
+2008,Viet Nam,10,Flash flood,1
+2008,Viet Nam,10,Riverine flood,1
+2008,Viet Nam,11,Tropical cyclone,2
+2008,Viet Nam,12,Riverine flood,1
+2008,Yemen,10,Flash flood,1
+2009,Afghanistan,1,Avalanche (wet),1
+2009,Afghanistan,3,Riverine flood,1
+2009,Afghanistan,4,Flash flood,1
+2009,Afghanistan,4,Ground movement,1
+2009,Afghanistan,9,Riverine flood,1
+2009,Azerbaijan,9,Riverine flood,1
+2009,Bangladesh,4,Tropical cyclone,1
+2009,Bangladesh,5,Tropical cyclone,1
+2009,Bangladesh,7,Drought,1
+2009,Bangladesh,7,Riverine flood,2
+2009,Bangladesh,12,Cold wave,1
+2009,Bhutan,5,Tropical cyclone,1
+2009,Bhutan,9,Ground movement,1
+2009,Cambodia,9,Tropical cyclone,1
+2009,Cambodia,11,Tropical cyclone,1
+2009,China,1,Ground movement,1
+2009,China,4,Riverine flood,1
+2009,China,6,Drought,1
+2009,China,6,Hail,1
+2009,China,6,Landslide (wet),1
+2009,China,6,Riverine flood,2
+2009,China,6,Severe weather,1
+2009,China,7,Ground movement,1
+2009,China,7,Landslide (wet),2
+2009,China,7,Riverine flood,3
+2009,China,8,Landslide (wet),1
+2009,China,8,Lightning/Thunderstorms,1
+2009,China,8,Riverine flood,1
+2009,China,8,Severe weather,1
+2009,China,8,Tropical cyclone,2
+2009,China,9,Tropical cyclone,1
+2009,China,10,Drought,1
+2009,China,10,Tropical cyclone,1
+2009,China,11,Blizzard/Winter storm,2
+2009,China,11,Landslide (wet),1
+2009,"China, Hong Kong Special Administrative Region",9,Tropical cyclone,1
+2009,Georgia,9,Ground movement,1
+2009,India,3,Tornado,1
+2009,India,4,Heat wave,1
+2009,India,5,Severe weather,1
+2009,India,5,Tropical cyclone,1
+2009,India,6,Lightning/Thunderstorms,1
+2009,India,6,Severe weather,1
+2009,India,7,Drought,1
+2009,India,7,Flash flood,1
+2009,India,7,Riverine flood,1
+2009,India,8,Landslide (wet),1
+2009,India,8,Riverine flood,1
+2009,India,9,Landslide (wet),1
+2009,India,9,Riverine flood,1
+2009,India,10,Riverine flood,1
+2009,India,11,Riverine flood,1
+2009,India,11,Tropical cyclone,1
+2009,Indonesia,1,Flash flood,1
+2009,Indonesia,1,Ground movement,1
+2009,Indonesia,1,Landslide (wet),1
+2009,Indonesia,2,Ground movement,1
+2009,Indonesia,3,Riverine flood,1
+2009,Indonesia,9,Flash flood,1
+2009,Indonesia,9,Ground movement,2
+2009,Indonesia,10,Flash flood,1
+2009,Indonesia,11,Ground movement,1
+2009,Indonesia,11,Landslide (wet),1
+2009,Indonesia,12,Flash flood,1
+2009,Iran (Islamic Republic of),11,Ground movement,1
+2009,Iraq,10,Flash flood,1
+2009,Japan,7,Heat wave,1
+2009,Japan,7,Landslide (wet),2
+2009,Japan,8,Tropical cyclone,1
+2009,Japan,8,Tsunami,1
+2009,Japan,10,Tropical cyclone,1
+2009,Lao People's Democratic Republic,8,Riverine flood,1
+2009,Lao People's Democratic Republic,9,Tropical cyclone,1
+2009,Malaysia,11,Riverine flood,2
+2009,Mongolia,7,Riverine flood,1
+2009,Mongolia,12,Cold wave,1
+2009,Myanmar,7,Landslide (wet),1
+2009,Nepal,7,Landslide (wet),1
+2009,Nepal,7,Riverine flood,1
+2009,Nepal,10,Riverine flood,1
+2009,Nepal,12,Cold wave,1
+2009,Pakistan,4,Flash flood,1
+2009,Pakistan,7,Riverine flood,1
+2009,Pakistan,8,Flash flood,1
+2009,Philippines,1,Flash flood,1
+2009,Philippines,1,Riverine flood,2
+2009,Philippines,4,Tropical cyclone,1
+2009,Philippines,5,Flash flood,1
+2009,Philippines,5,Landslide (wet),1
+2009,Philippines,5,Riverine flood,1
+2009,Philippines,5,Tornado,1
+2009,Philippines,5,Tropical cyclone,1
+2009,Philippines,7,Flash flood,2
+2009,Philippines,7,Tropical cyclone,2
+2009,Philippines,8,Riverine flood,1
+2009,Philippines,8,Tropical cyclone,2
+2009,Philippines,9,Ground movement,1
+2009,Philippines,9,Tropical cyclone,5
+2009,Philippines,10,Tropical cyclone,1
+2009,Philippines,11,Tropical cyclone,1
+2009,Philippines,12,Ash fall,1
+2009,Saudi Arabia,11,Riverine flood,1
+2009,Sri Lanka,8,Flash flood,1
+2009,Sri Lanka,11,Flash flood,1
+2009,Sri Lanka,12,Flash flood,1
+2009,Taiwan (Province of China),8,Tropical cyclone,1
+2009,Tajikistan,4,Riverine flood,1
+2009,Thailand,11,Riverine flood,1
+2009,Türkiye,1,Avalanche (wet),1
+2009,Türkiye,7,Riverine flood,1
+2009,Türkiye,9,Flash flood,1
+2009,Türkiye,11,Landslide (wet),1
+2009,Viet Nam,7,Riverine flood,1
+2009,Viet Nam,9,Riverine flood,1
+2009,Viet Nam,9,Tropical cyclone,1
+2009,Viet Nam,10,Tropical cyclone,1
+2009,Viet Nam,11,Landslide (wet),1
+2009,Viet Nam,11,Tropical cyclone,1
+2009,Yemen,8,Landslide (wet),1
+2010,Afghanistan,2,Avalanche (wet),1
+2010,Afghanistan,3,Avalanche (wet),1
+2010,Afghanistan,4,Ground movement,1
+2010,Afghanistan,5,Riverine flood,1
+2010,Afghanistan,7,Riverine flood,1
+2010,Azerbaijan,5,Riverine flood,1
+2010,Bangladesh,4,Tropical cyclone,2
+2010,Bangladesh,5,Lightning/Thunderstorms,1
+2010,Bangladesh,6,Flash flood,1
+2010,Bangladesh,6,Landslide (wet),1
+2010,Bangladesh,10,Riverine flood,1
+2010,Cambodia,10,Riverine flood,1
+2010,China,1,Blizzard/Winter storm,1
+2010,China,1,Ground movement,2
+2010,China,2,Ground movement,1
+2010,China,3,Landslide (wet),1
+2010,China,4,Ground movement,1
+2010,China,5,Landslide (wet),1
+2010,China,5,Riverine flood,1
+2010,China,5,Tornado,1
+2010,China,6,Landslide (wet),1
+2010,China,6,Riverine flood,1
+2010,China,7,Landslide (wet),1
+2010,China,7,Tropical cyclone,1
+2010,China,8,Ground movement,1
+2010,China,8,Landslide (wet),3
+2010,China,8,Riverine flood,2
+2010,China,9,Landslide (wet),1
+2010,China,9,Tropical cyclone,2
+2010,China,10,Riverine flood,1
+2010,China,10,Tropical cyclone,1
+2010,China,12,Drought,1
+2010,China,12,"Land fire (Brush, Bush, Pasture)",1
+2010,"China, Hong Kong Special Administrative Region",7,Tropical cyclone,1
+2010,Democratic People's Republic of Korea,7,Riverine flood,1
+2010,Democratic People's Republic of Korea,8,Riverine flood,1
+2010,Democratic People's Republic of Korea,9,Tropical cyclone,1
+2010,India,1,Cold wave,1
+2010,India,2,Avalanche (wet),1
+2010,India,3,Heat wave,1
+2010,India,4,Hail,1
+2010,India,4,Tropical cyclone,1
+2010,India,5,Riverine flood,1
+2010,India,5,Severe weather,1
+2010,India,5,Storm (General),1
+2010,India,5,Tropical cyclone,1
+2010,India,7,Riverine flood,2
+2010,India,8,Flash flood,1
+2010,India,8,Lightning/Thunderstorms,1
+2010,India,9,Riverine flood,3
+2010,India,10,Tropical cyclone,1
+2010,India,11,Riverine flood,1
+2010,Indonesia,1,Flash flood,1
+2010,Indonesia,1,Riverine flood,1
+2010,Indonesia,2,Riverine flood,1
+2010,Indonesia,6,Ground movement,1
+2010,Indonesia,7,Riverine flood,1
+2010,Indonesia,8,Ash fall,1
+2010,Indonesia,9,Riverine flood,1
+2010,Indonesia,10,Ash fall,1
+2010,Indonesia,10,Flash flood,1
+2010,Indonesia,10,Landslide (wet),1
+2010,Indonesia,10,Tsunami,1
+2010,Indonesia,11,Flash flood,1
+2010,Iran (Islamic Republic of),1,Ground movement,1
+2010,Iran (Islamic Republic of),7,Ground movement,2
+2010,Iran (Islamic Republic of),8,Ground movement,1
+2010,Iran (Islamic Republic of),11,Ground movement,1
+2010,Iran (Islamic Republic of),12,Ground movement,1
+2010,Israel,1,Riverine flood,1
+2010,Israel,12,Forest fire,1
+2010,Japan,7,Heat wave,1
+2010,Japan,7,Riverine flood,1
+2010,Kazakhstan,2,Flash flood,1
+2010,Kazakhstan,3,Riverine flood,1
+2010,Kyrgyzstan,6,Landslide (wet),1
+2010,Myanmar,6,Landslide (wet),1
+2010,Myanmar,10,Tropical cyclone,1
+2010,Nepal,7,Riverine flood,1
+2010,Nepal,8,Riverine flood,1
+2010,Oman,6,Tropical cyclone,1
+2010,Pakistan,1,Landslide (wet),1
+2010,Pakistan,2,Avalanche (wet),1
+2010,Pakistan,2,Riverine flood,1
+2010,Pakistan,6,Riverine flood,1
+2010,Pakistan,6,Tropical cyclone,1
+2010,Pakistan,7,Flash flood,2
+2010,Philippines,1,Flash flood,1
+2010,Philippines,1,Landslide (wet),1
+2010,Philippines,1,Riverine flood,1
+2010,Philippines,5,Riverine flood,1
+2010,Philippines,6,Riverine flood,1
+2010,Philippines,7,Riverine flood,1
+2010,Philippines,7,Tropical cyclone,1
+2010,Philippines,8,Flash flood,1
+2010,Philippines,8,Tropical cyclone,1
+2010,Philippines,9,Flash flood,1
+2010,Philippines,10,Tropical cyclone,1
+2010,Philippines,11,Ash fall,1
+2010,Philippines,11,Riverine flood,1
+2010,Philippines,12,Flash flood,1
+2010,Republic of Korea,9,Tropical cyclone,1
+2010,Saudi Arabia,7,Riverine flood,2
+2010,Sri Lanka,5,Riverine flood,1
+2010,Sri Lanka,11,Flash flood,1
+2010,State of Palestine,1,Riverine flood,1
+2010,Taiwan (Province of China),3,Ground movement,1
+2010,Taiwan (Province of China),9,Tropical cyclone,1
+2010,Taiwan (Province of China),10,Tropical cyclone,1
+2010,Tajikistan,1,Ground movement,1
+2010,Tajikistan,4,Riverine flood,1
+2010,Tajikistan,5,Riverine flood,1
+2010,Thailand,3,Drought,1
+2010,Thailand,10,Riverine flood,1
+2010,Türkiye,3,Ground movement,1
+2010,Türkiye,8,Landslide (wet),1
+2010,Viet Nam,7,Tropical cyclone,2
+2010,Viet Nam,8,Tropical cyclone,1
+2010,Viet Nam,10,Flash flood,1
+2010,Viet Nam,10,Riverine flood,2
+2010,Viet Nam,11,Riverine flood,1
+2010,Yemen,5,Riverine flood,1
+2010,Yemen,7,Riverine flood,1
+2011,Afghanistan,1,Drought,1
+2011,Afghanistan,2,Blizzard/Winter storm,1
+2011,Afghanistan,2,Riverine flood,1
+2011,Afghanistan,5,Riverine flood,1
+2011,Bangladesh,1,Cold wave,1
+2011,Bangladesh,4,Severe weather,1
+2011,Bangladesh,7,Flash flood,1
+2011,Bangladesh,7,Landslide (wet),1
+2011,Bangladesh,12,Cold wave,1
+2011,Bhutan,9,Ground movement,1
+2011,Cambodia,8,Riverine flood,1
+2011,China,1,Cold wave,1
+2011,China,2,Ground movement,1
+2011,China,3,Ground movement,2
+2011,China,4,Hail,1
+2011,China,5,Landslide (wet),1
+2011,China,6,Ground movement,1
+2011,China,6,Riverine flood,2
+2011,China,6,Tropical cyclone,2
+2011,China,7,Landslide (wet),1
+2011,China,7,Riverine flood,1
+2011,China,8,Ground movement,1
+2011,China,8,Riverine flood,1
+2011,China,8,Tropical cyclone,1
+2011,China,9,Ground movement,1
+2011,China,9,Riverine flood,1
+2011,China,9,Tropical cyclone,1
+2011,China,11,Ground movement,1
+2011,Democratic People's Republic of Korea,6,Riverine flood,1
+2011,Democratic People's Republic of Korea,7,Riverine flood,1
+2011,Democratic People's Republic of Korea,8,Tropical cyclone,1
+2011,Georgia,6,Flash flood,1
+2011,India,1,Cold wave,1
+2011,India,4,Lightning/Thunderstorms,1
+2011,India,5,Lightning/Thunderstorms,1
+2011,India,6,Riverine flood,1
+2011,India,7,Riverine flood,1
+2011,India,8,Riverine flood,3
+2011,India,9,Ground movement,1
+2011,India,9,Riverine flood,2
+2011,India,12,Cold wave,1
+2011,India,12,Tropical cyclone,1
+2011,Indonesia,1,Riverine flood,1
+2011,Indonesia,2,Flash flood,1
+2011,Indonesia,3,Riverine flood,2
+2011,Indonesia,3,Tsunami,1
+2011,Indonesia,4,Riverine flood,1
+2011,Indonesia,5,Landslide (wet),1
+2011,Indonesia,7,Ash fall,1
+2011,Indonesia,9,Ground movement,1
+2011,Indonesia,11,Landslide (wet),1
+2011,Indonesia,12,Ash fall,1
+2011,Indonesia,12,Riverine flood,1
+2011,Iraq,4,Flash flood,1
+2011,Japan,3,Tsunami,1
+2011,Japan,4,Ground movement,1
+2011,Japan,7,Flood (General),1
+2011,Japan,7,Heat wave,1
+2011,Japan,7,Storm (General),1
+2011,Japan,9,Tropical cyclone,2
+2011,Kazakhstan,4,Riverine flood,1
+2011,Kyrgyzstan,7,Ground movement,1
+2011,Lao People's Democratic Republic,6,Riverine flood,1
+2011,Lao People's Democratic Republic,8,Flash flood,1
+2011,Malaysia,1,Riverine flood,1
+2011,Malaysia,5,Landslide (wet),1
+2011,Myanmar,3,Ground movement,1
+2011,Myanmar,10,Flash flood,1
+2011,Nepal,1,Cold wave,1
+2011,Nepal,6,Riverine flood,1
+2011,Nepal,7,Landslide (wet),2
+2011,Nepal,7,Riverine flood,1
+2011,Nepal,9,Ground movement,1
+2011,Nepal,12,Cold wave,1
+2011,Oman,11,Tropical cyclone,1
+2011,Pakistan,1,Ground movement,1
+2011,Pakistan,8,Riverine flood,1
+2011,Philippines,1,Riverine flood,1
+2011,Philippines,2,Ash fall,1
+2011,Philippines,2,Riverine flood,1
+2011,Philippines,3,Ash fall,1
+2011,Philippines,3,Flash flood,1
+2011,Philippines,3,Riverine flood,1
+2011,Philippines,4,Landslide (wet),1
+2011,Philippines,5,Flash flood,1
+2011,Philippines,5,Riverine flood,1
+2011,Philippines,5,Tropical cyclone,2
+2011,Philippines,6,Flash flood,1
+2011,Philippines,6,Tropical cyclone,3
+2011,Philippines,7,Flash flood,1
+2011,Philippines,7,Landslide (wet),1
+2011,Philippines,7,Tropical cyclone,1
+2011,Philippines,8,Landslide (wet),1
+2011,Philippines,8,Riverine flood,1
+2011,Philippines,8,Tropical cyclone,2
+2011,Philippines,9,Flash flood,1
+2011,Philippines,9,Tropical cyclone,1
+2011,Philippines,10,Flash flood,1
+2011,Philippines,10,Tropical cyclone,2
+2011,Philippines,11,Flash flood,1
+2011,Philippines,11,Ground movement,1
+2011,Philippines,11,Riverine flood,1
+2011,Philippines,12,Riverine flood,2
+2011,Philippines,12,Tropical cyclone,1
+2011,Republic of Korea,7,Landslide (wet),1
+2011,Republic of Korea,7,Riverine flood,2
+2011,Saudi Arabia,1,Riverine flood,1
+2011,Sri Lanka,1,Riverine flood,1
+2011,Sri Lanka,2,Riverine flood,1
+2011,Sri Lanka,5,Riverine flood,1
+2011,Sri Lanka,11,Severe weather,1
+2011,Tajikistan,6,Riverine flood,1
+2011,Tajikistan,7,Ground movement,1
+2011,Thailand,3,Flash flood,1
+2011,Thailand,3,Ground movement,1
+2011,Thailand,6,Drought,1
+2011,Thailand,8,Riverine flood,1
+2011,Thailand,8,Tropical cyclone,1
+2011,Türkiye,5,Ground movement,1
+2011,Türkiye,10,Ground movement,1
+2011,Türkiye,10,Riverine flood,1
+2011,Türkiye,11,Ground movement,1
+2011,Uzbekistan,7,Ground movement,1
+2011,Viet Nam,6,Lightning/Thunderstorms,1
+2011,Viet Nam,6,Tropical cyclone,1
+2011,Viet Nam,9,Riverine flood,2
+2011,Viet Nam,10,Riverine flood,1
+2012,Afghanistan,1,Avalanche (wet),1
+2012,Afghanistan,1,Severe winter conditions,1
+2012,Afghanistan,3,Avalanche (wet),2
+2012,Afghanistan,4,Flash flood,1
+2012,Afghanistan,4,Riverine flood,1
+2012,Afghanistan,5,Flash flood,1
+2012,Afghanistan,5,Riverine flood,2
+2012,Afghanistan,6,Ground movement,1
+2012,Afghanistan,6,Riverine flood,1
+2012,Azerbaijan,2,Cold wave,1
+2012,Azerbaijan,5,Ground movement,2
+2012,Bangladesh,4,Severe weather,1
+2012,Bangladesh,6,Riverine flood,1
+2012,Bangladesh,9,Riverine flood,1
+2012,Bangladesh,10,Storm (General),1
+2012,Bangladesh,12,Cold wave,1
+2012,Cambodia,9,Flash flood,1
+2012,China,2,Severe winter conditions,1
+2012,China,3,Ground movement,1
+2012,China,4,Lightning/Thunderstorms,2
+2012,China,4,Riverine flood,1
+2012,China,5,Riverine flood,2
+2012,China,6,Ground movement,2
+2012,China,6,Riverine flood,1
+2012,China,7,Ground movement,1
+2012,China,7,Riverine flood,5
+2012,China,7,Tropical cyclone,1
+2012,China,8,Riverine flood,2
+2012,China,8,Tropical cyclone,4
+2012,China,9,Ground movement,1
+2012,China,9,Riverine flood,1
+2012,China,10,Landslide (wet),1
+2012,China,10,Tropical cyclone,1
+2012,China,12,Ground movement,1
+2012,Democratic People's Republic of Korea,4,Drought,1
+2012,Democratic People's Republic of Korea,7,Riverine flood,1
+2012,Democratic People's Republic of Korea,8,Tropical cyclone,1
+2012,Georgia,5,Flash flood,1
+2012,Georgia,7,Lightning/Thunderstorms,1
+2012,India,1,Cold wave,1
+2012,India,2,Avalanche (dry),1
+2012,India,6,Riverine flood,1
+2012,India,8,Riverine flood,3
+2012,India,9,Riverine flood,2
+2012,India,11,Tropical cyclone,1
+2012,India,12,Cold wave,1
+2012,Indonesia,1,Storm (General),1
+2012,Indonesia,2,Tornado,1
+2012,Indonesia,4,Ground movement,1
+2012,Indonesia,5,Landslide (wet),2
+2012,Indonesia,5,Riverine flood,1
+2012,Indonesia,7,Flash flood,1
+2012,Indonesia,7,Riverine flood,1
+2012,Indonesia,8,Flash flood,1
+2012,Indonesia,8,Ground movement,1
+2012,Indonesia,9,Flash flood,1
+2012,Indonesia,11,Riverine flood,1
+2012,Indonesia,12,Riverine flood,1
+2012,Iran (Islamic Republic of),1,Ground movement,1
+2012,Iran (Islamic Republic of),8,Ground movement,1
+2012,Iran (Islamic Republic of),10,Riverine flood,1
+2012,Iran (Islamic Republic of),12,Ground movement,1
+2012,Iraq,12,Riverine flood,1
+2012,Japan,1,Blizzard/Winter storm,1
+2012,Japan,4,Severe weather,1
+2012,Japan,5,Lightning/Thunderstorms,1
+2012,Japan,7,Riverine flood,1
+2012,Japan,8,Tropical cyclone,1
+2012,Japan,9,Tropical cyclone,2
+2012,Kazakhstan,2,Riverine flood,1
+2012,Kazakhstan,12,Severe winter conditions,1
+2012,Kyrgyzstan,4,Riverine flood,1
+2012,Kyrgyzstan,12,Cold wave,1
+2012,Myanmar,7,Riverine flood,1
+2012,Myanmar,11,Ground movement,1
+2012,Nepal,5,Riverine flood,1
+2012,Nepal,9,Avalanche (wet),1
+2012,Pakistan,4,Avalanche (wet),1
+2012,Pakistan,8,Riverine flood,2
+2012,Pakistan,9,Flash flood,1
+2012,Pakistan,11,Landslide (wet),1
+2012,Philippines,1,Landslide (wet),1
+2012,Philippines,1,Riverine flood,1
+2012,Philippines,2,Ground movement,1
+2012,Philippines,2,Riverine flood,2
+2012,Philippines,3,Riverine flood,1
+2012,Philippines,6,Flash flood,2
+2012,Philippines,6,Riverine flood,1
+2012,Philippines,7,Tropical cyclone,1
+2012,Philippines,8,Ground movement,1
+2012,Philippines,8,Riverine flood,1
+2012,Philippines,8,Tropical cyclone,2
+2012,Philippines,9,Ground movement,1
+2012,Philippines,9,Tropical cyclone,2
+2012,Philippines,10,Tropical cyclone,2
+2012,Philippines,12,Tropical cyclone,2
+2012,Republic of Korea,8,Tropical cyclone,2
+2012,Republic of Korea,9,Tropical cyclone,1
+2012,Saudi Arabia,4,Riverine flood,1
+2012,Sri Lanka,1,Drought,1
+2012,Sri Lanka,10,Tropical cyclone,1
+2012,Sri Lanka,12,Riverine flood,1
+2012,State of Palestine,2,Riverine flood,1
+2012,Taiwan (Province of China),6,Riverine flood,1
+2012,Taiwan (Province of China),8,Tropical cyclone,2
+2012,Tajikistan,2,Riverine flood,1
+2012,Tajikistan,2,Severe winter conditions,1
+2012,Tajikistan,5,Ground movement,1
+2012,Thailand,4,Drought,1
+2012,Thailand,8,Riverine flood,1
+2012,Türkiye,7,Riverine flood,1
+2012,Viet Nam,7,Tropical cyclone,1
+2012,Viet Nam,8,Tropical cyclone,1
+2012,Viet Nam,9,Riverine flood,1
+2012,Viet Nam,10,Tropical cyclone,1
+2013,Afghanistan,2,Riverine flood,1
+2013,Afghanistan,4,Ground movement,1
+2013,Afghanistan,4,Riverine flood,1
+2013,Afghanistan,8,Riverine flood,2
+2013,Afghanistan,9,Landslide (wet),1
+2013,Armenia,5,Severe weather,1
+2013,Armenia,12,Severe winter conditions,1
+2013,Bangladesh,3,Severe weather,1
+2013,Bangladesh,3,Tornado,1
+2013,Bangladesh,5,Tropical cyclone,1
+2013,Cambodia,9,Riverine flood,1
+2013,China,1,Drought,1
+2013,China,1,Landslide (dry),1
+2013,China,2,Blizzard/Winter storm,1
+2013,China,3,Ground movement,1
+2013,China,3,Landslide (wet),1
+2013,China,3,Lightning/Thunderstorms,2
+2013,China,4,Ground movement,2
+2013,China,4,Landslide (wet),1
+2013,China,4,Lightning/Thunderstorms,1
+2013,China,5,Riverine flood,4
+2013,China,6,Lightning/Thunderstorms,1
+2013,China,6,Riverine flood,3
+2013,China,7,Ground movement,1
+2013,China,7,Heat wave,1
+2013,China,7,Landslide (wet),1
+2013,China,7,Riverine flood,3
+2013,China,7,Tropical cyclone,3
+2013,China,8,Ground movement,1
+2013,China,8,Riverine flood,2
+2013,China,8,Tropical cyclone,3
+2013,China,9,Riverine flood,1
+2013,China,9,Tropical cyclone,2
+2013,China,10,Tropical cyclone,1
+2013,China,11,Ground movement,1
+2013,China,11,Tropical cyclone,1
+2013,China,12,Ground movement,2
+2013,China,12,Riverine flood,1
+2013,Democratic People's Republic of Korea,7,Riverine flood,1
+2013,Georgia,3,Severe weather,1
+2013,Georgia,7,Riverine flood,1
+2013,Georgia,8,Flash flood,1
+2013,India,3,Tornado,1
+2013,India,4,Heat wave,1
+2013,India,5,Ground movement,1
+2013,India,5,Tropical cyclone,1
+2013,India,6,Flood (General),1
+2013,India,6,Riverine flood,1
+2013,India,7,Riverine flood,1
+2013,India,8,Riverine flood,1
+2013,India,10,Lightning/Thunderstorms,1
+2013,India,10,Riverine flood,1
+2013,India,10,Tropical cyclone,1
+2013,India,11,Tropical cyclone,1
+2013,Indonesia,1,Ground movement,1
+2013,Indonesia,1,Landslide (wet),1
+2013,Indonesia,1,Riverine flood,2
+2013,Indonesia,2,Riverine flood,2
+2013,Indonesia,3,Landslide (wet),1
+2013,Indonesia,4,Riverine flood,1
+2013,Indonesia,7,Ground movement,1
+2013,Indonesia,7,Riverine flood,1
+2013,Indonesia,9,Ash fall,1
+2013,Indonesia,9,Riverine flood,1
+2013,Indonesia,10,Ground movement,1
+2013,Indonesia,10,Riverine flood,1
+2013,Indonesia,12,Riverine flood,2
+2013,Iran (Islamic Republic of),4,Ground movement,2
+2013,Iran (Islamic Republic of),11,Ground movement,1
+2013,Iraq,11,Riverine flood,1
+2013,Israel,12,Blizzard/Winter storm,1
+2013,Japan,1,Blizzard/Winter storm,1
+2013,Japan,2,Blizzard/Winter storm,1
+2013,Japan,4,Ground movement,1
+2013,Japan,5,Heat wave,1
+2013,Japan,7,Riverine flood,1
+2013,Japan,9,Tornado,1
+2013,Japan,9,Tropical cyclone,2
+2013,Japan,10,Tropical cyclone,2
+2013,Lao People's Democratic Republic,6,Riverine flood,1
+2013,Lao People's Democratic Republic,9,Riverine flood,1
+2013,Malaysia,12,Riverine flood,1
+2013,Myanmar,5,Landslide (wet),1
+2013,Myanmar,7,Riverine flood,1
+2013,Nepal,1,Cold wave,1
+2013,Nepal,5,Riverine flood,1
+2013,Nepal,7,Flash flood,1
+2013,Pakistan,2,Riverine flood,1
+2013,Pakistan,4,Ground movement,1
+2013,Pakistan,8,Riverine flood,1
+2013,Pakistan,9,Ground movement,2
+2013,Philippines,1,Flash flood,1
+2013,Philippines,1,Tropical cyclone,1
+2013,Philippines,2,Tropical cyclone,1
+2013,Philippines,6,Tropical cyclone,1
+2013,Philippines,8,Riverine flood,2
+2013,Philippines,8,Tropical cyclone,1
+2013,Philippines,9,Riverine flood,1
+2013,Philippines,9,Tropical cyclone,1
+2013,Philippines,10,Ground movement,1
+2013,Philippines,10,Riverine flood,1
+2013,Philippines,10,Tropical cyclone,2
+2013,Philippines,11,Tropical cyclone,1
+2013,Saudi Arabia,5,Riverine flood,1
+2013,Saudi Arabia,11,Riverine flood,1
+2013,Sri Lanka,1,Riverine flood,1
+2013,Sri Lanka,5,Tropical cyclone,1
+2013,Sri Lanka,6,Riverine flood,1
+2013,State of Palestine,1,Riverine flood,1
+2013,State of Palestine,12,Blizzard/Winter storm,1
+2013,Taiwan (Province of China),3,Ground movement,1
+2013,Taiwan (Province of China),6,Ground movement,1
+2013,Taiwan (Province of China),7,Tropical cyclone,1
+2013,Taiwan (Province of China),8,Tropical cyclone,1
+2013,Taiwan (Province of China),9,Tropical cyclone,1
+2013,Tajikistan,1,Severe winter conditions,1
+2013,Thailand,7,Riverine flood,1
+2013,Thailand,9,Riverine flood,1
+2013,Thailand,11,Riverine flood,1
+2013,Türkiye,1,Landslide (wet),1
+2013,Viet Nam,7,Riverine flood,1
+2013,Viet Nam,8,Tropical cyclone,1
+2013,Viet Nam,9,Riverine flood,4
+2013,Viet Nam,9,Tropical cyclone,1
+2013,Viet Nam,10,Tropical cyclone,1
+2013,Viet Nam,11,Riverine flood,1
+2013,Viet Nam,11,Tropical cyclone,1
+2013,Yemen,8,Riverine flood,1
+2014,Afghanistan,2,Blizzard/Winter storm,1
+2014,Afghanistan,4,Flash flood,1
+2014,Afghanistan,6,Flash flood,1
+2014,Bangladesh,4,Storm (General),1
+2014,Bangladesh,6,Storm (General),1
+2014,Bangladesh,8,Riverine flood,1
+2014,Bangladesh,9,Flood (General),1
+2014,Cambodia,7,Flash flood,1
+2014,China,2,Blizzard/Winter storm,1
+2014,China,2,Ground movement,1
+2014,China,3,Blizzard/Winter storm,1
+2014,China,3,Lightning/Thunderstorms,1
+2014,China,4,Blizzard/Winter storm,1
+2014,China,4,Ground movement,1
+2014,China,4,Lightning/Thunderstorms,1
+2014,China,4,Severe weather,1
+2014,China,5,Ground movement,2
+2014,China,5,Riverine flood,2
+2014,China,6,Drought,1
+2014,China,6,Flood (General),1
+2014,China,6,Lightning/Thunderstorms,1
+2014,China,6,Riverine flood,3
+2014,China,6,Tropical cyclone,1
+2014,China,7,Lightning/Thunderstorms,1
+2014,China,7,Riverine flood,3
+2014,China,7,Tropical cyclone,2
+2014,China,8,Drought,1
+2014,China,8,Flash flood,1
+2014,China,8,Ground movement,1
+2014,China,8,Landslide (wet),1
+2014,China,8,Lightning/Thunderstorms,1
+2014,China,8,Riverine flood,1
+2014,China,9,Landslide (wet),1
+2014,China,9,Riverine flood,2
+2014,China,9,Severe weather,1
+2014,China,9,Tropical cyclone,2
+2014,China,10,Ground movement,1
+2014,China,11,Ground movement,1
+2014,China,12,Blizzard/Winter storm,1
+2014,China,12,Ground movement,1
+2014,Georgia,9,Riverine flood,1
+2014,India,1,Cold wave,1
+2014,India,3,Blizzard/Winter storm,1
+2014,India,3,Lightning/Thunderstorms,1
+2014,India,4,Storm (General),1
+2014,India,5,Lightning/Thunderstorms,1
+2014,India,6,Riverine flood,1
+2014,India,7,Landslide (wet),1
+2014,India,7,Riverine flood,1
+2014,India,8,Riverine flood,3
+2014,India,9,Riverine flood,2
+2014,India,10,Tropical cyclone,1
+2014,India,12,Cold wave,1
+2014,India,12,Severe winter conditions,1
+2014,Indonesia,1,Landslide (wet),1
+2014,Indonesia,1,Riverine flood,4
+2014,Indonesia,2,Ash fall,2
+2014,Indonesia,2,Riverine flood,1
+2014,Indonesia,11,Riverine flood,1
+2014,Indonesia,12,Landslide (wet),1
+2014,Iran (Islamic Republic of),1,Ground movement,1
+2014,Iran (Islamic Republic of),6,Flood (General),1
+2014,Iran (Islamic Republic of),8,Ground movement,1
+2014,Japan,2,Blizzard/Winter storm,2
+2014,Japan,7,Heat wave,1
+2014,Japan,7,Tropical cyclone,1
+2014,Japan,8,Landslide (wet),1
+2014,Japan,8,Tropical cyclone,2
+2014,Japan,9,Volcanic activity (General),1
+2014,Japan,10,Tropical cyclone,2
+2014,Japan,11,Ground movement,1
+2014,Japan,12,Blizzard/Winter storm,2
+2014,Kazakhstan,3,Flash flood,1
+2014,Kyrgyzstan,2,Blizzard/Winter storm,1
+2014,Lao People's Democratic Republic,8,Riverine flood,1
+2014,Malaysia,3,Drought,1
+2014,Malaysia,12,Riverine flood,1
+2014,Myanmar,8,Riverine flood,1
+2014,Myanmar,9,Riverine flood,1
+2014,Nepal,4,Avalanche (wet),1
+2014,Nepal,7,Riverine flood,2
+2014,Nepal,8,Flood (General),1
+2014,Nepal,8,Landslide (wet),1
+2014,Nepal,10,Blizzard/Winter storm,1
+2014,Pakistan,1,Heat wave,1
+2014,Pakistan,8,Lightning/Thunderstorms,1
+2014,Pakistan,9,Riverine flood,1
+2014,Philippines,1,Tropical cyclone,2
+2014,Philippines,6,Riverine flood,1
+2014,Philippines,7,Tropical cyclone,2
+2014,Philippines,8,Flash flood,1
+2014,Philippines,8,Flood (General),1
+2014,Philippines,9,Tropical cyclone,2
+2014,Philippines,9,Volcanic activity (General),1
+2014,Philippines,11,Tropical cyclone,1
+2014,Philippines,12,Tropical cyclone,2
+2014,Republic of Korea,2,Blizzard/Winter storm,1
+2014,Republic of Korea,8,Flash flood,1
+2014,Republic of Korea,8,Tropical cyclone,1
+2014,Sri Lanka,1,Drought,1
+2014,Sri Lanka,2,Riverine flood,1
+2014,Sri Lanka,6,Riverine flood,1
+2014,Sri Lanka,10,Landslide (wet),3
+2014,Sri Lanka,12,Riverine flood,1
+2014,Taiwan (Province of China),7,Tropical cyclone,1
+2014,Taiwan (Province of China),9,Tropical cyclone,1
+2014,Tajikistan,4,Flash flood,1
+2014,Tajikistan,5,Flash flood,1
+2014,Thailand,1,Cold wave,1
+2014,Thailand,3,Drought,1
+2014,Thailand,3,Lightning/Thunderstorms,1
+2014,Thailand,5,Ground movement,1
+2014,Thailand,9,Riverine flood,1
+2014,Thailand,11,Flash flood,1
+2014,Thailand,12,Riverine flood,2
+2014,Türkiye,5,Ground movement,1
+2014,Viet Nam,7,Tropical cyclone,1
+2014,Viet Nam,9,Tropical cyclone,1
+2014,Viet Nam,11,Tropical cyclone,1
+2015,Afghanistan,2,Avalanche (wet),3
+2015,Afghanistan,4,Landslide (wet),1
+2015,Afghanistan,5,Flash flood,1
+2015,Afghanistan,10,Ground movement,1
+2015,Afghanistan,12,Ground movement,1
+2015,Bangladesh,4,Ground movement,1
+2015,Bangladesh,4,Lightning/Thunderstorms,1
+2015,Bangladesh,5,Lightning/Thunderstorms,2
+2015,Bangladesh,6,Riverine flood,1
+2015,Bangladesh,7,Landslide (wet),1
+2015,Bangladesh,7,Riverine flood,1
+2015,Bangladesh,7,Tropical cyclone,1
+2015,Cambodia,9,Flood (General),1
+2015,Cambodia,9,Tropical cyclone,1
+2015,China,2,Ground movement,1
+2015,China,3,Blizzard/Winter storm,1
+2015,China,3,Ground movement,1
+2015,China,3,Severe weather,1
+2015,China,4,Ground movement,1
+2015,China,4,Lightning/Thunderstorms,1
+2015,China,4,Severe weather,2
+2015,China,4,Tropical cyclone,1
+2015,China,5,Drought,1
+2015,China,5,Flood (General),2
+2015,China,5,Ground movement,1
+2015,China,5,Riverine flood,1
+2015,China,5,Severe weather,1
+2015,China,6,Flood (General),1
+2015,China,6,Riverine flood,3
+2015,China,6,Severe weather,1
+2015,China,6,Tropical cyclone,1
+2015,China,7,Flood (General),1
+2015,China,7,Ground movement,1
+2015,China,7,Severe weather,1
+2015,China,7,Tropical cyclone,2
+2015,China,8,Flood (General),2
+2015,China,8,Tropical cyclone,1
+2015,China,9,Flood (General),1
+2015,China,9,Tropical cyclone,1
+2015,China,10,Severe weather,1
+2015,China,10,Tropical cyclone,1
+2015,China,11,Blizzard/Winter storm,1
+2015,China,11,Landslide (wet),1
+2015,China,11,Riverine flood,1
+2015,Democratic People's Republic of Korea,6,Drought,1
+2015,Democratic People's Republic of Korea,8,Riverine flood,1
+2015,Georgia,6,Flash flood,1
+2015,India,1,Drought,1
+2015,India,3,Flash flood,1
+2015,India,3,Lightning/Thunderstorms,1
+2015,India,4,Ground movement,1
+2015,India,4,Lightning/Thunderstorms,1
+2015,India,4,Severe weather,1
+2015,India,5,Flash flood,1
+2015,India,5,Ground movement,1
+2015,India,5,Heat wave,1
+2015,India,5,Lightning/Thunderstorms,1
+2015,India,6,Landslide (wet),1
+2015,India,6,Riverine flood,2
+2015,India,7,Flood (General),1
+2015,India,7,Riverine flood,2
+2015,India,8,Flood (General),2
+2015,India,9,Lightning/Thunderstorms,1
+2015,India,10,Ground movement,1
+2015,India,10,Lightning/Thunderstorms,1
+2015,India,11,Flood (General),1
+2015,Indonesia,1,Flash flood,1
+2015,Indonesia,1,Riverine flood,1
+2015,Indonesia,2,Riverine flood,2
+2015,Indonesia,3,Riverine flood,1
+2015,Indonesia,3,Rockfall (wet),1
+2015,Indonesia,5,Landslide (wet),1
+2015,Indonesia,7,Drought,1
+2015,Indonesia,7,Flood (General),1
+2015,Indonesia,9,Forest fire,1
+2015,Indonesia,9,Ground movement,1
+2015,Indonesia,12,Landslide (wet),1
+2015,Iran (Islamic Republic of),3,Flash flood,2
+2015,Iran (Islamic Republic of),7,Flash flood,1
+2015,Iran (Islamic Republic of),9,Flood (General),1
+2015,Iran (Islamic Republic of),11,Flash flood,1
+2015,Iraq,10,Flash flood,1
+2015,Israel,9,Sand/Dust storm,1
+2015,Japan,5,Heat wave,1
+2015,Japan,5,Tropical cyclone,1
+2015,Japan,7,Heat wave,1
+2015,Japan,7,Tropical cyclone,2
+2015,Japan,8,Heat wave,1
+2015,Japan,8,Tropical cyclone,1
+2015,Japan,9,Riverine flood,1
+2015,Japan,9,Tropical cyclone,2
+2015,Kazakhstan,4,Flash flood,1
+2015,Kyrgyzstan,11,Ground movement,1
+2015,Lao People's Democratic Republic,8,Flood (General),1
+2015,Lao People's Democratic Republic,9,Flood (General),1
+2015,Lebanon,1,Blizzard/Winter storm,1
+2015,Lebanon,2,Blizzard/Winter storm,1
+2015,Lebanon,9,Sand/Dust storm,1
+2015,Malaysia,1,Riverine flood,1
+2015,Malaysia,6,Ground movement,1
+2015,Mongolia,11,Severe winter conditions,1
+2015,Myanmar,4,Lightning/Thunderstorms,1
+2015,Myanmar,6,Riverine flood,1
+2015,Myanmar,7,Riverine flood,1
+2015,Myanmar,10,Flash flood,1
+2015,Myanmar,10,Landslide (wet),2
+2015,Nepal,4,Ground movement,1
+2015,Nepal,5,Ground movement,1
+2015,Nepal,6,Landslide (wet),1
+2015,Nepal,7,Landslide (wet),1
+2015,Oman,1,Severe weather,1
+2015,Pakistan,2,Riverine flood,1
+2015,Pakistan,4,Flash flood,1
+2015,Pakistan,6,Flash flood,1
+2015,Pakistan,6,Flood (General),1
+2015,Pakistan,6,Heat wave,1
+2015,Pakistan,7,Flood (General),1
+2015,Pakistan,7,Riverine flood,1
+2015,Pakistan,10,Ground movement,1
+2015,Pakistan,10,Rockfall (dry),1
+2015,Pakistan,12,Ground movement,1
+2015,Philippines,1,Tropical cyclone,1
+2015,Philippines,4,Tropical cyclone,1
+2015,Philippines,5,Tropical cyclone,1
+2015,Philippines,7,Flood (General),4
+2015,Philippines,7,Tropical cyclone,2
+2015,Philippines,8,Drought,1
+2015,Philippines,8,Riverine flood,1
+2015,Philippines,8,Tropical cyclone,2
+2015,Philippines,10,Tropical cyclone,2
+2015,Philippines,12,Tropical cyclone,1
+2015,Saudi Arabia,3,Riverine flood,1
+2015,Saudi Arabia,11,Flood (General),1
+2015,Sri Lanka,9,Flood (General),1
+2015,Sri Lanka,11,Flash flood,1
+2015,State of Palestine,1,Blizzard/Winter storm,1
+2015,State of Palestine,2,Blizzard/Winter storm,1
+2015,Syrian Arab Republic,1,Blizzard/Winter storm,1
+2015,Syrian Arab Republic,9,Sand/Dust storm,1
+2015,Taiwan (Province of China),7,Tropical cyclone,1
+2015,Taiwan (Province of China),8,Tropical cyclone,1
+2015,Taiwan (Province of China),9,Tropical cyclone,1
+2015,Tajikistan,4,Mudslide,1
+2015,Tajikistan,5,Riverine flood,1
+2015,Tajikistan,7,Riverine flood,1
+2015,Tajikistan,12,Ground movement,1
+2015,Thailand,1,Drought,1
+2015,Thailand,9,Tropical cyclone,1
+2015,Timor-Leste,11,Ground movement,1
+2015,Türkiye,1,Riverine flood,1
+2015,Türkiye,8,Flash flood,1
+2015,Viet Nam,6,Tropical cyclone,1
+2015,Viet Nam,7,Flash flood,1
+2015,Viet Nam,9,Flood (General),1
+2015,Viet Nam,9,Tropical cyclone,1
+2015,Viet Nam,12,Drought,1
+2015,Yemen,11,Tropical cyclone,2
+2016,Afghanistan,4,Flash flood,2
+2016,Afghanistan,5,Flood (General),1
+2016,Afghanistan,7,Flood (General),1
+2016,Armenia,6,Landslide (wet),1
+2016,Bangladesh,1,Ground movement,1
+2016,Bangladesh,5,Lightning/Thunderstorms,1
+2016,Bangladesh,5,Tropical cyclone,1
+2016,Bangladesh,7,Riverine flood,1
+2016,Cambodia,5,Drought,1
+2016,China,1,Cold wave,1
+2016,China,1,Riverine flood,1
+2016,China,3,Flash flood,1
+2016,China,4,Lightning/Thunderstorms,1
+2016,China,4,Riverine flood,1
+2016,China,5,Flood (General),1
+2016,China,5,Ground movement,1
+2016,China,5,Mudslide,1
+2016,China,5,Riverine flood,1
+2016,China,6,Drought,1
+2016,China,6,Flood (General),4
+2016,China,6,Storm (General),2
+2016,China,6,Tornado,1
+2016,China,7,Flood (General),1
+2016,China,7,Landslide (wet),2
+2016,China,7,Tropical cyclone,1
+2016,China,8,Flood (General),1
+2016,China,8,Severe weather,1
+2016,China,8,Storm (General),1
+2016,China,8,Tropical cyclone,1
+2016,China,9,Flood (General),1
+2016,China,9,Lightning/Thunderstorms,1
+2016,China,9,Tropical cyclone,2
+2016,China,10,Tropical cyclone,2
+2016,China,11,Ground movement,1
+2016,China,12,Ground movement,1
+2016,Democratic People's Republic of Korea,8,Riverine flood,1
+2016,India,1,Ground movement,1
+2016,India,2,Avalanche (wet),1
+2016,India,2,Forest fire,1
+2016,India,4,Flood (General),1
+2016,India,4,Heat wave,1
+2016,India,5,Landslide (wet),1
+2016,India,6,Flash flood,1
+2016,India,6,Lightning/Thunderstorms,2
+2016,India,7,Flash flood,1
+2016,India,7,Flood (General),3
+2016,India,8,Flood (General),1
+2016,India,9,Flood (General),1
+2016,India,12,Tropical cyclone,1
+2016,Indonesia,1,Ground movement,1
+2016,Indonesia,2,Flood (General),2
+2016,Indonesia,3,Flood (General),1
+2016,Indonesia,3,Riverine flood,1
+2016,Indonesia,5,Landslide (wet),1
+2016,Indonesia,6,Landslide (wet),1
+2016,Indonesia,7,Flood (General),1
+2016,Indonesia,8,Ground movement,1
+2016,Indonesia,9,Flood (General),1
+2016,Indonesia,10,Flood (General),1
+2016,Indonesia,11,Flood (General),1
+2016,Indonesia,11,Riverine flood,1
+2016,Indonesia,12,Flood (General),1
+2016,Indonesia,12,Ground movement,1
+2016,Iran (Islamic Republic of),9,Lightning/Thunderstorms,1
+2016,Israel,11,"Land fire (Brush, Bush, Pasture)",1
+2016,Japan,1,Cold wave,1
+2016,Japan,4,Ground movement,2
+2016,Japan,6,Flood (General),1
+2016,Japan,8,Heat wave,1
+2016,Japan,8,Tropical cyclone,1
+2016,Japan,9,Tropical cyclone,2
+2016,Japan,10,Ground movement,1
+2016,Japan,10,Tropical cyclone,1
+2016,Lao People's Democratic Republic,8,Flood (General),1
+2016,Malaysia,2,Flood (General),1
+2016,Malaysia,7,Flood (General),1
+2016,Malaysia,11,Flood (General),1
+2016,Malaysia,12,Flood (General),1
+2016,Mongolia,12,Severe winter conditions,1
+2016,Myanmar,4,Lightning/Thunderstorms,2
+2016,Myanmar,5,Landslide (wet),1
+2016,Myanmar,6,Flood (General),1
+2016,Myanmar,7,Flood (General),1
+2016,Myanmar,8,Ground movement,1
+2016,Nepal,2,Forest fire,1
+2016,Nepal,6,Flood (General),1
+2016,Nepal,7,Flash flood,1
+2016,Oman,4,Flash flood,1
+2016,Pakistan,3,Riverine flood,1
+2016,Pakistan,4,Flash flood,1
+2016,Pakistan,4,Ground movement,1
+2016,Pakistan,6,Lightning/Thunderstorms,1
+2016,Pakistan,7,Flash flood,1
+2016,Pakistan,7,Flood (General),1
+2016,Pakistan,8,Flash flood,1
+2016,Pakistan,8,Flood (General),2
+2016,Philippines,3,Ground movement,1
+2016,Philippines,7,Storm (General),1
+2016,Philippines,7,Tropical cyclone,1
+2016,Philippines,8,Flood (General),2
+2016,Philippines,9,Tropical cyclone,2
+2016,Philippines,10,Tropical cyclone,2
+2016,Philippines,11,Tropical cyclone,1
+2016,Philippines,12,Tropical cyclone,1
+2016,Republic of Korea,1,Cold wave,1
+2016,Republic of Korea,9,Ground movement,1
+2016,Republic of Korea,10,Tropical cyclone,1
+2016,Saudi Arabia,4,Flash flood,1
+2016,Saudi Arabia,4,Flood (General),1
+2016,Saudi Arabia,11,Blizzard/Winter storm,1
+2016,Sri Lanka,5,Flood (General),1
+2016,Sri Lanka,10,Drought,1
+2016,Taiwan (Province of China),1,Cold wave,1
+2016,Taiwan (Province of China),2,Ground movement,1
+2016,Tajikistan,5,Flood (General),1
+2016,Tajikistan,7,Ground movement,1
+2016,Thailand,1,Cold wave,1
+2016,Thailand,8,Flash flood,1
+2016,Thailand,10,Flood (General),1
+2016,Thailand,12,Flood (General),1
+2016,Timor-Leste,4,Drought,1
+2016,Viet Nam,7,Tropical cyclone,1
+2016,Viet Nam,8,Flood (General),1
+2016,Viet Nam,8,Storm (General),1
+2016,Viet Nam,8,Tropical cyclone,1
+2016,Viet Nam,10,Flood (General),1
+2016,Viet Nam,10,Riverine flood,1
+2016,Viet Nam,10,Tropical cyclone,1
+2016,Viet Nam,12,Flood (General),1
+2016,Yemen,4,Flash flood,1
+2016,Yemen,5,Landslide (wet),1
+2017,Afghanistan,1,Blizzard/Winter storm,1
+2017,Afghanistan,2,Avalanche (wet),2
+2017,Afghanistan,2,Blizzard/Winter storm,1
+2017,Afghanistan,7,Flood (General),1
+2017,Bangladesh,3,Riverine flood,1
+2017,Bangladesh,5,Lightning/Thunderstorms,1
+2017,Bangladesh,5,Tropical cyclone,1
+2017,Bangladesh,6,Mudslide,1
+2017,Bangladesh,8,Flood (General),1
+2017,China,1,Landslide (wet),1
+2017,China,3,Ground movement,1
+2017,China,3,Severe weather,1
+2017,China,4,Drought,1
+2017,China,4,Flood (General),1
+2017,China,4,Lightning/Thunderstorms,1
+2017,China,5,Ground movement,1
+2017,China,5,Lightning/Thunderstorms,1
+2017,China,5,Riverine flood,1
+2017,China,6,Flood (General),2
+2017,China,6,Riverine flood,1
+2017,China,6,Rockfall (wet),1
+2017,China,7,Flash flood,1
+2017,China,7,Flood (General),2
+2017,China,7,Lightning/Thunderstorms,2
+2017,China,7,Tropical cyclone,1
+2017,China,8,Flood (General),2
+2017,China,8,Ground movement,1
+2017,China,8,Landslide (wet),2
+2017,China,8,Tropical cyclone,3
+2017,China,9,Flood (General),1
+2017,China,10,Flood (General),1
+2017,China,11,Ground movement,1
+2017,"China, Hong Kong Special Administrative Region",8,Tropical cyclone,1
+2017,"China, Macao Special Administrative Region",8,Tropical cyclone,1
+2017,Democratic People's Republic of Korea,1,Drought,1
+2017,India,1,Avalanche (wet),1
+2017,India,3,Lightning/Thunderstorms,1
+2017,India,4,Heat wave,1
+2017,India,5,Lightning/Thunderstorms,1
+2017,India,5,Tropical cyclone,1
+2017,India,6,Flood (General),3
+2017,India,6,Riverine flood,1
+2017,India,7,Flood (General),1
+2017,India,7,Landslide (wet),1
+2017,India,7,Lightning/Thunderstorms,1
+2017,India,8,Flash flood,1
+2017,India,8,Flood (General),2
+2017,India,8,Landslide (wet),1
+2017,India,10,Flash flood,1
+2017,India,12,Tropical cyclone,1
+2017,Indonesia,2,Flood (General),1
+2017,Indonesia,2,Landslide (wet),1
+2017,Indonesia,3,Riverine flood,1
+2017,Indonesia,4,Flash flood,1
+2017,Indonesia,4,Landslide (wet),1
+2017,Indonesia,5,Flash flood,1
+2017,Indonesia,6,Riverine flood,1
+2017,Indonesia,9,Volcanic activity (General),1
+2017,Indonesia,11,Flash flood,1
+2017,Indonesia,11,Flood (General),1
+2017,Indonesia,11,Tropical cyclone,1
+2017,Indonesia,12,Ground movement,1
+2017,Iran (Islamic Republic of),4,Flash flood,1
+2017,Iran (Islamic Republic of),5,Ground movement,1
+2017,Iran (Islamic Republic of),8,Flash flood,1
+2017,Iran (Islamic Republic of),11,Ground movement,1
+2017,Iran (Islamic Republic of),12,Ground movement,1
+2017,Iraq,11,Ground movement,1
+2017,Japan,7,Riverine flood,1
+2017,Japan,8,Tropical cyclone,1
+2017,Japan,9,Tropical cyclone,1
+2017,Japan,10,Tropical cyclone,1
+2017,Kazakhstan,4,Riverine flood,1
+2017,Kyrgyzstan,4,Landslide (wet),1
+2017,Kyrgyzstan,5,Ground movement,1
+2017,Lao People's Democratic Republic,7,Tropical cyclone,1
+2017,Malaysia,1,Flood (General),1
+2017,Malaysia,11,Flood (General),1
+2017,Malaysia,11,Riverine flood,1
+2017,Malaysia,12,Storm (General),1
+2017,Mongolia,10,Avalanche (wet),1
+2017,Myanmar,6,Tropical cyclone,1
+2017,Myanmar,7,Riverine flood,1
+2017,Nepal,6,Flood (General),1
+2017,Nepal,6,Landslide (wet),1
+2017,Nepal,8,Flood (General),1
+2017,Oman,12,Flood (General),1
+2017,Pakistan,1,Flood (General),1
+2017,Pakistan,2,Avalanche (wet),1
+2017,Pakistan,4,Lightning/Thunderstorms,1
+2017,Pakistan,6,Flash flood,1
+2017,Pakistan,6,Lightning/Thunderstorms,1
+2017,Philippines,1,Flood (General),1
+2017,Philippines,2,Flood (General),1
+2017,Philippines,2,Ground movement,1
+2017,Philippines,4,Ground movement,1
+2017,Philippines,4,Tropical cyclone,1
+2017,Philippines,7,Ground movement,1
+2017,Philippines,7,Tropical cyclone,1
+2017,Philippines,8,Tropical cyclone,1
+2017,Philippines,9,Flash flood,1
+2017,Philippines,9,Tropical cyclone,1
+2017,Philippines,10,Tropical cyclone,1
+2017,Philippines,11,Tropical cyclone,1
+2017,Philippines,12,Storm (General),2
+2017,Republic of Korea,11,Ground movement,1
+2017,Saudi Arabia,11,Flood (General),1
+2017,Sri Lanka,5,Flood (General),1
+2017,Sri Lanka,11,Flood (General),1
+2017,Sri Lanka,11,Tropical cyclone,1
+2017,Taiwan (Province of China),5,Riverine flood,1
+2017,Taiwan (Province of China),7,Tropical cyclone,1
+2017,Tajikistan,1,Avalanche (wet),1
+2017,Tajikistan,6,Flood (General),1
+2017,Thailand,1,Riverine flood,1
+2017,Thailand,7,Flood (General),1
+2017,Thailand,7,Tropical cyclone,1
+2017,Thailand,9,Tropical cyclone,1
+2017,Thailand,10,Flood (General),1
+2017,Thailand,11,Riverine flood,1
+2017,Türkiye,7,Ground movement,1
+2017,Türkiye,7,Lightning/Thunderstorms,1
+2017,United Arab Emirates,12,Flood (General),1
+2017,Viet Nam,6,Flood (General),1
+2017,Viet Nam,7,Flood (General),1
+2017,Viet Nam,7,Tropical cyclone,1
+2017,Viet Nam,8,Flash flood,1
+2017,Viet Nam,8,Tropical cyclone,1
+2017,Viet Nam,9,Tropical cyclone,1
+2017,Viet Nam,10,Flood (General),1
+2017,Viet Nam,11,Flood (General),1
+2017,Viet Nam,11,Tropical cyclone,1
+2017,Yemen,8,Flood (General),1
+2018,Afghanistan,4,Drought,1
+2018,Afghanistan,7,Mudslide,1
+2018,Afghanistan,8,Flash flood,1
+2018,Armenia,8,Hail,1
+2018,Bangladesh,6,Flood (General),1
+2018,Cambodia,7,Flood (General),1
+2018,China,1,Blizzard/Winter storm,2
+2018,China,3,Lightning/Thunderstorms,1
+2018,China,5,Flood (General),4
+2018,China,5,Ground movement,1
+2018,China,7,Flood (General),2
+2018,China,7,Tropical cyclone,3
+2018,China,8,Ground movement,1
+2018,China,8,Tropical cyclone,3
+2018,China,9,Tropical cyclone,1
+2018,China,12,Blizzard/Winter storm,1
+2018,Democratic People's Republic of Korea,7,Heat wave,1
+2018,Democratic People's Republic of Korea,8,Flood (General),1
+2018,Democratic People's Republic of Korea,8,Tropical cyclone,1
+2018,Georgia,7,Flash flood,1
+2018,India,1,Cold wave,1
+2018,India,3,Forest fire,1
+2018,India,4,Lightning/Thunderstorms,2
+2018,India,5,Flash flood,1
+2018,India,5,Flood (General),1
+2018,India,5,Lightning/Thunderstorms,3
+2018,India,5,Sand/Dust storm,1
+2018,India,6,Flood (General),1
+2018,India,6,Lightning/Thunderstorms,1
+2018,India,6,Storm (General),1
+2018,India,7,Flood (General),2
+2018,India,8,Flash flood,1
+2018,India,8,Flood (General),1
+2018,India,9,Drought,1
+2018,India,9,Flood (General),2
+2018,India,10,Tropical cyclone,1
+2018,India,11,Tropical cyclone,1
+2018,India,12,Tropical cyclone,1
+2018,Indonesia,1,Ground movement,1
+2018,Indonesia,2,Flood (General),1
+2018,Indonesia,2,Landslide (wet),1
+2018,Indonesia,3,Flood (General),2
+2018,Indonesia,7,Ground movement,1
+2018,Indonesia,8,Ground movement,2
+2018,Indonesia,9,Tsunami,1
+2018,Indonesia,10,Flash flood,1
+2018,Indonesia,11,Flash flood,1
+2018,Indonesia,12,Flood (General),1
+2018,Indonesia,12,Landslide (wet),1
+2018,Indonesia,12,Volcanic activity (General),1
+2018,Iran (Islamic Republic of),7,Ground movement,1
+2018,Iran (Islamic Republic of),8,Ground movement,1
+2018,Iran (Islamic Republic of),10,Flash flood,1
+2018,Iran (Islamic Republic of),11,Ground movement,1
+2018,Iraq,11,Flash flood,1
+2018,Israel,4,Flash flood,1
+2018,Japan,6,Flood (General),1
+2018,Japan,6,Ground movement,1
+2018,Japan,7,Heat wave,1
+2018,Japan,9,Ground movement,1
+2018,Japan,9,Tropical cyclone,2
+2018,Jordan,10,Flash flood,1
+2018,Jordan,11,Flood (General),1
+2018,Kazakhstan,3,Flood (General),1
+2018,Lao People's Democratic Republic,7,Flood (General),1
+2018,Lao People's Democratic Republic,7,Tropical cyclone,1
+2018,Lao People's Democratic Republic,8,Tropical cyclone,1
+2018,Lebanon,1,Blizzard/Winter storm,1
+2018,Malaysia,1,Flood (General),1
+2018,Malaysia,2,Flash flood,1
+2018,Mongolia,1,Severe winter conditions,1
+2018,Mongolia,7,Flash flood,1
+2018,Mongolia,11,Blizzard/Winter storm,1
+2018,Myanmar,5,Landslide (dry),1
+2018,Myanmar,6,Flood (General),1
+2018,Myanmar,7,Flood (General),1
+2018,Myanmar,7,Landslide (wet),1
+2018,Myanmar,8,Flood (General),1
+2018,Nepal,1,Cold wave,1
+2018,Nepal,7,Flash flood,1
+2018,Oman,10,Tropical cyclone,1
+2018,Pakistan,5,Heat wave,1
+2018,Philippines,1,Flood (General),1
+2018,Philippines,1,Lava flow,1
+2018,Philippines,1,Tropical cyclone,1
+2018,Philippines,2,Tropical cyclone,1
+2018,Philippines,9,Tropical cyclone,2
+2018,Philippines,10,Tropical cyclone,1
+2018,Philippines,12,Tropical cyclone,1
+2018,Qatar,10,Flash flood,1
+2018,Sri Lanka,5,Flood (General),1
+2018,Sri Lanka,10,Flood (General),1
+2018,Sri Lanka,12,Flash flood,1
+2018,Taiwan (Province of China),2,Ground movement,1
+2018,Taiwan (Province of China),8,Tropical cyclone,1
+2018,Tajikistan,5,Flood (General),1
+2018,Türkiye,7,Landslide (wet),1
+2018,Viet Nam,6,Flash flood,1
+2018,Viet Nam,7,Tropical cyclone,1
+2018,Viet Nam,8,Flood (General),1
+2018,Viet Nam,8,Tropical cyclone,1
+2018,Viet Nam,11,Tropical cyclone,1
+2018,Viet Nam,12,Flash flood,1
+2018,Yemen,5,Tropical cyclone,1
+2018,Yemen,10,Tropical cyclone,1
+2019,Afghanistan,1,Flash flood,1
+2019,Afghanistan,3,Flood (General),3
+2019,Afghanistan,5,Flash flood,1
+2019,Afghanistan,6,Flash flood,1
+2019,Afghanistan,12,Landslide (wet),1
+2019,Armenia,6,Hail,1
+2019,Bangladesh,3,Lightning/Thunderstorms,1
+2019,Bangladesh,5,Tropical cyclone,1
+2019,Bangladesh,6,Flood (General),1
+2019,Bangladesh,7,Landslide (wet),1
+2019,Bangladesh,11,Cold wave,1
+2019,Bangladesh,11,Tropical cyclone,1
+2019,Cambodia,9,Flood (General),1
+2019,China,2,Ground movement,1
+2019,China,4,Flood (General),1
+2019,China,4,Forest fire,1
+2019,China,6,Flood (General),1
+2019,China,6,Ground movement,1
+2019,China,7,Flood (General),1
+2019,China,7,Landslide (wet),1
+2019,China,7,Riverine flood,1
+2019,China,7,Tornado,1
+2019,China,8,Flash flood,1
+2019,China,8,Mudslide,1
+2019,China,8,Tropical cyclone,1
+2019,China,9,Ground movement,1
+2019,China,10,Flood (General),1
+2019,China,10,Tropical cyclone,1
+2019,Democratic People's Republic of Korea,9,Tropical cyclone,1
+2019,Georgia,5,Flood (General),1
+2019,India,4,Storm (General),1
+2019,India,5,Tropical cyclone,1
+2019,India,6,Flood (General),1
+2019,India,6,Heat wave,2
+2019,India,6,Lightning/Thunderstorms,2
+2019,India,7,Flood (General),1
+2019,India,8,Flood (General),1
+2019,India,10,Flood (General),1
+2019,India,11,Flood (General),1
+2019,India,11,Tropical cyclone,1
+2019,Indonesia,1,Flood (General),1
+2019,Indonesia,1,Landslide (wet),1
+2019,Indonesia,2,Ground movement,1
+2019,Indonesia,2,Wildfire (General),1
+2019,Indonesia,3,Flash flood,1
+2019,Indonesia,3,Flood (General),1
+2019,Indonesia,3,Ground movement,1
+2019,Indonesia,3,Landslide (wet),1
+2019,Indonesia,4,Flood (General),2
+2019,Indonesia,6,Flood (General),2
+2019,Indonesia,7,Ground movement,1
+2019,Indonesia,8,Ground movement,1
+2019,Indonesia,9,Ground movement,1
+2019,Indonesia,10,Flood (General),1
+2019,Indonesia,12,Flash flood,2
+2019,Indonesia,12,Flood (General),1
+2019,Iran (Islamic Republic of),3,Flood (General),2
+2019,Iran (Islamic Republic of),7,Ground movement,1
+2019,Iran (Islamic Republic of),10,Flood (General),1
+2019,Iran (Islamic Republic of),11,Ground movement,1
+2019,Iraq,3,Flood (General),1
+2019,Japan,6,Flood (General),1
+2019,Japan,6,Ground movement,1
+2019,Japan,8,Flood (General),1
+2019,Japan,9,Tropical cyclone,2
+2019,Japan,10,Flood (General),1
+2019,Japan,10,Tropical cyclone,2
+2019,Lao People's Democratic Republic,8,Flood (General),1
+2019,Lebanon,1,Severe weather,1
+2019,Malaysia,6,Flood (General),1
+2019,Malaysia,10,Flood (General),1
+2019,Malaysia,11,Flood (General),1
+2019,Malaysia,12,Flood (General),1
+2019,Maldives,5,Flood (General),1
+2019,Mongolia,1,Severe winter conditions,1
+2019,Mongolia,5,Storm surge,1
+2019,Mongolia,6,Flood (General),1
+2019,Myanmar,7,Flood (General),1
+2019,Myanmar,7,Landslide (wet),1
+2019,Myanmar,8,Flood (General),1
+2019,Nepal,3,Severe weather,1
+2019,Nepal,7,Flood (General),1
+2019,Oman,5,Flood (General),1
+2019,Pakistan,1,Drought,1
+2019,Pakistan,2,Flood (General),1
+2019,Pakistan,4,Flash flood,1
+2019,Pakistan,4,Storm (General),1
+2019,Pakistan,7,Flash flood,2
+2019,Pakistan,7,Flood (General),1
+2019,Pakistan,8,Flood (General),2
+2019,Pakistan,9,Flood (General),1
+2019,Pakistan,9,Ground movement,1
+2019,Philippines,1,Tropical cyclone,1
+2019,Philippines,3,Drought,1
+2019,Philippines,4,Ground movement,1
+2019,Philippines,6,Flood (General),1
+2019,Philippines,7,Ground movement,2
+2019,Philippines,7,Tropical cyclone,1
+2019,Philippines,8,Tropical cyclone,1
+2019,Philippines,10,Ground movement,3
+2019,Philippines,11,Tropical cyclone,2
+2019,Philippines,12,Ground movement,1
+2019,Philippines,12,Tropical cyclone,2
+2019,Republic of Korea,4,Forest fire,1
+2019,Republic of Korea,9,Tropical cyclone,2
+2019,Republic of Korea,10,Tropical cyclone,1
+2019,Saudi Arabia,1,Flood (General),1
+2019,Saudi Arabia,5,Flood (General),1
+2019,Saudi Arabia,10,Flood (General),1
+2019,Sri Lanka,8,Drought,1
+2019,Sri Lanka,9,Flash flood,1
+2019,Sri Lanka,10,Flood (General),1
+2019,Sri Lanka,11,Flood (General),1
+2019,Sri Lanka,12,Flood (General),2
+2019,Syrian Arab Republic,3,Flood (General),1
+2019,Tajikistan,6,Flash flood,1
+2019,Thailand,1,Tropical cyclone,1
+2019,Thailand,7,Drought,1
+2019,Thailand,9,Flood (General),1
+2019,Türkiye,6,Flash flood,1
+2019,Türkiye,7,Flash flood,1
+2019,Türkiye,8,Flash flood,1
+2019,Türkiye,9,Ground movement,1
+2019,Viet Nam,5,Flood (General),1
+2019,Viet Nam,7,Drought,1
+2019,Viet Nam,8,Flash flood,1
+2019,Viet Nam,8,Flood (General),1
+2019,Viet Nam,9,Flood (General),1
+2019,Viet Nam,10,Flood (General),1
+2019,Viet Nam,11,Tropical cyclone,2
+2019,Yemen,5,Flood (General),1
+2019,Yemen,6,Flash flood,1
+2019,Yemen,7,Flood (General),1
+2020,Afghanistan,1,Blizzard/Winter storm,1
+2020,Afghanistan,2,Avalanche (wet),1
+2020,Afghanistan,3,Flash flood,1
+2020,Afghanistan,4,Flood (General),1
+2020,Afghanistan,5,Flash flood,1
+2020,Afghanistan,7,Flash flood,1
+2020,Afghanistan,8,Flash flood,1
+2020,Armenia,7,Hail,1
+2020,Bangladesh,5,Tropical cyclone,1
+2020,Bangladesh,6,Flood (General),1
+2020,Cambodia,9,Tropical cyclone,1
+2020,Cambodia,10,Tropical cyclone,1
+2020,China,3,Forest fire,1
+2020,China,5,Flood (General),1
+2020,China,5,Ground movement,1
+2020,China,6,Flood (General),2
+2020,China,6,Landslide (wet),1
+2020,China,8,Tropical cyclone,2
+2020,China,10,Tropical cyclone,1
+2020,China,11,Flood (General),1
+2020,Democratic People's Republic of Korea,8,Flood (General),1
+2020,Georgia,7,Flood (General),1
+2020,India,1,Blizzard/Winter storm,1
+2020,India,5,Flood (General),2
+2020,India,5,Landslide (wet),1
+2020,India,5,Tropical cyclone,1
+2020,India,6,Flood (General),2
+2020,India,6,Tropical cyclone,1
+2020,India,8,Landslide (wet),1
+2020,India,10,Flood (General),1
+2020,India,11,Tropical cyclone,1
+2020,Indonesia,1,Flash flood,1
+2020,Indonesia,1,Flood (General),3
+2020,Indonesia,2,Flood (General),2
+2020,Indonesia,2,Riverine flood,1
+2020,Indonesia,3,Flash flood,1
+2020,Indonesia,3,Flood (General),2
+2020,Indonesia,4,Flash flood,2
+2020,Indonesia,4,Flood (General),2
+2020,Indonesia,5,Flash flood,1
+2020,Indonesia,5,Flood (General),1
+2020,Indonesia,6,Flash flood,1
+2020,Indonesia,6,Flood (General),2
+2020,Indonesia,6,Ground movement,1
+2020,Indonesia,7,Flood (General),1
+2020,Indonesia,8,Flash flood,1
+2020,Indonesia,9,Landslide (wet),1
+2020,Indonesia,10,Flood (General),1
+2020,Indonesia,11,Ash fall,1
+2020,Indonesia,12,Flash flood,1
+2020,Indonesia,12,Flood (General),1
+2020,Indonesia,12,Lava flow,1
+2020,Indonesia,12,Riverine flood,1
+2020,Iran (Islamic Republic of),1,Flood (General),1
+2020,Iran (Islamic Republic of),2,Flood (General),2
+2020,Iran (Islamic Republic of),2,Ground movement,1
+2020,Iran (Islamic Republic of),4,Flood (General),1
+2020,Iran (Islamic Republic of),11,Flood (General),2
+2020,Iran (Islamic Republic of),12,Avalanche (wet),1
+2020,Iraq,3,Flood (General),1
+2020,Israel,1,Flash flood,1
+2020,Israel,10,Wildfire (General),1
+2020,Japan,6,Flood (General),1
+2020,Japan,9,Tropical cyclone,2
+2020,Japan,12,Blizzard/Winter storm,1
+2020,Kazakhstan,5,Flood (General),1
+2020,Lao People's Democratic Republic,8,Tropical cyclone,1
+2020,Lao People's Democratic Republic,10,Tropical cyclone,1
+2020,Lebanon,10,Wildfire (General),1
+2020,Malaysia,4,Flood (General),1
+2020,Malaysia,6,Flood (General),2
+2020,Malaysia,10,Flood (General),1
+2020,Malaysia,12,Riverine flood,1
+2020,Mongolia,1,Blizzard/Winter storm,1
+2020,Mongolia,6,Flood (General),1
+2020,Mongolia,7,Flash flood,2
+2020,Myanmar,7,Flash flood,1
+2020,Myanmar,7,Landslide (wet),1
+2020,Nepal,6,Flood (General),1
+2020,Oman,5,Flood (General),1
+2020,Pakistan,1,Blizzard/Winter storm,1
+2020,Pakistan,3,Flash flood,1
+2020,Pakistan,3,Flood (General),1
+2020,Pakistan,6,Flood (General),1
+2020,Pakistan,8,Flood (General),1
+2020,Pakistan,10,Landslide (wet),1
+2020,Philippines,1,Ash fall,1
+2020,Philippines,5,Tropical cyclone,1
+2020,Philippines,8,Ground movement,1
+2020,Philippines,10,Tropical cyclone,3
+2020,Philippines,11,Tropical cyclone,1
+2020,Philippines,12,Landslide (wet),1
+2020,Philippines,12,Tropical cyclone,1
+2020,Republic of Korea,7,Flood (General),1
+2020,Republic of Korea,8,Flood (General),1
+2020,Republic of Korea,8,Tropical cyclone,1
+2020,Republic of Korea,9,Tropical cyclone,2
+2020,Saudi Arabia,8,Flood (General),1
+2020,Sri Lanka,5,Tropical cyclone,1
+2020,Sri Lanka,9,Flood (General),1
+2020,Sri Lanka,12,Flood (General),1
+2020,State of Palestine,1,Cold wave,1
+2020,Syrian Arab Republic,9,Wildfire (General),1
+2020,Taiwan (Province of China),8,Tropical cyclone,1
+2020,Tajikistan,5,Flood (General),1
+2020,Thailand,8,Flash flood,1
+2020,Thailand,8,Tropical cyclone,1
+2020,Thailand,9,Tropical cyclone,1
+2020,Thailand,10,Tropical cyclone,1
+2020,Thailand,11,Flash flood,1
+2020,Thailand,12,Flood (General),1
+2020,Timor-Leste,3,Riverine flood,1
+2020,Türkiye,1,Ground movement,1
+2020,Türkiye,1,Severe weather,1
+2020,Türkiye,2,Avalanche (wet),1
+2020,Türkiye,2,Ground movement,1
+2020,Türkiye,6,Flash flood,2
+2020,Türkiye,6,Ground movement,2
+2020,Türkiye,8,Flood (General),1
+2020,Türkiye,10,Ground movement,1
+2020,Uzbekistan,5,Flood (General),1
+2020,Viet Nam,3,Extra-tropical storm,1
+2020,Viet Nam,4,Lightning/Thunderstorms,1
+2020,Viet Nam,7,Flash flood,1
+2020,Viet Nam,7,Tropical cyclone,1
+2020,Viet Nam,9,Tropical cyclone,1
+2020,Viet Nam,10,Tropical cyclone,3
+2020,Viet Nam,11,Tropical cyclone,2
+2020,Yemen,3,Flash flood,1
+2020,Yemen,4,Flash flood,1
+2020,Yemen,6,Flood (General),1
+2020,Yemen,7,Flood (General),1
+2020,Yemen,8,Flood (General),1
+2021,Afghanistan,1,Drought,1
+2021,Afghanistan,3,Avalanche (wet),1
+2021,Afghanistan,5,Flash flood,1
+2021,Afghanistan,7,Flash flood,1
+2021,Bangladesh,5,Tropical cyclone,1
+2021,Bangladesh,7,Flood (General),1
+2021,Bhutan,4,Ground movement,1
+2021,Bhutan,6,Flash flood,1
+2021,Cambodia,4,Severe weather,1
+2021,Cambodia,9,Flood (General),1
+2021,Cambodia,10,Flood (General),2
+2021,China,1,Drought,1
+2021,China,3,Ground movement,1
+2021,China,3,Sand/Dust storm,1
+2021,China,4,Lightning/Thunderstorms,1
+2021,China,5,Ground movement,1
+2021,China,5,Severe weather,1
+2021,China,5,Tornado,1
+2021,China,6,Flood (General),2
+2021,China,6,Ground movement,1
+2021,China,7,Tropical cyclone,1
+2021,China,8,Flood (General),1
+2021,China,9,Ground movement,1
+2021,China,10,Flash flood,1
+2021,China,10,Severe weather,1
+2021,China,11,Blizzard/Winter storm,1
+2021,China,12,Ground movement,1
+2021,Cyprus,7,Forest fire,1
+2021,Democratic People's Republic of Korea,8,Flood (General),1
+2021,Georgia,9,Flood (General),1
+2021,India,2,Glacial lake outburst flood,1
+2021,India,4,Glacial lake outburst flood,1
+2021,India,4,Ground movement,1
+2021,India,5,Tropical cyclone,2
+2021,India,6,Flood (General),2
+2021,India,7,Flash flood,1
+2021,India,7,Flood (General),1
+2021,India,7,Landslide (wet),1
+2021,India,8,Landslide (wet),1
+2021,India,9,Flood (General),1
+2021,India,9,Tropical cyclone,1
+2021,India,10,Flood (General),2
+2021,India,10,Tropical cyclone,1
+2021,India,11,Flood (General),2
+2021,India,12,Tropical cyclone,1
+2021,Indonesia,1,Flood (General),1
+2021,Indonesia,1,Ground movement,1
+2021,Indonesia,1,Lava flow,1
+2021,Indonesia,1,Riverine flood,1
+2021,Indonesia,2,Flood (General),3
+2021,Indonesia,2,Landslide (wet),1
+2021,Indonesia,3,Flood (General),2
+2021,Indonesia,4,Ground movement,1
+2021,Indonesia,4,Landslide (wet),1
+2021,Indonesia,4,Tropical cyclone,1
+2021,Indonesia,5,Flood (General),1
+2021,Indonesia,6,Ground movement,1
+2021,Indonesia,7,Flood (General),1
+2021,Indonesia,8,Flood (General),1
+2021,Indonesia,9,Flood (General),1
+2021,Indonesia,10,Flood (General),2
+2021,Indonesia,10,Ground movement,1
+2021,Indonesia,11,Flash flood,1
+2021,Indonesia,11,Flood (General),1
+2021,Indonesia,12,Flood (General),3
+2021,Indonesia,12,Ground movement,1
+2021,Indonesia,12,Pyroclastic flow,1
+2021,Iran (Islamic Republic of),2,Ground movement,1
+2021,Iran (Islamic Republic of),4,Ground movement,1
+2021,Iran (Islamic Republic of),5,Flash flood,1
+2021,Iran (Islamic Republic of),7,Severe weather,1
+2021,Iran (Islamic Republic of),10,Tropical cyclone,1
+2021,Iran (Islamic Republic of),11,Ground movement,1
+2021,Iraq,10,Flood (General),1
+2021,Iraq,12,Flash flood,1
+2021,Japan,1,Blizzard/Winter storm,1
+2021,Japan,2,Ground movement,1
+2021,Japan,3,Ground movement,1
+2021,Japan,7,Flood (General),1
+2021,Japan,7,Mudslide,1
+2021,Japan,8,Flood (General),1
+2021,Kazakhstan,6,Drought,1
+2021,Kyrgyzstan,7,Mudslide,1
+2021,Lao People's Democratic Republic,6,Tropical cyclone,1
+2021,Lao People's Democratic Republic,12,Ground movement,1
+2021,Malaysia,1,Flood (General),3
+2021,Malaysia,5,Flood (General),1
+2021,Malaysia,8,Flash flood,1
+2021,Malaysia,9,Flood (General),1
+2021,Malaysia,10,Flash flood,1
+2021,Malaysia,12,Flash flood,1
+2021,Mongolia,3,Sand/Dust storm,1
+2021,Mongolia,6,Flash flood,1
+2021,Myanmar,7,Flood (General),1
+2021,Nepal,6,Flash flood,1
+2021,Nepal,7,Flood (General),1
+2021,Nepal,9,Flood (General),1
+2021,Nepal,10,Flood (General),1
+2021,Oman,7,Lightning/Thunderstorms,1
+2021,Oman,10,Tropical cyclone,1
+2021,Pakistan,3,Flood (General),1
+2021,Pakistan,5,Severe weather,1
+2021,Pakistan,7,Flash flood,1
+2021,Pakistan,7,Flood (General),1
+2021,Pakistan,7,Severe weather,1
+2021,Pakistan,9,Flood (General),1
+2021,Pakistan,10,Ground movement,1
+2021,Philippines,1,Flash flood,1
+2021,Philippines,1,Flood (General),1
+2021,Philippines,1,Severe weather,1
+2021,Philippines,2,Flood (General),1
+2021,Philippines,2,Tropical cyclone,1
+2021,Philippines,4,Flood (General),1
+2021,Philippines,4,Tropical cyclone,1
+2021,Philippines,7,Volcanic activity (General),1
+2021,Philippines,9,Tropical cyclone,1
+2021,Philippines,10,Flood (General),1
+2021,Philippines,10,Tropical cyclone,2
+2021,Philippines,12,Tropical cyclone,1
+2021,Republic of Korea,8,Tropical cyclone,1
+2021,Sri Lanka,1,Flood (General),1
+2021,Sri Lanka,5,Flood (General),1
+2021,Sri Lanka,5,Tropical cyclone,1
+2021,Sri Lanka,10,Flood (General),1
+2021,Sri Lanka,11,Flood (General),1
+2021,Syrian Arab Republic,1,Drought,1
+2021,Syrian Arab Republic,1,Flood (General),1
+2021,Taiwan (Province of China),1,Blizzard/Winter storm,1
+2021,Tajikistan,5,Flood (General),1
+2021,Tajikistan,7,Ground movement,1
+2021,Tajikistan,7,Mudslide,1
+2021,Thailand,1,Flood (General),1
+2021,Thailand,3,Severe weather,1
+2021,Thailand,8,Flood (General),1
+2021,Thailand,9,Flood (General),1
+2021,Thailand,10,Flood (General),1
+2021,Thailand,11,Flood (General),1
+2021,Timor-Leste,4,Tropical cyclone,1
+2021,Türkiye,7,Flood (General),1
+2021,Türkiye,7,Forest fire,1
+2021,Türkiye,8,Flood (General),1
+2021,Uzbekistan,7,Mudslide,1
+2021,Viet Nam,4,Flash flood,1
+2021,Viet Nam,6,Tropical cyclone,1
+2021,Viet Nam,9,Flood (General),1
+2021,Viet Nam,10,Tropical cyclone,1
+2021,Viet Nam,11,Flood (General),1
+2021,Viet Nam,12,Tropical cyclone,1
+2021,Yemen,5,Flash flood,1
+2021,Yemen,7,Flood (General),1
+2022,Afghanistan,1,Ground movement,1
+2022,Afghanistan,2,Avalanche (wet),1
+2022,Afghanistan,5,Flash flood,1
+2022,Afghanistan,6,Flash flood,2
+2022,Afghanistan,6,Ground movement,1
+2022,Afghanistan,7,Flash flood,1
+2022,Afghanistan,8,Flash flood,1
+2022,Bangladesh,5,Flood (General),1
+2022,Bangladesh,10,Tropical cyclone,1
+2022,Cambodia,9,Flood (General),1
+2022,China,1,Drought,1
+2022,China,1,Ground movement,2
+2022,China,1,Landslide (wet),1
+2022,China,5,Flood (General),1
+2022,China,6,Ground movement,2
+2022,China,7,Flood (General),1
+2022,China,7,Tropical cyclone,1
+2022,China,8,Flash flood,1
+2022,China,8,Flood (General),1
+2022,China,9,Ground movement,1
+2022,Georgia,6,Flood (General),1
+2022,India,3,Heat wave,1
+2022,India,4,Severe weather,1
+2022,India,5,Flood (General),1
+2022,India,6,Landslide (wet),1
+2022,India,8,Flood (General),1
+2022,India,9,Flood (General),1
+2022,India,12,Tropical cyclone,1
+2022,Indonesia,1,Flood (General),1
+2022,Indonesia,1,Ground movement,2
+2022,Indonesia,2,Flood (General),2
+2022,Indonesia,2,Ground movement,1
+2022,Indonesia,3,Flood (General),1
+2022,Indonesia,3,Pyroclastic flow,1
+2022,Indonesia,5,Flood (General),1
+2022,Indonesia,7,Flood (General),1
+2022,Indonesia,9,Ground movement,1
+2022,Indonesia,10,Flash flood,1
+2022,Indonesia,10,Flood (General),1
+2022,Indonesia,11,Flood (General),3
+2022,Indonesia,11,Ground movement,1
+2022,Indonesia,12,Ash fall,1
+2022,Indonesia,12,Flood (General),2
+2022,Iran (Islamic Republic of),1,Flood (General),2
+2022,Iran (Islamic Republic of),7,Flash flood,1
+2022,Iran (Islamic Republic of),7,Ground movement,1
+2022,Iran (Islamic Republic of),10,Ground movement,1
+2022,Iraq,5,Sand/Dust storm,1
+2022,Japan,3,Ground movement,1
+2022,Japan,6,Heat wave,1
+2022,Japan,7,Tropical cyclone,1
+2022,Japan,8,Flood (General),1
+2022,Japan,9,Tropical cyclone,2
+2022,Japan,12,Blizzard/Winter storm,1
+2022,Kyrgyzstan,7,Heat wave,1
+2022,Lao People's Democratic Republic,8,Flood (General),1
+2022,Malaysia,2,Flood (General),1
+2022,Malaysia,3,Flood (General),1
+2022,Malaysia,7,Flood (General),1
+2022,Malaysia,11,Flood (General),1
+2022,Malaysia,12,Flood (General),1
+2022,Malaysia,12,Landslide (wet),1
+2022,Mongolia,6,Flash flood,1
+2022,Mongolia,11,Cold wave,1
+2022,Nepal,7,Landslide (wet),1
+2022,Nepal,8,Flood (General),1
+2022,Nepal,9,Flood (General),1
+2022,Nepal,11,Ground movement,1
+2022,Pakistan,1,Blizzard/Winter storm,1
+2022,Pakistan,5,Forest fire,1
+2022,Pakistan,6,Flood (General),1
+2022,Pakistan,6,Ground movement,1
+2022,Philippines,3,Volcanic activity (General),1
+2022,Philippines,4,Flash flood,1
+2022,Philippines,4,Tropical cyclone,1
+2022,Philippines,7,Ground movement,1
+2022,Philippines,8,Tropical cyclone,1
+2022,Philippines,9,Storm surge,1
+2022,Philippines,10,Ground movement,1
+2022,Philippines,10,Landslide (wet),1
+2022,Philippines,10,Tropical cyclone,3
+2022,Philippines,12,Flood (General),1
+2022,Republic of Korea,2,Wildfire (General),1
+2022,Republic of Korea,8,Flood (General),1
+2022,Republic of Korea,9,Tropical cyclone,1
+2022,Sri Lanka,5,Severe weather,1
+2022,Sri Lanka,8,Flash flood,1
+2022,Sri Lanka,9,Flood (General),1
+2022,Sri Lanka,10,Flood (General),1
+2022,Sri Lanka,12,Tropical cyclone,1
+2022,State of Palestine,1,Severe winter conditions,1
+2022,Syrian Arab Republic,1,Blizzard/Winter storm,1
+2022,Taiwan (Province of China),9,Ground movement,1
+2022,Taiwan (Province of China),10,Tropical cyclone,1
+2022,Thailand,4,Flood (General),1
+2022,Thailand,5,Flood (General),2
+2022,Thailand,5,Severe weather,1
+2022,Thailand,7,Flood (General),1
+2022,Thailand,8,Flood (General),1
+2022,Thailand,9,Flood (General),1
+2022,Thailand,9,Storm surge,1
+2022,Thailand,11,Flood (General),1
+2022,Thailand,12,Flood (General),1
+2022,Türkiye,6,Flood (General),2
+2022,Türkiye,11,Ground movement,1
+2022,Türkiye,12,Flash flood,1
+2022,Uzbekistan,4,Flood (General),1
+2022,Viet Nam,3,Flood (General),1
+2022,Viet Nam,5,Flood (General),1
+2022,Viet Nam,5,Storm (General),1
+2022,Viet Nam,8,Flood (General),1
+2022,Viet Nam,9,Storm surge,1
+2022,Viet Nam,10,Flood (General),1
+2022,Viet Nam,10,Tropical cyclone,1
+2022,Viet Nam,12,Flood (General),1
+2022,Yemen,6,Flood (General),1
+2022,Yemen,7,Flood (General),1
+2022,Yemen,8,Flash flood,1
+2023,Afghanistan,1,Cold wave,1
+2023,Afghanistan,3,Ground movement,1
+2023,Afghanistan,5,Flash flood,1
+2023,Afghanistan,7,Flash flood,1
+2023,Afghanistan,10,Ground movement,2
+2023,Armenia,6,Hail,1
+2023,Bangladesh,4,Storm (General),1
+2023,Bangladesh,5,Tropical cyclone,1
+2023,China,1,Avalanche (wet),1
+2023,China,5,Flood (General),1
+2023,China,5,Ground movement,1
+2023,China,6,Flood (General),1
+2023,China,6,Landslide (wet),1
+2023,China,7,Flood (General),1
+2023,China,7,Tropical cyclone,1
+2023,China,8,Flash flood,1
+2023,China,8,Flood (General),1
+2023,China,8,Ground movement,1
+2023,China,8,Storm (General),1
+2023,China,9,Flash flood,1
+2023,China,12,Ground movement,1
+2023,Georgia,6,Flash flood,1
+2023,Georgia,8,Landslide (wet),1
+2023,India,3,Severe weather,1
+2023,India,4,Heat wave,1
+2023,India,5,Tropical cyclone,1
+2023,India,6,Flash flood,1
+2023,India,6,Flood (General),2
+2023,India,6,Heat wave,1
+2023,India,6,Tropical cyclone,1
+2023,India,7,Flood (General),1
+2023,India,7,Landslide (wet),1
+2023,India,8,Flood (General),1
+2023,India,8,Landslide (wet),2
+2023,India,9,Lightning/Thunderstorms,1
+2023,India,10,Glacial lake outburst flood,1
+2023,India,11,Severe weather,1
+2023,India,12,Flood (General),1
+2023,India,12,Tropical cyclone,1
+2023,Indonesia,1,Flood (General),2
+2023,Indonesia,1,Ground movement,1
+2023,Indonesia,2,Ground movement,1
+2023,Indonesia,3,Landslide (wet),1
+2023,Indonesia,3,Severe weather,1
+2023,Indonesia,4,Landslide (wet),1
+2023,Indonesia,6,Ground movement,1
+2023,Indonesia,6,Severe weather,1
+2023,Indonesia,7,Flood (General),1
+2023,Indonesia,8,Drought,1
+2023,Indonesia,9,Flood (General),1
+2023,Indonesia,11,Flood (General),1
+2023,Indonesia,12,Ash fall,2
+2023,Iran (Islamic Republic of),1,Ground movement,2
+2023,Iran (Islamic Republic of),3,Ground movement,1
+2023,Iran (Islamic Republic of),6,Sand/Dust storm,1
+2023,Japan,5,Ground movement,1
+2023,Japan,6,Tropical cyclone,1
+2023,Japan,7,Flash flood,1
+2023,Japan,8,Tropical cyclone,2
+2023,Japan,9,Tropical cyclone,1
+2023,Jordan,11,Cold wave,1
+2023,Kazakhstan,6,Wildfire (General),1
+2023,Lebanon,1,Cold wave,1
+2023,Malaysia,1,Flood (General),1
+2023,Malaysia,2,Flood (General),1
+2023,Malaysia,11,Flood (General),1
+2023,Malaysia,12,Flood (General),1
+2023,Mongolia,5,Cold wave,1
+2023,Mongolia,7,Flood (General),1
+2023,Mongolia,8,Flash flood,1
+2023,Myanmar,4,Tornado,1
+2023,Myanmar,5,Tropical cyclone,1
+2023,Myanmar,8,Flood (General),1
+2023,Myanmar,8,Landslide (wet),1
+2023,Myanmar,10,Flood (General),1
+2023,Nepal,6,Flood (General),1
+2023,Nepal,10,Ground movement,1
+2023,Nepal,11,Ground movement,1
+2023,Pakistan,3,Flash flood,1
+2023,Pakistan,3,Flood (General),1
+2023,Pakistan,3,Ground movement,1
+2023,Pakistan,4,Flash flood,1
+2023,Pakistan,5,Avalanche (wet),1
+2023,Pakistan,6,Flood (General),2
+2023,Pakistan,9,Flood (General),1
+2023,Philippines,1,Flood (General),1
+2023,Philippines,2,Flood (General),2
+2023,Philippines,5,Tropical cyclone,1
+2023,Philippines,6,Lava flow,1
+2023,Philippines,7,Tropical cyclone,2
+2023,Philippines,9,Ground movement,1
+2023,Philippines,11,Flood (General),1
+2023,Philippines,11,Ground movement,1
+2023,Philippines,12,Ground movement,1
+2023,Philippines,12,Tropical cyclone,1
+2023,Republic of Korea,4,Wildfire (General),1
+2023,Sri Lanka,11,Severe weather,1
+2023,Sri Lanka,12,Severe weather,1
+2023,Syrian Arab Republic,2,Ground movement,2
+2023,Syrian Arab Republic,3,Flood (General),1
+2023,Tajikistan,3,Ground movement,1
+2023,Tajikistan,8,Flood (General),1
+2023,Thailand,4,Lightning/Thunderstorms,1
+2023,Thailand,7,Flood (General),1
+2023,Thailand,12,Flood (General),1
+2023,Türkiye,2,Ground movement,3
+2023,Türkiye,3,Flood (General),1
+2023,Türkiye,4,Tornado,1
+2023,Türkiye,11,Extra-tropical storm,1
+2023,Viet Nam,7,Tropical cyclone,1
+2023,Viet Nam,8,Flood (General),1
+2023,Viet Nam,11,Severe weather,1
+2023,Yemen,5,Flood (General),1
+2023,Yemen,10,Tropical cyclone,1

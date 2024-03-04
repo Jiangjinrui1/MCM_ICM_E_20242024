@@ -1,0 +1,1355 @@
+Start Year,Country,Disaster Subtype,COUNT
+2000,Argentina,Blizzard/Winter storm,1
+2000,Argentina,Cold wave,1
+2000,Argentina,Flood (General),3
+2000,Argentina,Forest fire,1
+2000,Argentina,Lightning/Thunderstorms,1
+2000,Argentina,Riverine flood,1
+2000,Belize,Tropical cyclone,1
+2000,Bolivia (Plurinational State of),Cold wave,1
+2000,Bolivia (Plurinational State of),Drought,1
+2000,Bolivia (Plurinational State of),Flood (General),1
+2000,Bolivia (Plurinational State of),Riverine flood,1
+2000,Brazil,Cold wave,1
+2000,Brazil,Mudslide,1
+2000,Brazil,Riverine flood,4
+2000,Canada,Tornado,1
+2000,Chile,Cold wave,1
+2000,Chile,Flash flood,1
+2000,Chile,Riverine flood,1
+2000,Colombia,Flood (General),1
+2000,Colombia,Ground movement,1
+2000,Colombia,Riverine flood,2
+2000,Costa Rica,Landslide (wet),1
+2000,Cuba,Drought,1
+2000,Cuba,Flood (General),1
+2000,Ecuador,Flood (General),1
+2000,Ecuador,Landslide (wet),1
+2000,Ecuador,Mudslide,1
+2000,El Salvador,Riverine flood,1
+2000,El Salvador,Tropical cyclone,1
+2000,French Guiana,Landslide (wet),1
+2000,Guatemala,Ash fall,1
+2000,Guatemala,Riverine flood,2
+2000,Haiti,Flood (General),2
+2000,Honduras,Drought,1
+2000,Honduras,Forest fire,1
+2000,Jamaica,Drought,1
+2000,Mexico,Ash fall,1
+2000,Mexico,Cold wave,1
+2000,Mexico,Flash flood,1
+2000,Mexico,Flood (General),2
+2000,Mexico,Ground movement,1
+2000,Mexico,Severe weather,1
+2000,Mexico,Tropical cyclone,1
+2000,Nicaragua,Drought,1
+2000,Nicaragua,Ground movement,1
+2000,Nicaragua,Riverine flood,1
+2000,Nicaragua,Tornado,1
+2000,Nicaragua,Tropical cyclone,1
+2000,Panama,Flood (General),1
+2000,Paraguay,Cold wave,1
+2000,Peru,Flash flood,1
+2000,Peru,Landslide (wet),1
+2000,United States of America,Blizzard/Winter storm,2
+2000,United States of America,Drought,2
+2000,United States of America,Flash flood,2
+2000,United States of America,Flood (General),3
+2000,United States of America,Forest fire,7
+2000,United States of America,Ground movement,1
+2000,United States of America,Heat wave,1
+2000,United States of America,Riverine flood,3
+2000,United States of America,Severe weather,1
+2000,United States of America,Storm (General),2
+2000,United States of America,Tornado,6
+2000,United States of America,Tropical cyclone,1
+2000,Uruguay,Cold wave,1
+2000,Uruguay,Flood (General),1
+2000,Uruguay,Storm (General),1
+2000,Venezuela (Bolivarian Republic of),Flood (General),1
+2000,Venezuela (Bolivarian Republic of),Riverine flood,1
+2001,Argentina,Cold wave,1
+2001,Argentina,Flood (General),2
+2001,Argentina,Forest fire,1
+2001,Argentina,Riverine flood,1
+2001,Argentina,Storm (General),2
+2001,Bahamas,Tropical cyclone,1
+2001,Belize,Tropical cyclone,2
+2001,Bolivia (Plurinational State of),Cold wave,1
+2001,Bolivia (Plurinational State of),Riverine flood,1
+2001,Brazil,Drought,1
+2001,Brazil,Flash flood,1
+2001,Brazil,Lightning/Thunderstorms,1
+2001,Brazil,Riverine flood,2
+2001,Canada,Forest fire,1
+2001,Canada,Storm (General),1
+2001,Chile,Flood (General),3
+2001,Chile,Storm (General),1
+2001,Colombia,Forest fire,1
+2001,Colombia,Landslide (wet),2
+2001,Colombia,Riverine flood,2
+2001,Colombia,Tornado,1
+2001,Costa Rica,Flood (General),1
+2001,Cuba,Tropical cyclone,1
+2001,Dominican Republic,Tropical cyclone,1
+2001,Ecuador,Ash fall,1
+2001,Ecuador,Flash flood,1
+2001,Ecuador,Riverine flood,1
+2001,El Salvador,Drought,1
+2001,El Salvador,Flash flood,1
+2001,El Salvador,Ground movement,2
+2001,Guatemala,Cold wave,1
+2001,Guatemala,Drought,1
+2001,Guatemala,Ground movement,1
+2001,Guatemala,Tropical cyclone,1
+2001,Haiti,Riverine flood,1
+2001,Haiti,Tropical cyclone,1
+2001,Honduras,Drought,1
+2001,Honduras,Tropical cyclone,1
+2001,Jamaica,Tropical cyclone,1
+2001,Mexico,Flash flood,1
+2001,Mexico,Tropical cyclone,5
+2001,Nicaragua,Drought,1
+2001,Nicaragua,Tropical cyclone,1
+2001,Panama,Flood (General),1
+2001,Peru,Flash flood,1
+2001,Peru,Ground movement,2
+2001,Peru,Landslide (wet),1
+2001,Peru,Riverine flood,2
+2001,Peru,Tsunami,1
+2001,Puerto Rico,Riverine flood,1
+2001,United States of America,Blizzard/Winter storm,1
+2001,United States of America,Flood (General),1
+2001,United States of America,Forest fire,3
+2001,United States of America,Ground movement,1
+2001,United States of America,Heat wave,1
+2001,United States of America,Riverine flood,4
+2001,United States of America,Storm (General),3
+2001,United States of America,Tornado,12
+2001,United States of America,Tropical cyclone,1
+2001,Uruguay,Flood (General),1
+2002,Argentina,Cold wave,1
+2002,Argentina,Ground movement,1
+2002,Argentina,Riverine flood,1
+2002,Argentina,Storm (General),1
+2002,Barbados,Tropical cyclone,1
+2002,Bolivia (Plurinational State of),Blizzard/Winter storm,1
+2002,Bolivia (Plurinational State of),Forest fire,1
+2002,Bolivia (Plurinational State of),Riverine flood,1
+2002,Brazil,Drought,1
+2002,Brazil,Mudslide,2
+2002,Brazil,Riverine flood,2
+2002,Canada,Forest fire,1
+2002,Canada,Riverine flood,1
+2002,Cayman Islands,Tropical cyclone,2
+2002,Chile,Cold wave,1
+2002,Chile,Forest fire,1
+2002,Chile,Riverine flood,3
+2002,Colombia,Flood (General),1
+2002,Colombia,Mudslide,1
+2002,Colombia,Riverine flood,3
+2002,Costa Rica,Riverine flood,2
+2002,Cuba,Riverine flood,1
+2002,Cuba,Tropical cyclone,2
+2002,Dominican Republic,Flood (General),1
+2002,Ecuador,Ash fall,2
+2002,Ecuador,Flood (General),1
+2002,Ecuador,Landslide (dry),1
+2002,Ecuador,Riverine flood,1
+2002,El Salvador,Riverine flood,1
+2002,El Salvador,Tropical cyclone,1
+2002,Grenada,Tropical cyclone,1
+2002,Guatemala,Ash fall,1
+2002,Guatemala,Mudslide,1
+2002,Guatemala,Riverine flood,1
+2002,Guatemala,Tropical cyclone,1
+2002,Haiti,Flash flood,1
+2002,Haiti,Tropical cyclone,1
+2002,Honduras,Coastal flood,1
+2002,Honduras,Drought,1
+2002,Honduras,Flood (General),1
+2002,Honduras,Riverine flood,1
+2002,Jamaica,Riverine flood,1
+2002,Jamaica,Tropical cyclone,2
+2002,Mexico,Ash fall,1
+2002,Mexico,Cold wave,1
+2002,Mexico,Drought,1
+2002,Mexico,Flash flood,1
+2002,Mexico,Riverine flood,1
+2002,Mexico,Tropical cyclone,3
+2002,Nicaragua,Forest fire,1
+2002,Nicaragua,Riverine flood,1
+2002,Nicaragua,Tropical cyclone,1
+2002,Panama,Riverine flood,2
+2002,Paraguay,Hail,1
+2002,Paraguay,Riverine flood,1
+2002,Peru,Blizzard/Winter storm,1
+2002,Peru,Drought,1
+2002,Peru,Riverine flood,3
+2002,Saint Vincent and the Grenadines,Tropical cyclone,1
+2002,United States of America,Blizzard/Winter storm,4
+2002,United States of America,Drought,1
+2002,United States of America,Forest fire,7
+2002,United States of America,Heat wave,1
+2002,United States of America,"Land fire (Brush, Bush, Pasture)",1
+2002,United States of America,Riverine flood,4
+2002,United States of America,Storm (General),4
+2002,United States of America,Tornado,5
+2002,United States of America,Tropical cyclone,2
+2002,Uruguay,Flood (General),1
+2002,Uruguay,Storm (General),1
+2002,Venezuela (Bolivarian Republic of),Riverine flood,1
+2003,Argentina,Drought,1
+2003,Argentina,Lightning/Thunderstorms,1
+2003,Argentina,Riverine flood,2
+2003,Bolivia (Plurinational State of),Flash flood,1
+2003,Bolivia (Plurinational State of),Landslide (wet),1
+2003,Bolivia (Plurinational State of),Riverine flood,2
+2003,Brazil,Riverine flood,5
+2003,Canada,Flash flood,1
+2003,Canada,Forest fire,1
+2003,Canada,Riverine flood,3
+2003,Canada,Tropical cyclone,2
+2003,Chile,"Land fire (Brush, Bush, Pasture)",1
+2003,Colombia,Mudslide,1
+2003,Colombia,Riverine flood,3
+2003,Costa Rica,Ground movement,1
+2003,Costa Rica,Riverine flood,1
+2003,Cuba,Riverine flood,1
+2003,Dominican Republic,Coastal flood,1
+2003,Dominican Republic,Ground movement,1
+2003,Dominican Republic,Riverine flood,1
+2003,Dominican Republic,Tropical cyclone,1
+2003,Ecuador,Ash fall,1
+2003,Ecuador,Riverine flood,1
+2003,Guatemala,Forest fire,1
+2003,Guatemala,Landslide (wet),1
+2003,Haiti,Drought,1
+2003,Haiti,Flash flood,1
+2003,Haiti,Riverine flood,2
+2003,Haiti,Storm (General),1
+2003,Honduras,Flood (General),1
+2003,Honduras,Riverine flood,1
+2003,Mexico,Coastal flood,1
+2003,Mexico,Cold wave,1
+2003,Mexico,Flash flood,1
+2003,Mexico,Forest fire,1
+2003,Mexico,Ground movement,1
+2003,Mexico,Landslide (wet),1
+2003,Mexico,Riverine flood,1
+2003,Mexico,Tropical cyclone,2
+2003,Panama,Ground movement,2
+2003,Panama,Riverine flood,1
+2003,Peru,Cold wave,1
+2003,Peru,Riverine flood,2
+2003,Puerto Rico,Riverine flood,1
+2003,Puerto Rico,Tropical cyclone,1
+2003,United States of America,Blizzard/Winter storm,4
+2003,United States of America,Flash flood,1
+2003,United States of America,Forest fire,3
+2003,United States of America,Ground movement,1
+2003,United States of America,Mudslide,1
+2003,United States of America,Riverine flood,3
+2003,United States of America,Storm (General),4
+2003,United States of America,Tornado,4
+2003,United States of America,Tropical cyclone,2
+2003,Uruguay,Riverine flood,1
+2003,Venezuela (Bolivarian Republic of),Riverine flood,2
+2004,Argentina,Cold wave,1
+2004,Argentina,Riverine flood,2
+2004,Bahamas,Tropical cyclone,2
+2004,Barbados,Tropical cyclone,1
+2004,Bolivia (Plurinational State of),Drought,1
+2004,Brazil,Cold wave,1
+2004,Brazil,Drought,1
+2004,Brazil,Flash flood,1
+2004,Brazil,Riverine flood,1
+2004,Brazil,Tropical cyclone,1
+2004,Canada,Blizzard/Winter storm,2
+2004,Canada,Flash flood,1
+2004,Canada,Riverine flood,1
+2004,Cayman Islands,Tropical cyclone,2
+2004,Chile,Cold wave,1
+2004,Chile,Riverine flood,1
+2004,Colombia,Ground movement,2
+2004,Colombia,Riverine flood,2
+2004,Costa Rica,Ground movement,1
+2004,Costa Rica,Riverine flood,2
+2004,Cuba,Drought,1
+2004,Cuba,Tropical cyclone,2
+2004,Dominica,Ground movement,1
+2004,Dominican Republic,Riverine flood,1
+2004,Dominican Republic,Tropical cyclone,3
+2004,Grenada,Tropical cyclone,1
+2004,Guadeloupe,Ground movement,1
+2004,Haiti,Riverine flood,1
+2004,Haiti,Tropical cyclone,2
+2004,Honduras,Drought,1
+2004,Jamaica,Tropical cyclone,2
+2004,Mexico,Cold wave,1
+2004,Mexico,Flash flood,1
+2004,Mexico,Riverine flood,1
+2004,Nicaragua,Mudslide,1
+2004,Nicaragua,Storm (General),1
+2004,Panama,Flash flood,1
+2004,Panama,Riverine flood,2
+2004,Paraguay,Cold wave,1
+2004,Peru,Cold wave,1
+2004,Peru,Drought,1
+2004,Peru,Mudslide,1
+2004,Peru,Riverine flood,1
+2004,Puerto Rico,Riverine flood,1
+2004,Puerto Rico,Tropical cyclone,2
+2004,Saint Lucia,Tropical cyclone,1
+2004,Saint Vincent and the Grenadines,Tropical cyclone,1
+2004,Trinidad and Tobago,Mudslide,1
+2004,Trinidad and Tobago,Tropical cyclone,1
+2004,Turks and Caicos Islands,Tropical cyclone,1
+2004,United States Virgin Islands,Tropical cyclone,1
+2004,United States of America,Blizzard/Winter storm,1
+2004,United States of America,Cold wave,1
+2004,United States of America,Forest fire,3
+2004,United States of America,Hail,2
+2004,United States of America,Lightning/Thunderstorms,2
+2004,United States of America,Riverine flood,4
+2004,United States of America,Tornado,2
+2004,United States of America,Tropical cyclone,5
+2004,Uruguay,Cold wave,1
+2004,Venezuela (Bolivarian Republic of),Riverine flood,1
+2004,Venezuela (Bolivarian Republic of),Tropical cyclone,1
+2005,Argentina,Storm (General),1
+2005,Belize,Tropical cyclone,2
+2005,Bolivia (Plurinational State of),Forest fire,1
+2005,Brazil,Drought,1
+2005,Brazil,Riverine flood,2
+2005,Brazil,Tornado,1
+2005,Canada,Forest fire,2
+2005,Canada,Riverine flood,2
+2005,Canada,Storm (General),1
+2005,Chile,Blizzard/Winter storm,1
+2005,Chile,Ground movement,1
+2005,Chile,Riverine flood,2
+2005,Colombia,Ash fall,1
+2005,Colombia,Riverine flood,3
+2005,Colombia,Tropical cyclone,1
+2005,Costa Rica,Riverine flood,2
+2005,Costa Rica,Tropical cyclone,1
+2005,Cuba,Tropical cyclone,2
+2005,Dominican Republic,Flood (General),1
+2005,Dominican Republic,Forest fire,1
+2005,Dominican Republic,Tropical cyclone,1
+2005,El Salvador,Ash fall,1
+2005,El Salvador,Ground movement,1
+2005,El Salvador,Riverine flood,2
+2005,El Salvador,Tropical cyclone,2
+2005,Guatemala,Landslide (wet),2
+2005,Guatemala,Riverine flood,1
+2005,Guatemala,Tropical cyclone,1
+2005,Guyana,Riverine flood,1
+2005,Haiti,Flood (General),2
+2005,Haiti,Riverine flood,1
+2005,Haiti,Tropical cyclone,5
+2005,Honduras,Riverine flood,1
+2005,Honduras,Tropical cyclone,4
+2005,Jamaica,Tropical cyclone,3
+2005,Mexico,Flood (General),1
+2005,Mexico,Riverine flood,2
+2005,Mexico,Tropical cyclone,4
+2005,Nicaragua,Tropical cyclone,2
+2005,Panama,Riverine flood,1
+2005,Paraguay,Drought,1
+2005,Peru,Ground movement,2
+2005,Saint Vincent and the Grenadines,Tropical cyclone,1
+2005,Trinidad and Tobago,Tropical cyclone,1
+2005,United States of America,Blizzard/Winter storm,2
+2005,United States of America,Flash flood,1
+2005,United States of America,Forest fire,1
+2005,United States of America,Heat wave,1
+2005,United States of America,Lightning/Thunderstorms,1
+2005,United States of America,Riverine flood,5
+2005,United States of America,Tornado,1
+2005,United States of America,Tropical cyclone,4
+2005,Uruguay,Storm (General),1
+2005,Venezuela (Bolivarian Republic of),Riverine flood,4
+2006,Argentina,Flood (General),1
+2006,Bolivia (Plurinational State of),Riverine flood,2
+2006,Brazil,Flash flood,1
+2006,Brazil,Riverine flood,1
+2006,Canada,Riverine flood,5
+2006,Chile,Riverine flood,1
+2006,Colombia,Ash fall,2
+2006,Colombia,Riverine flood,1
+2006,Cuba,Riverine flood,1
+2006,Cuba,Tropical cyclone,1
+2006,Ecuador,Ash fall,2
+2006,Ecuador,Riverine flood,1
+2006,El Salvador,Cold wave,1
+2006,El Salvador,Ground movement,1
+2006,Guatemala,Cold wave,1
+2006,Guyana,Riverine flood,1
+2006,Haiti,Coastal flood,1
+2006,Haiti,Flash flood,1
+2006,Haiti,Tropical cyclone,1
+2006,Honduras,Riverine flood,1
+2006,Jamaica,Riverine flood,1
+2006,Mexico,Cold wave,1
+2006,Mexico,Landslide (wet),2
+2006,Mexico,Riverine flood,1
+2006,Mexico,Tropical cyclone,3
+2006,Montserrat,Ash fall,1
+2006,Panama,Riverine flood,2
+2006,Panama,Wildfire (General),1
+2006,Peru,Ash fall,1
+2006,Peru,Drought,1
+2006,Peru,Riverine flood,1
+2006,Suriname,Riverine flood,1
+2006,United States of America,Blizzard/Winter storm,3
+2006,United States of America,Ground movement,1
+2006,United States of America,Hail,2
+2006,United States of America,Heat wave,2
+2006,United States of America,"Land fire (Brush, Bush, Pasture)",2
+2006,United States of America,Lightning/Thunderstorms,1
+2006,United States of America,Riverine flood,11
+2006,United States of America,Storm (General),2
+2006,United States of America,Tornado,3
+2006,United States of America,Tropical cyclone,1
+2006,United States of America,Wildfire (General),1
+2006,Venezuela (Bolivarian Republic of),Riverine flood,1
+2007,Argentina,Riverine flood,2
+2007,Argentina,Severe winter conditions,1
+2007,Bahamas,Tropical cyclone,1
+2007,Barbados,Ground movement,1
+2007,Belize,Tropical cyclone,1
+2007,Bolivia (Plurinational State of),Riverine flood,2
+2007,Bolivia (Plurinational State of),Severe winter conditions,1
+2007,Brazil,Drought,1
+2007,Brazil,Flash flood,1
+2007,Brazil,Flood (General),1
+2007,Brazil,Ground movement,1
+2007,Brazil,Mudslide,1
+2007,Brazil,Riverine flood,1
+2007,Canada,Blizzard/Winter storm,1
+2007,Canada,Riverine flood,1
+2007,Canada,Storm (General),1
+2007,Chile,Ground movement,1
+2007,Chile,Severe winter conditions,1
+2007,Chile,Tsunami,1
+2007,Colombia,Ash fall,1
+2007,Colombia,Ground movement,1
+2007,Colombia,Riverine flood,4
+2007,Costa Rica,Riverine flood,2
+2007,Cuba,Riverine flood,1
+2007,Cuba,Tropical cyclone,2
+2007,Dominica,Tropical cyclone,1
+2007,Dominican Republic,Riverine flood,2
+2007,Dominican Republic,Tropical cyclone,3
+2007,El Salvador,Riverine flood,1
+2007,El Salvador,Tropical cyclone,1
+2007,Guatemala,Riverine flood,2
+2007,Guatemala,Tropical cyclone,1
+2007,Haiti,Riverine flood,4
+2007,Haiti,Tropical cyclone,3
+2007,Honduras,Flood (General),1
+2007,Honduras,Ground movement,1
+2007,Honduras,Riverine flood,1
+2007,Honduras,Tropical cyclone,1
+2007,Jamaica,Tropical cyclone,2
+2007,Martinique,Ground movement,1
+2007,Martinique,Tropical cyclone,1
+2007,Mexico,Coastal flood,1
+2007,Mexico,Landslide (wet),1
+2007,Mexico,Riverine flood,1
+2007,Mexico,Tropical cyclone,4
+2007,Nicaragua,Riverine flood,1
+2007,Nicaragua,Tropical cyclone,1
+2007,Panama,Riverine flood,1
+2007,Paraguay,Forest fire,1
+2007,Peru,Ground movement,1
+2007,Peru,Riverine flood,1
+2007,Peru,Severe winter conditions,1
+2007,Puerto Rico,Tropical cyclone,1
+2007,Saint Lucia,Ground movement,1
+2007,Saint Lucia,Tropical cyclone,1
+2007,United States of America,Blizzard/Winter storm,1
+2007,United States of America,Drought,1
+2007,United States of America,Flash flood,1
+2007,United States of America,Forest fire,2
+2007,United States of America,"Land fire (Brush, Bush, Pasture)",1
+2007,United States of America,Riverine flood,5
+2007,United States of America,Storm (General),7
+2007,United States of America,Tornado,4
+2007,United States of America,Tropical cyclone,1
+2007,Uruguay,Riverine flood,2
+2007,Uruguay,Severe winter conditions,1
+2008,Antigua and Barbuda,Tropical cyclone,1
+2008,Argentina,Ash fall,1
+2008,Argentina,Riverine flood,1
+2008,Bahamas,Tropical cyclone,1
+2008,Belize,Riverine flood,1
+2008,Belize,Tropical cyclone,1
+2008,Bolivia (Plurinational State of),Drought,1
+2008,Bolivia (Plurinational State of),Severe weather,1
+2008,Brazil,Extra-tropical storm,1
+2008,Brazil,Riverine flood,4
+2008,Canada,Riverine flood,2
+2008,Cayman Islands,Tropical cyclone,2
+2008,Chile,Ash fall,1
+2008,Chile,Riverine flood,2
+2008,Colombia,Ash fall,3
+2008,Colombia,Ground movement,1
+2008,Colombia,Landslide (dry),1
+2008,Colombia,Landslide (wet),1
+2008,Colombia,Riverine flood,2
+2008,Costa Rica,Riverine flood,3
+2008,Costa Rica,Tropical cyclone,1
+2008,Cuba,Riverine flood,1
+2008,Cuba,Tropical cyclone,4
+2008,Dominican Republic,Tropical cyclone,3
+2008,Ecuador,Riverine flood,1
+2008,El Salvador,Riverine flood,2
+2008,Guatemala,Landslide (wet),1
+2008,Guatemala,Riverine flood,2
+2008,Guatemala,Tropical cyclone,1
+2008,Guyana,Riverine flood,1
+2008,Haiti,Tropical cyclone,4
+2008,Honduras,Riverine flood,1
+2008,Honduras,Tropical cyclone,1
+2008,Jamaica,Tropical cyclone,2
+2008,Mexico,Flash flood,1
+2008,Mexico,Landslide (wet),1
+2008,Mexico,Tropical cyclone,1
+2008,Nicaragua,Riverine flood,2
+2008,Nicaragua,Tropical cyclone,1
+2008,Panama,Flash flood,1
+2008,Panama,Riverine flood,1
+2008,Paraguay,Drought,1
+2008,Paraguay,Hail,1
+2008,Peru,Riverine flood,1
+2008,Suriname,Riverine flood,1
+2008,Turks and Caicos Islands,Tropical cyclone,3
+2008,United States of America,Blizzard/Winter storm,1
+2008,United States of America,Extra-tropical storm,1
+2008,United States of America,Forest fire,1
+2008,United States of America,Ground movement,1
+2008,United States of America,Riverine flood,4
+2008,United States of America,Severe winter conditions,1
+2008,United States of America,Tornado,7
+2008,United States of America,Tropical cyclone,5
+2008,United States of America,Wildfire (General),1
+2008,Venezuela (Bolivarian Republic of),Riverine flood,1
+2009,Argentina,Drought,1
+2009,Argentina,Landslide (wet),1
+2009,Argentina,Riverine flood,2
+2009,Argentina,Severe weather,1
+2009,Bolivia (Plurinational State of),Riverine flood,1
+2009,Brazil,Mudslide,1
+2009,Brazil,Riverine flood,7
+2009,Brazil,Severe weather,1
+2009,Canada,Riverine flood,1
+2009,Canada,Severe weather,1
+2009,Canada,Tropical cyclone,1
+2009,Colombia,Landslide (wet),2
+2009,Colombia,Riverine flood,1
+2009,Costa Rica,Ground movement,1
+2009,Dominican Republic,Riverine flood,2
+2009,Ecuador,Drought,1
+2009,Ecuador,Riverine flood,1
+2009,El Salvador,Tropical cyclone,1
+2009,Guatemala,Drought,1
+2009,Guatemala,Landslide (dry),1
+2009,Guatemala,Riverine flood,1
+2009,Haiti,Flash flood,1
+2009,Haiti,Riverine flood,2
+2009,Honduras,Drought,1
+2009,Honduras,Ground movement,1
+2009,Mexico,Riverine flood,5
+2009,Mexico,Tropical cyclone,2
+2009,Nicaragua,Riverine flood,2
+2009,Nicaragua,Tropical cyclone,1
+2009,Panama,Riverine flood,1
+2009,Paraguay,Drought,1
+2009,Paraguay,Riverine flood,1
+2009,Paraguay,Severe weather,1
+2009,Peru,Cold wave,1
+2009,Peru,Landslide (wet),3
+2009,Peru,Riverine flood,1
+2009,Peru,Rockfall (wet),1
+2009,United States of America,Blizzard/Winter storm,1
+2009,United States of America,Cold wave,1
+2009,United States of America,"Land fire (Brush, Bush, Pasture)",2
+2009,United States of America,Lightning/Thunderstorms,1
+2009,United States of America,Riverine flood,4
+2009,United States of America,Severe weather,2
+2009,United States of America,Tornado,4
+2009,United States of America,Tropical cyclone,2
+2009,Uruguay,Riverine flood,1
+2009,Venezuela (Bolivarian Republic of),Drought,1
+2010,Antigua and Barbuda,Tropical cyclone,1
+2010,Argentina,Cold wave,1
+2010,Barbados,Drought,1
+2010,Barbados,Tropical cyclone,1
+2010,Belize,Tropical cyclone,1
+2010,Bolivia (Plurinational State of),Cold wave,1
+2010,Bolivia (Plurinational State of),Drought,1
+2010,Bolivia (Plurinational State of),Forest fire,1
+2010,Bolivia (Plurinational State of),Riverine flood,1
+2010,Brazil,Drought,1
+2010,Brazil,Heat wave,1
+2010,Brazil,Riverine flood,3
+2010,Canada,Blizzard/Winter storm,1
+2010,Chile,Cold wave,1
+2010,Chile,Tsunami,1
+2010,Colombia,Landslide (wet),2
+2010,Colombia,Riverine flood,3
+2010,Colombia,Wildfire (General),1
+2010,Costa Rica,Riverine flood,2
+2010,Dominican Republic,Flash flood,1
+2010,Dominican Republic,Riverine flood,1
+2010,Dominican Republic,Tropical cyclone,1
+2010,Ecuador,Ash fall,1
+2010,Ecuador,Riverine flood,2
+2010,El Salvador,Tropical cyclone,3
+2010,Grenada,Drought,1
+2010,Guatemala,Ash fall,1
+2010,Guatemala,Landslide (wet),1
+2010,Guatemala,Riverine flood,1
+2010,Guatemala,Tropical cyclone,3
+2010,Guyana,Drought,1
+2010,Haiti,Flash flood,1
+2010,Haiti,Ground movement,1
+2010,Haiti,Riverine flood,2
+2010,Haiti,Storm (General),1
+2010,Haiti,Tropical cyclone,1
+2010,Honduras,Riverine flood,2
+2010,Honduras,Tropical cyclone,2
+2010,Jamaica,Tropical cyclone,1
+2010,Mexico,Ground movement,1
+2010,Mexico,Landslide (wet),2
+2010,Mexico,Riverine flood,2
+2010,Mexico,Tropical cyclone,4
+2010,Nicaragua,Riverine flood,2
+2010,Nicaragua,Tropical cyclone,2
+2010,Panama,Riverine flood,4
+2010,Paraguay,Cold wave,1
+2010,Peru,Cold wave,1
+2010,Peru,Landslide (wet),1
+2010,Peru,Riverine flood,1
+2010,Saint Lucia,Drought,1
+2010,Saint Lucia,Flash flood,1
+2010,Saint Lucia,Tropical cyclone,1
+2010,Saint Vincent and the Grenadines,Drought,1
+2010,Saint Vincent and the Grenadines,Tropical cyclone,1
+2010,Trinidad and Tobago,Drought,1
+2010,United States of America,Blizzard/Winter storm,3
+2010,United States of America,Ground movement,1
+2010,United States of America,Lightning/Thunderstorms,1
+2010,United States of America,Riverine flood,3
+2010,United States of America,Severe weather,2
+2010,United States of America,Storm (General),1
+2010,United States of America,Tornado,3
+2010,United States of America,Tropical cyclone,2
+2010,Uruguay,Cold wave,1
+2010,Venezuela (Bolivarian Republic of),Riverine flood,1
+2010,Venezuela (Bolivarian Republic of),Tropical cyclone,1
+2011,Argentina,Ash fall,1
+2011,Bolivia (Plurinational State of),Landslide (wet),1
+2011,Bolivia (Plurinational State of),Riverine flood,1
+2011,Brazil,Riverine flood,8
+2011,Canada,Forest fire,1
+2011,Canada,Riverine flood,1
+2011,Canada,Tornado,1
+2011,Canada,Tropical cyclone,1
+2011,Chile,Ash fall,1
+2011,Chile,Forest fire,1
+2011,Chile,"Land fire (Brush, Bush, Pasture)",1
+2011,Chile,Severe winter conditions,1
+2011,Colombia,Landslide (wet),1
+2011,Colombia,Riverine flood,2
+2011,Costa Rica,Riverine flood,1
+2011,Dominica,Tropical cyclone,1
+2011,Dominican Republic,Riverine flood,1
+2011,Dominican Republic,Tropical cyclone,2
+2011,Ecuador,Landslide (wet),1
+2011,Ecuador,Riverine flood,1
+2011,El Salvador,Riverine flood,1
+2011,Guatemala,Cold wave,1
+2011,Guatemala,Ground movement,1
+2011,Guatemala,Landslide (wet),1
+2011,Guatemala,Riverine flood,3
+2011,Guatemala,Tropical cyclone,1
+2011,Haiti,Riverine flood,2
+2011,Haiti,Tropical cyclone,2
+2011,Honduras,Riverine flood,1
+2011,Martinique,Tropical cyclone,1
+2011,Mexico,Cold wave,1
+2011,Mexico,Drought,1
+2011,Mexico,Ground movement,1
+2011,Mexico,"Land fire (Brush, Bush, Pasture)",1
+2011,Mexico,Riverine flood,3
+2011,Mexico,Tropical cyclone,5
+2011,Nicaragua,Riverine flood,1
+2011,Panama,Riverine flood,2
+2011,Paraguay,Hail,1
+2011,Peru,Blizzard/Winter storm,1
+2011,Peru,Cold wave,1
+2011,Peru,Ground movement,1
+2011,Peru,Riverine flood,3
+2011,Puerto Rico,Tropical cyclone,2
+2011,Saint Vincent and the Grenadines,Riverine flood,1
+2011,United States of America,Blizzard/Winter storm,5
+2011,United States of America,Drought,1
+2011,United States of America,Forest fire,2
+2011,United States of America,Heat wave,1
+2011,United States of America,"Land fire (Brush, Bush, Pasture)",1
+2011,United States of America,Riverine flood,4
+2011,United States of America,Storm (General),2
+2011,United States of America,Tornado,5
+2011,United States of America,Tropical cyclone,2
+2011,Venezuela (Bolivarian Republic of),Flash flood,1
+2011,Venezuela (Bolivarian Republic of),Riverine flood,2
+2012,Argentina,Riverine flood,1
+2012,Argentina,Severe weather,1
+2012,Argentina,Storm (General),1
+2012,Bolivia (Plurinational State of),Riverine flood,1
+2012,Brazil,Drought,1
+2012,Brazil,Riverine flood,2
+2012,Canada,Blizzard/Winter storm,1
+2012,Canada,Riverine flood,1
+2012,Canada,Severe weather,1
+2012,Chile,Ground movement,1
+2012,Chile,Riverine flood,1
+2012,Chile,Wildfire (General),1
+2012,Colombia,Riverine flood,3
+2012,Costa Rica,Ground movement,1
+2012,Costa Rica,Riverine flood,1
+2012,Cuba,Riverine flood,1
+2012,Cuba,Tropical cyclone,2
+2012,Dominican Republic,Riverine flood,2
+2012,Dominican Republic,Tropical cyclone,2
+2012,Ecuador,Forest fire,1
+2012,Ecuador,Riverine flood,1
+2012,Guatemala,Ash fall,1
+2012,Guatemala,Drought,1
+2012,Guatemala,Ground movement,1
+2012,Haiti,Riverine flood,3
+2012,Haiti,Tropical cyclone,2
+2012,Honduras,Drought,1
+2012,Jamaica,Tropical cyclone,1
+2012,Mexico,Ground movement,1
+2012,Mexico,Tropical cyclone,2
+2012,Nicaragua,Riverine flood,1
+2012,Panama,Riverine flood,2
+2012,Paraguay,Drought,1
+2012,Paraguay,Riverine flood,1
+2012,Paraguay,Severe weather,1
+2012,Peru,Cold wave,1
+2012,Peru,Ground movement,1
+2012,Peru,Landslide (wet),1
+2012,Peru,Riverine flood,1
+2012,Puerto Rico,Tropical cyclone,1
+2012,United States of America,Blizzard/Winter storm,3
+2012,United States of America,Drought,2
+2012,United States of America,Heat wave,1
+2012,United States of America,Lightning/Thunderstorms,6
+2012,United States of America,Riverine flood,1
+2012,United States of America,Severe weather,2
+2012,United States of America,Tornado,5
+2012,United States of America,Tropical cyclone,3
+2012,United States of America,Wildfire (General),2
+2012,Venezuela (Bolivarian Republic of),Riverine flood,1
+2013,Argentina,Lightning/Thunderstorms,1
+2013,Argentina,Riverine flood,1
+2013,Bahamas,Riverine flood,1
+2013,Bolivia (Plurinational State of),Drought,1
+2013,Bolivia (Plurinational State of),Heat wave,1
+2013,Bolivia (Plurinational State of),Landslide (wet),1
+2013,Bolivia (Plurinational State of),Riverine flood,2
+2013,Brazil,Riverine flood,5
+2013,Brazil,Storm (General),1
+2013,Canada,Lightning/Thunderstorms,1
+2013,Canada,Riverine flood,1
+2013,Canada,Severe winter conditions,1
+2013,Chile,Severe winter conditions,1
+2013,Colombia,Ground movement,1
+2013,Colombia,Riverine flood,1
+2013,Cuba,Riverine flood,1
+2013,Dominican Republic,Riverine flood,1
+2013,Ecuador,Drought,1
+2013,Ecuador,Landslide (wet),2
+2013,Ecuador,Riverine flood,1
+2013,El Salvador,Ash fall,1
+2013,Guatemala,Ground movement,1
+2013,Haiti,Riverine flood,1
+2013,Mexico,Riverine flood,1
+2013,Mexico,Tropical cyclone,4
+2013,Nicaragua,Riverine flood,1
+2013,Panama,Drought,1
+2013,Paraguay,Drought,1
+2013,Paraguay,Riverine flood,1
+2013,Paraguay,Storm (General),1
+2013,Peru,Ash fall,1
+2013,Peru,Ground movement,1
+2013,Peru,Riverine flood,2
+2013,Peru,Severe winter conditions,1
+2013,Saint Lucia,Riverine flood,1
+2013,Saint Vincent and the Grenadines,Riverine flood,1
+2013,United States of America,Blizzard/Winter storm,5
+2013,United States of America,Forest fire,3
+2013,United States of America,Lightning/Thunderstorms,2
+2013,United States of America,Riverine flood,7
+2013,United States of America,Severe weather,3
+2013,United States of America,Severe winter conditions,1
+2013,United States of America,Tornado,5
+2013,United States of America,Wildfire (General),2
+2014,Argentina,Flood (General),1
+2014,Argentina,Landslide (wet),1
+2014,Argentina,Riverine flood,2
+2014,Bolivia (Plurinational State of),Drought,1
+2014,Bolivia (Plurinational State of),Landslide (wet),1
+2014,Bolivia (Plurinational State of),Riverine flood,1
+2014,Brazil,Drought,1
+2014,Brazil,Flash flood,2
+2014,Brazil,Riverine flood,2
+2014,Canada,Cold wave,1
+2014,Canada,Flash flood,1
+2014,Chile,Ground movement,1
+2014,Chile,"Land fire (Brush, Bush, Pasture)",1
+2014,Chile,Riverine flood,1
+2014,Colombia,Lightning/Thunderstorms,1
+2014,Colombia,Riverine flood,4
+2014,Dominican Republic,Flash flood,1
+2014,Ecuador,Ground movement,1
+2014,Guatemala,Drought,1
+2014,Guatemala,Ground movement,1
+2014,Guatemala,Riverine flood,1
+2014,Guatemala,Severe winter conditions,1
+2014,Guatemala,Tropical cyclone,1
+2014,Haiti,Drought,1
+2014,Haiti,Flash flood,1
+2014,Honduras,Drought,1
+2014,Honduras,Riverine flood,2
+2014,Jamaica,Drought,1
+2014,Mexico,Ground movement,2
+2014,Mexico,Tropical cyclone,6
+2014,Nicaragua,Drought,1
+2014,Nicaragua,Ground movement,1
+2014,Nicaragua,Riverine flood,1
+2014,Panama,Riverine flood,1
+2014,Paraguay,Riverine flood,2
+2014,Peru,Cold wave,1
+2014,Peru,Ground movement,1
+2014,Peru,Riverine flood,3
+2014,Puerto Rico,Flash flood,1
+2014,United States of America,Blizzard/Winter storm,7
+2014,United States of America,Cold wave,1
+2014,United States of America,Drought,1
+2014,United States of America,Flash flood,1
+2014,United States of America,Forest fire,1
+2014,United States of America,Ground movement,1
+2014,United States of America,Landslide (wet),1
+2014,United States of America,Lightning/Thunderstorms,4
+2014,United States of America,Riverine flood,1
+2014,United States of America,Severe weather,1
+2014,United States of America,Tropical cyclone,1
+2015,Argentina,Ash fall,1
+2015,Argentina,Riverine flood,3
+2015,Argentina,Storm (General),1
+2015,Bahamas,Tropical cyclone,1
+2015,Belize,Flood (General),1
+2015,Bolivia (Plurinational State of),Flood (General),1
+2015,Bolivia (Plurinational State of),Riverine flood,1
+2015,Brazil,Flood (General),2
+2015,Brazil,Landslide (wet),1
+2015,Brazil,Lightning/Thunderstorms,1
+2015,Brazil,Riverine flood,2
+2015,Canada,Forest fire,1
+2015,Chile,Ash fall,2
+2015,Chile,Flash flood,1
+2015,Chile,Flood (General),1
+2015,Chile,Forest fire,1
+2015,Chile,Severe weather,1
+2015,Chile,Tsunami,1
+2015,Colombia,Drought,1
+2015,Colombia,Forest fire,1
+2015,Colombia,Ground movement,1
+2015,Colombia,Landslide (wet),1
+2015,Colombia,Riverine flood,1
+2015,Costa Rica,Ash fall,1
+2015,Costa Rica,Drought,1
+2015,Costa Rica,Riverine flood,1
+2015,Cuba,Drought,1
+2015,Cuba,Flash flood,1
+2015,Dominica,Tropical cyclone,1
+2015,Dominican Republic,Flash flood,1
+2015,Dominican Republic,Riverine flood,1
+2015,Dominican Republic,Tropical cyclone,1
+2015,Ecuador,Lava flow,1
+2015,Ecuador,Riverine flood,1
+2015,Ecuador,Volcanic activity (General),1
+2015,El Salvador,Drought,1
+2015,El Salvador,Riverine flood,1
+2015,El Salvador,Storm surge,1
+2015,Guatemala,Flood (General),1
+2015,Guatemala,Landslide (wet),1
+2015,Guatemala,Riverine flood,1
+2015,Guyana,Coastal flood,1
+2015,Haiti,Riverine flood,1
+2015,Haiti,Tropical cyclone,1
+2015,Mexico,Riverine flood,1
+2015,Mexico,Severe weather,1
+2015,Mexico,Tornado,1
+2015,Mexico,Tropical cyclone,1
+2015,Nicaragua,Riverine flood,1
+2015,Panama,Drought,1
+2015,Panama,Riverine flood,1
+2015,Paraguay,Riverine flood,2
+2015,Paraguay,Severe weather,1
+2015,Peru,Cold wave,1
+2015,Peru,Riverine flood,2
+2015,United States of America,Blizzard/Winter storm,7
+2015,United States of America,Drought,1
+2015,United States of America,Flash flood,3
+2015,United States of America,Flood (General),2
+2015,United States of America,"Land fire (Brush, Bush, Pasture)",2
+2015,United States of America,Lightning/Thunderstorms,3
+2015,United States of America,Severe weather,2
+2015,United States of America,Tornado,6
+2015,United States of America,Tropical cyclone,1
+2015,United States of America,Wildfire (General),2
+2015,Uruguay,Flood (General),1
+2015,Uruguay,Riverine flood,2
+2015,Venezuela (Bolivarian Republic of),Riverine flood,1
+2016,Argentina,Riverine flood,2
+2016,Bahamas,Tropical cyclone,1
+2016,Belize,Tropical cyclone,1
+2016,Bolivia (Plurinational State of),Drought,1
+2016,Bolivia (Plurinational State of),Flood (General),2
+2016,Brazil,Flash flood,1
+2016,Brazil,Flood (General),1
+2016,Canada,Flood (General),1
+2016,Canada,Forest fire,1
+2016,Chile,Riverine flood,1
+2016,Colombia,Flood (General),1
+2016,Colombia,Riverine flood,1
+2016,Costa Rica,Tropical cyclone,1
+2016,Cuba,Tropical cyclone,1
+2016,Dominican Republic,Flood (General),1
+2016,Dominican Republic,Riverine flood,1
+2016,Dominican Republic,Tropical cyclone,1
+2016,Ecuador,Flash flood,1
+2016,Ecuador,Ground movement,2
+2016,Ecuador,Riverine flood,1
+2016,Guatemala,Landslide (wet),1
+2016,Guatemala,Tropical cyclone,1
+2016,Haiti,Drought,1
+2016,Haiti,Flood (General),3
+2016,Haiti,Riverine flood,3
+2016,Haiti,Tropical cyclone,1
+2016,Honduras,Flood (General),1
+2016,Honduras,Tropical cyclone,1
+2016,Jamaica,Tropical cyclone,1
+2016,Mexico,Flash flood,3
+2016,Mexico,Flood (General),2
+2016,Mexico,Tropical cyclone,2
+2016,Nicaragua,Tropical cyclone,1
+2016,Panama,Tropical cyclone,1
+2016,Paraguay,Drought,1
+2016,Peru,Flood (General),1
+2016,Peru,Ground movement,2
+2016,Saint Lucia,Tropical cyclone,1
+2016,Saint Vincent and the Grenadines,Flood (General),1
+2016,Saint Vincent and the Grenadines,Tropical cyclone,1
+2016,United States of America,Blizzard/Winter storm,4
+2016,United States of America,Flash flood,1
+2016,United States of America,Flood (General),4
+2016,United States of America,Forest fire,4
+2016,United States of America,Ground movement,1
+2016,United States of America,Hail,1
+2016,United States of America,Lightning/Thunderstorms,3
+2016,United States of America,Riverine flood,1
+2016,United States of America,Severe weather,4
+2016,United States of America,Storm (General),1
+2016,United States of America,Tornado,1
+2016,United States of America,Tropical cyclone,2
+2016,Uruguay,Flood (General),1
+2016,Venezuela (Bolivarian Republic of),Flood (General),1
+2017,Antigua and Barbuda,Tropical cyclone,1
+2017,Argentina,Flood (General),2
+2017,Argentina,Landslide (wet),1
+2017,Argentina,Riverine flood,1
+2017,Bahamas,Tropical cyclone,1
+2017,Barbados,Tropical cyclone,1
+2017,Brazil,Riverine flood,1
+2017,British Virgin Islands,Tropical cyclone,1
+2017,Canada,Flood (General),2
+2017,Canada,Wildfire (General),1
+2017,Chile,Flash flood,1
+2017,Chile,Flood (General),1
+2017,Chile,Forest fire,1
+2017,Chile,Landslide (wet),1
+2017,Chile,Riverine flood,1
+2017,Colombia,Flood (General),3
+2017,Colombia,Landslide (wet),1
+2017,Colombia,Mudslide,1
+2017,Colombia,Riverine flood,1
+2017,Colombia,Tropical cyclone,1
+2017,Costa Rica,Tropical cyclone,1
+2017,Cuba,Tropical cyclone,1
+2017,Dominica,Tropical cyclone,1
+2017,Dominican Republic,Storm (General),1
+2017,Dominican Republic,Tropical cyclone,2
+2017,El Salvador,Tropical cyclone,1
+2017,Guadeloupe,Tropical cyclone,1
+2017,Guatemala,Flood (General),3
+2017,Guatemala,Ground movement,1
+2017,Guatemala,Landslide (wet),1
+2017,Guatemala,Riverine flood,1
+2017,Guatemala,Tropical cyclone,1
+2017,Guyana,Riverine flood,1
+2017,Haiti,Flood (General),2
+2017,Haiti,Storm (General),1
+2017,Haiti,Tropical cyclone,2
+2017,Honduras,Flood (General),2
+2017,Honduras,Riverine flood,1
+2017,Honduras,Tropical cyclone,1
+2017,Jamaica,Storm (General),1
+2017,Martinique,Tropical cyclone,1
+2017,Mexico,Ground movement,2
+2017,Mexico,Riverine flood,1
+2017,Mexico,Tropical cyclone,4
+2017,Nicaragua,Flood (General),1
+2017,Nicaragua,Tropical cyclone,1
+2017,Panama,Tropical cyclone,1
+2017,Peru,Flood (General),3
+2017,Puerto Rico,Tropical cyclone,2
+2017,Turks and Caicos Islands,Tropical cyclone,1
+2017,United States Virgin Islands,Tropical cyclone,2
+2017,United States of America,Blizzard/Winter storm,3
+2017,United States of America,Drought,1
+2017,United States of America,Flash flood,1
+2017,United States of America,Flood (General),1
+2017,United States of America,Forest fire,1
+2017,United States of America,Hail,2
+2017,United States of America,"Land fire (Brush, Bush, Pasture)",1
+2017,United States of America,Lightning/Thunderstorms,3
+2017,United States of America,Riverine flood,1
+2017,United States of America,Severe weather,1
+2017,United States of America,Storm (General),1
+2017,United States of America,Tornado,3
+2017,United States of America,Tropical cyclone,4
+2017,United States of America,Wildfire (General),1
+2017,Uruguay,Riverine flood,1
+2018,Argentina,Drought,1
+2018,Argentina,Flash flood,1
+2018,Argentina,Flood (General),2
+2018,Argentina,Storm (General),1
+2018,Bolivia (Plurinational State of),Flash flood,1
+2018,Brazil,Flood (General),2
+2018,Brazil,Landslide (wet),1
+2018,Canada,Flood (General),1
+2018,Canada,Forest fire,1
+2018,Canada,Heat wave,1
+2018,Canada,Tornado,1
+2018,Colombia,Flood (General),2
+2018,Costa Rica,Flood (General),1
+2018,Cuba,Tropical cyclone,2
+2018,Dominican Republic,Flood (General),1
+2018,Dominican Republic,Tropical cyclone,1
+2018,El Salvador,Drought,1
+2018,El Salvador,Flood (General),1
+2018,El Salvador,Ground movement,1
+2018,Guatemala,Flash flood,1
+2018,Guatemala,Flood (General),1
+2018,Guatemala,Pyroclastic flow,1
+2018,Haiti,Ground movement,1
+2018,Honduras,Flood (General),1
+2018,Mexico,Flash flood,1
+2018,Mexico,Ground movement,1
+2018,Mexico,Tropical cyclone,2
+2018,Nicaragua,Flood (General),1
+2018,Paraguay,Flood (General),1
+2018,Paraguay,Riverine flood,1
+2018,Peru,Ground movement,1
+2018,Puerto Rico,Flood (General),1
+2018,Trinidad and Tobago,Flood (General),1
+2018,United States of America,Blizzard/Winter storm,4
+2018,United States of America,Drought,1
+2018,United States of America,Flash flood,1
+2018,United States of America,Flood (General),1
+2018,United States of America,Forest fire,2
+2018,United States of America,Lava flow,1
+2018,United States of America,Lightning/Thunderstorms,1
+2018,United States of America,Mudslide,1
+2018,United States of America,Riverine flood,1
+2018,United States of America,Storm (General),2
+2018,United States of America,Tornado,1
+2018,United States of America,Tropical cyclone,3
+2018,United States of America,Wildfire (General),1
+2018,Uruguay,Drought,1
+2018,Venezuela (Bolivarian Republic of),Flash flood,1
+2018,Venezuela (Bolivarian Republic of),Flood (General),1
+2019,Argentina,Flood (General),3
+2019,Bahamas,Tropical cyclone,1
+2019,Bolivia (Plurinational State of),Ash fall,1
+2019,Bolivia (Plurinational State of),Flood (General),2
+2019,Bolivia (Plurinational State of),Forest fire,1
+2019,Bolivia (Plurinational State of),Mudslide,1
+2019,Brazil,Flash flood,1
+2019,Brazil,Flood (General),6
+2019,Brazil,Forest fire,1
+2019,Canada,Flood (General),1
+2019,Canada,Severe weather,1
+2019,Chile,Flood (General),1
+2019,Chile,Ground movement,1
+2019,Chile,"Land fire (Brush, Bush, Pasture)",1
+2019,Colombia,Flood (General),5
+2019,Colombia,Landslide (wet),1
+2019,Cuba,Tornado,1
+2019,Ecuador,Flood (General),1
+2019,Ecuador,Ground movement,2
+2019,Ecuador,Landslide (wet),1
+2019,El Salvador,Ground movement,1
+2019,Guatemala,Severe weather,2
+2019,Haiti,Flash flood,1
+2019,Haiti,Flood (General),1
+2019,Mexico,Flood (General),3
+2019,Mexico,Tropical cyclone,3
+2019,Paraguay,Flood (General),1
+2019,Paraguay,Forest fire,1
+2019,Paraguay,Riverine flood,2
+2019,Peru,Ash fall,1
+2019,Peru,Flood (General),3
+2019,Peru,Ground movement,1
+2019,Peru,Mudslide,1
+2019,United States of America,Blizzard/Winter storm,3
+2019,United States of America,Flood (General),3
+2019,United States of America,Forest fire,2
+2019,United States of America,Ground movement,1
+2019,United States of America,Lightning/Thunderstorms,2
+2019,United States of America,Riverine flood,1
+2019,United States of America,Sand/Dust storm,1
+2019,United States of America,Severe weather,2
+2019,United States of America,Tornado,3
+2019,United States of America,Tropical cyclone,3
+2019,Uruguay,Flood (General),3
+2019,Venezuela (Bolivarian Republic of),Flood (General),1
+2020,Argentina,Flood (General),1
+2020,Argentina,Storm (General),1
+2020,Belize,Tropical cyclone,1
+2020,Bolivia (Plurinational State of),Flood (General),2
+2020,Bolivia (Plurinational State of),Forest fire,1
+2020,Brazil,Drought,1
+2020,Brazil,Flood (General),5
+2020,Brazil,Storm (General),1
+2020,Canada,Riverine flood,1
+2020,Canada,Severe weather,1
+2020,Colombia,Flash flood,1
+2020,Colombia,Flood (General),2
+2020,Colombia,Landslide (wet),1
+2020,Colombia,Tropical cyclone,2
+2020,Costa Rica,Tropical cyclone,1
+2020,Cuba,Storm (General),1
+2020,Cuba,Tropical cyclone,1
+2020,Dominican Republic,Tropical cyclone,1
+2020,Ecuador,Ash fall,1
+2020,Ecuador,Flood (General),1
+2020,El Salvador,Mudslide,1
+2020,El Salvador,Tropical cyclone,2
+2020,French Guiana,Flood (General),1
+2020,Guatemala,Flood (General),2
+2020,Guatemala,Tropical cyclone,3
+2020,Honduras,Flood (General),1
+2020,Honduras,Tropical cyclone,3
+2020,Mexico,Flood (General),2
+2020,Mexico,Ground movement,1
+2020,Mexico,Tropical cyclone,5
+2020,Nicaragua,Tropical cyclone,2
+2020,Panama,Riverine flood,1
+2020,Panama,Tropical cyclone,2
+2020,Peru,Flash flood,3
+2020,Peru,Mudslide,1
+2020,Puerto Rico,Ground movement,2
+2020,Puerto Rico,Tropical cyclone,1
+2020,United States of America,Derecho,1
+2020,United States of America,Drought,1
+2020,United States of America,Flood (General),1
+2020,United States of America,Forest fire,1
+2020,United States of America,Hail,1
+2020,United States of America,Lightning/Thunderstorms,1
+2020,United States of America,Riverine flood,1
+2020,United States of America,Severe weather,4
+2020,United States of America,Tornado,4
+2020,United States of America,Tropical cyclone,8
+2020,Uruguay,Flash flood,1
+2020,Uruguay,Severe weather,1
+2020,Venezuela (Bolivarian Republic of),Flood (General),1
+2021,Argentina,Flash flood,1
+2021,Argentina,Forest fire,1
+2021,Argentina,Ground movement,1
+2021,Barbados,Tropical cyclone,1
+2021,Bolivia (Plurinational State of),Flash flood,1
+2021,Bolivia (Plurinational State of),Flood (General),6
+2021,Brazil,Drought,1
+2021,Brazil,Flash flood,2
+2021,Brazil,Flood (General),6
+2021,Canada,Flood (General),1
+2021,Canada,Heat wave,1
+2021,Canada,Tornado,1
+2021,Canada,Wildfire (General),1
+2021,Chile,Flood (General),1
+2021,Chile,Severe weather,1
+2021,Colombia,Flash flood,2
+2021,Colombia,Flood (General),6
+2021,Colombia,Landslide (wet),1
+2021,Colombia,Riverine flood,2
+2021,Costa Rica,Flood (General),1
+2021,Cuba,Tropical cyclone,2
+2021,Dominican Republic,Tropical cyclone,1
+2021,Ecuador,Ash fall,1
+2021,Ecuador,Flood (General),1
+2021,Ecuador,Riverine flood,1
+2021,El Salvador,Flood (General),1
+2021,Guatemala,Flood (General),3
+2021,Guyana,Flood (General),1
+2021,Haiti,Flash flood,1
+2021,Haiti,Ground movement,1
+2021,Haiti,Tropical cyclone,1
+2021,Honduras,Wildfire (General),1
+2021,Mexico,Blizzard/Winter storm,1
+2021,Mexico,Flash flood,2
+2021,Mexico,Flood (General),1
+2021,Mexico,Ground movement,1
+2021,Mexico,Severe weather,1
+2021,Mexico,Tropical cyclone,5
+2021,Panama,Flood (General),2
+2021,Paraguay,Flood (General),2
+2021,Peru,Flash flood,1
+2021,Peru,Flood (General),5
+2021,Peru,Ground movement,2
+2021,Peru,Riverine flood,2
+2021,Saint Lucia,Tropical cyclone,1
+2021,Saint Vincent and the Grenadines,Pyroclastic flow,1
+2021,Saint Vincent and the Grenadines,Tropical cyclone,1
+2021,Suriname,Flood (General),1
+2021,United States of America,Blizzard/Winter storm,2
+2021,United States of America,Drought,1
+2021,United States of America,Flash flood,5
+2021,United States of America,Flood (General),6
+2021,United States of America,Forest fire,2
+2021,United States of America,Heat wave,1
+2021,United States of America,Lightning/Thunderstorms,1
+2021,United States of America,Riverine flood,1
+2021,United States of America,Severe weather,9
+2021,United States of America,Storm (General),1
+2021,United States of America,Tornado,5
+2021,United States of America,Tropical cyclone,5
+2021,United States of America,Wildfire (General),4
+2021,Venezuela (Bolivarian Republic of),Flood (General),2
+2022,Argentina,Wildfire (General),1
+2022,Belize,Tropical cyclone,1
+2022,Bolivia (Plurinational State of),Flood (General),1
+2022,Brazil,Flood (General),11
+2022,Canada,Blizzard/Winter storm,1
+2022,Canada,Derecho,1
+2022,Canada,Flood (General),2
+2022,Canada,Storm (General),1
+2022,Canada,Tropical cyclone,1
+2022,Chile,Forest fire,1
+2022,Chile,Wildfire (General),1
+2022,Colombia,Flood (General),9
+2022,Colombia,Landslide (wet),4
+2022,Colombia,Tropical cyclone,1
+2022,Costa Rica,Tropical cyclone,1
+2022,Cuba,Flood (General),1
+2022,Cuba,Tropical cyclone,2
+2022,Dominican Republic,Flash flood,1
+2022,Dominican Republic,Tropical cyclone,1
+2022,Ecuador,Flood (General),4
+2022,Ecuador,Ground movement,1
+2022,Ecuador,Riverine flood,1
+2022,El Salvador,Tropical cyclone,1
+2022,Guatemala,Flood (General),1
+2022,Guatemala,Ground movement,1
+2022,Guatemala,Tropical cyclone,1
+2022,Guyana,Flood (General),1
+2022,Haiti,Flash flood,1
+2022,Haiti,Flood (General),1
+2022,Haiti,Ground movement,1
+2022,Honduras,Flood (General),2
+2022,Mexico,Flash flood,1
+2022,Mexico,Flood (General),1
+2022,Mexico,Ground movement,2
+2022,Mexico,Tropical cyclone,3
+2022,Panama,Flood (General),1
+2022,Peru,Ash fall,1
+2022,Peru,Flash flood,1
+2022,Peru,Ground movement,2
+2022,Peru,Landslide (wet),1
+2022,Puerto Rico,Flood (General),1
+2022,Saint Lucia,Flash flood,1
+2022,Suriname,Flood (General),1
+2022,Trinidad and Tobago,Riverine flood,1
+2022,United States of America,Blizzard/Winter storm,2
+2022,United States of America,Derecho,1
+2022,United States of America,Drought,1
+2022,United States of America,Flood (General),3
+2022,United States of America,Ground movement,1
+2022,United States of America,Severe weather,2
+2022,United States of America,Storm (General),5
+2022,United States of America,Tornado,6
+2022,United States of America,Tropical cyclone,2
+2022,United States of America,Wildfire (General),4
+2022,Uruguay,Drought,1
+2022,Uruguay,Flood (General),1
+2022,Venezuela (Bolivarian Republic of),Flood (General),5
+2022,Venezuela (Bolivarian Republic of),Landslide (wet),2
+2022,Venezuela (Bolivarian Republic of),Severe weather,1
+2023,Argentina,Flood (General),1
+2023,Argentina,Severe weather,1
+2023,Argentina,Tropical cyclone,1
+2023,Argentina,Wildfire (General),1
+2023,Bolivia (Plurinational State of),Drought,1
+2023,Bolivia (Plurinational State of),Flood (General),4
+2023,Bolivia (Plurinational State of),Wildfire (General),1
+2023,Brazil,Drought,1
+2023,Brazil,Flood (General),12
+2023,Brazil,Severe weather,2
+2023,Brazil,Tropical cyclone,1
+2023,Canada,Flood (General),2
+2023,Canada,Forest fire,1
+2023,Chile,Flood (General),2
+2023,Chile,Wildfire (General),2
+2023,Colombia,Flood (General),3
+2023,Colombia,Landslide (wet),2
+2023,Cuba,Flood (General),1
+2023,Cuba,Tropical cyclone,1
+2023,Dominican Republic,Flood (General),2
+2023,Dominican Republic,Tropical cyclone,1
+2023,Ecuador,Flood (General),2
+2023,Ecuador,Ground movement,1
+2023,Ecuador,Landslide (wet),1
+2023,Guatemala,Ash fall,1
+2023,Guatemala,Flood (General),1
+2023,Guatemala,Landslide (wet),1
+2023,Haiti,Flood (General),2
+2023,Honduras,Drought,1
+2023,Honduras,Severe weather,1
+2023,Mexico,Tropical cyclone,1
+2023,Paraguay,Flash flood,1
+2023,Paraguay,Flood (General),1
+2023,Peru,Flood (General),3
+2023,Peru,Ground movement,1
+2023,Peru,Landslide (wet),1
+2023,United States of America,Flash flood,1
+2023,United States of America,Flood (General),3
+2023,United States of America,Heat wave,1
+2023,United States of America,Severe weather,2
+2023,United States of America,Severe winter conditions,1
+2023,United States of America,Storm (General),6
+2023,United States of America,Tornado,5
+2023,United States of America,Tropical cyclone,1
+2023,United States of America,Wildfire (General),2
+2023,Uruguay,Drought,1
+2023,Uruguay,Flood (General),1
+2023,Uruguay,Severe weather,1
+2023,Venezuela (Bolivarian Republic of),Flood (General),1

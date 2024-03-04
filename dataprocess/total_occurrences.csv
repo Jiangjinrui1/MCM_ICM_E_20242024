@@ -1,0 +1,313 @@
+Country,Disaster Subtype,COUNT
+Antigua and Barbuda,Tropical cyclone,3
+Argentina,Ash fall,3
+Argentina,Blizzard/Winter storm,1
+Argentina,Cold wave,5
+Argentina,Drought,4
+Argentina,Flash flood,2
+Argentina,Flood (General),16
+Argentina,Forest fire,3
+Argentina,Ground movement,2
+Argentina,Landslide (wet),3
+Argentina,Lightning/Thunderstorms,3
+Argentina,Riverine flood,22
+Argentina,Severe weather,3
+Argentina,Severe winter conditions,1
+Argentina,Storm (General),8
+Argentina,Tropical cyclone,1
+Argentina,Wildfire (General),2
+Bahamas,Riverine flood,1
+Bahamas,Tropical cyclone,9
+Barbados,Drought,1
+Barbados,Ground movement,1
+Barbados,Tropical cyclone,5
+Belize,Flood (General),1
+Belize,Riverine flood,1
+Belize,Tropical cyclone,11
+Bolivia (Plurinational State of),Ash fall,1
+Bolivia (Plurinational State of),Blizzard/Winter storm,1
+Bolivia (Plurinational State of),Cold wave,3
+Bolivia (Plurinational State of),Drought,8
+Bolivia (Plurinational State of),Flash flood,3
+Bolivia (Plurinational State of),Flood (General),19
+Bolivia (Plurinational State of),Forest fire,5
+Bolivia (Plurinational State of),Heat wave,1
+Bolivia (Plurinational State of),Landslide (wet),4
+Bolivia (Plurinational State of),Mudslide,1
+Bolivia (Plurinational State of),Riverine flood,17
+Bolivia (Plurinational State of),Severe weather,1
+Bolivia (Plurinational State of),Severe winter conditions,1
+Bolivia (Plurinational State of),Wildfire (General),1
+Brazil,Cold wave,2
+Brazil,Drought,11
+Brazil,Extra-tropical storm,1
+Brazil,Flash flood,10
+Brazil,Flood (General),46
+Brazil,Forest fire,1
+Brazil,Ground movement,1
+Brazil,Heat wave,1
+Brazil,Landslide (wet),2
+Brazil,Lightning/Thunderstorms,2
+Brazil,Mudslide,5
+Brazil,Riverine flood,52
+Brazil,Severe weather,3
+Brazil,Storm (General),2
+Brazil,Tornado,1
+Brazil,Tropical cyclone,2
+British Virgin Islands,Tropical cyclone,1
+Canada,Blizzard/Winter storm,6
+Canada,Cold wave,1
+Canada,Derecho,1
+Canada,Flash flood,3
+Canada,Flood (General),10
+Canada,Forest fire,10
+Canada,Heat wave,2
+Canada,Lightning/Thunderstorms,1
+Canada,Riverine flood,20
+Canada,Severe weather,4
+Canada,Severe winter conditions,1
+Canada,Storm (General),4
+Canada,Tornado,4
+Canada,Tropical cyclone,5
+Canada,Wildfire (General),2
+Cayman Islands,Tropical cyclone,6
+Chile,Ash fall,4
+Chile,Blizzard/Winter storm,1
+Chile,Cold wave,4
+Chile,Flash flood,3
+Chile,Flood (General),9
+Chile,Forest fire,5
+Chile,Ground movement,5
+Chile,"Land fire (Brush, Bush, Pasture)",4
+Chile,Landslide (wet),1
+Chile,Riverine flood,14
+Chile,Severe weather,2
+Chile,Severe winter conditions,3
+Chile,Storm (General),1
+Chile,Tsunami,3
+Chile,Wildfire (General),4
+Colombia,Ash fall,7
+Colombia,Drought,1
+Colombia,Flash flood,3
+Colombia,Flood (General),33
+Colombia,Forest fire,2
+Colombia,Ground movement,7
+Colombia,Landslide (dry),1
+Colombia,Landslide (wet),19
+Colombia,Lightning/Thunderstorms,1
+Colombia,Mudslide,3
+Colombia,Riverine flood,41
+Colombia,Tornado,1
+Colombia,Tropical cyclone,5
+Colombia,Wildfire (General),1
+Costa Rica,Ash fall,1
+Costa Rica,Drought,1
+Costa Rica,Flood (General),3
+Costa Rica,Ground movement,4
+Costa Rica,Landslide (wet),1
+Costa Rica,Riverine flood,17
+Costa Rica,Tropical cyclone,6
+Cuba,Drought,3
+Cuba,Flash flood,1
+Cuba,Flood (General),3
+Cuba,Riverine flood,7
+Cuba,Storm (General),1
+Cuba,Tornado,1
+Cuba,Tropical cyclone,26
+Dominica,Ground movement,1
+Dominica,Tropical cyclone,4
+Dominican Republic,Coastal flood,1
+Dominican Republic,Flash flood,4
+Dominican Republic,Flood (General),6
+Dominican Republic,Forest fire,1
+Dominican Republic,Ground movement,1
+Dominican Republic,Riverine flood,13
+Dominican Republic,Storm (General),1
+Dominican Republic,Tropical cyclone,26
+Ecuador,Ash fall,9
+Ecuador,Drought,2
+Ecuador,Flash flood,2
+Ecuador,Flood (General),11
+Ecuador,Forest fire,1
+Ecuador,Ground movement,7
+Ecuador,Landslide (dry),1
+Ecuador,Landslide (wet),6
+Ecuador,Lava flow,1
+Ecuador,Mudslide,1
+Ecuador,Riverine flood,15
+Ecuador,Volcanic activity (General),1
+El Salvador,Ash fall,2
+El Salvador,Cold wave,1
+El Salvador,Drought,4
+El Salvador,Flash flood,1
+El Salvador,Flood (General),2
+El Salvador,Ground movement,6
+El Salvador,Mudslide,1
+El Salvador,Riverine flood,9
+El Salvador,Storm surge,1
+El Salvador,Tropical cyclone,13
+French Guiana,Flood (General),1
+French Guiana,Landslide (wet),1
+Grenada,Drought,1
+Grenada,Tropical cyclone,2
+Guadeloupe,Ground movement,1
+Guadeloupe,Tropical cyclone,1
+Guatemala,Ash fall,5
+Guatemala,Cold wave,3
+Guatemala,Drought,4
+Guatemala,Flash flood,1
+Guatemala,Flood (General),12
+Guatemala,Forest fire,1
+Guatemala,Ground movement,7
+Guatemala,Landslide (dry),1
+Guatemala,Landslide (wet),10
+Guatemala,Mudslide,1
+Guatemala,Pyroclastic flow,1
+Guatemala,Riverine flood,16
+Guatemala,Severe weather,2
+Guatemala,Severe winter conditions,1
+Guatemala,Tropical cyclone,16
+Guyana,Coastal flood,1
+Guyana,Drought,1
+Guyana,Flood (General),2
+Guyana,Riverine flood,4
+Haiti,Coastal flood,1
+Haiti,Drought,3
+Haiti,Flash flood,9
+Haiti,Flood (General),13
+Haiti,Ground movement,4
+Haiti,Riverine flood,23
+Haiti,Storm (General),3
+Haiti,Tropical cyclone,27
+Honduras,Coastal flood,1
+Honduras,Drought,8
+Honduras,Flood (General),10
+Honduras,Forest fire,1
+Honduras,Ground movement,2
+Honduras,Riverine flood,12
+Honduras,Severe weather,1
+Honduras,Tropical cyclone,14
+Honduras,Wildfire (General),1
+Jamaica,Drought,2
+Jamaica,Riverine flood,2
+Jamaica,Storm (General),1
+Jamaica,Tropical cyclone,15
+Martinique,Ground movement,1
+Martinique,Tropical cyclone,3
+Mexico,Ash fall,2
+Mexico,Blizzard/Winter storm,1
+Mexico,Coastal flood,2
+Mexico,Cold wave,6
+Mexico,Drought,2
+Mexico,Flash flood,13
+Mexico,Flood (General),12
+Mexico,Forest fire,1
+Mexico,Ground movement,14
+Mexico,"Land fire (Brush, Bush, Pasture)",1
+Mexico,Landslide (wet),7
+Mexico,Riverine flood,20
+Mexico,Severe weather,3
+Mexico,Tornado,1
+Mexico,Tropical cyclone,72
+Montserrat,Ash fall,1
+Nicaragua,Drought,3
+Nicaragua,Flood (General),2
+Nicaragua,Forest fire,1
+Nicaragua,Ground movement,2
+Nicaragua,Mudslide,1
+Nicaragua,Riverine flood,14
+Nicaragua,Storm (General),1
+Nicaragua,Tornado,1
+Nicaragua,Tropical cyclone,14
+Panama,Drought,2
+Panama,Flash flood,2
+Panama,Flood (General),5
+Panama,Ground movement,2
+Panama,Riverine flood,22
+Panama,Tropical cyclone,4
+Panama,Wildfire (General),1
+Paraguay,Cold wave,3
+Paraguay,Drought,6
+Paraguay,Flash flood,1
+Paraguay,Flood (General),5
+Paraguay,Forest fire,2
+Paraguay,Hail,3
+Paraguay,Riverine flood,11
+Paraguay,Severe weather,3
+Paraguay,Storm (General),1
+Peru,Ash fall,4
+Peru,Blizzard/Winter storm,2
+Peru,Cold wave,8
+Peru,Drought,3
+Peru,Flash flood,7
+Peru,Flood (General),15
+Peru,Ground movement,18
+Peru,Landslide (wet),9
+Peru,Mudslide,3
+Peru,Riverine flood,26
+Peru,Rockfall (wet),1
+Peru,Severe winter conditions,2
+Peru,Tsunami,1
+Puerto Rico,Flash flood,1
+Puerto Rico,Flood (General),2
+Puerto Rico,Ground movement,2
+Puerto Rico,Riverine flood,3
+Puerto Rico,Tropical cyclone,10
+Saint Lucia,Drought,1
+Saint Lucia,Flash flood,2
+Saint Lucia,Ground movement,1
+Saint Lucia,Riverine flood,1
+Saint Lucia,Tropical cyclone,5
+Saint Vincent and the Grenadines,Drought,1
+Saint Vincent and the Grenadines,Flood (General),1
+Saint Vincent and the Grenadines,Pyroclastic flow,1
+Saint Vincent and the Grenadines,Riverine flood,2
+Saint Vincent and the Grenadines,Tropical cyclone,6
+Suriname,Flood (General),2
+Suriname,Riverine flood,2
+Trinidad and Tobago,Drought,1
+Trinidad and Tobago,Flood (General),1
+Trinidad and Tobago,Mudslide,1
+Trinidad and Tobago,Riverine flood,1
+Trinidad and Tobago,Tropical cyclone,2
+Turks and Caicos Islands,Tropical cyclone,5
+United States Virgin Islands,Tropical cyclone,3
+United States of America,Blizzard/Winter storm,68
+United States of America,Cold wave,3
+United States of America,Derecho,2
+United States of America,Drought,14
+United States of America,Extra-tropical storm,1
+United States of America,Flash flood,18
+United States of America,Flood (General),28
+United States of America,Forest fire,45
+United States of America,Ground movement,10
+United States of America,Hail,8
+United States of America,Heat wave,10
+United States of America,"Land fire (Brush, Bush, Pasture)",10
+United States of America,Landslide (wet),1
+United States of America,Lava flow,1
+United States of America,Lightning/Thunderstorms,32
+United States of America,Mudslide,2
+United States of America,Riverine flood,69
+United States of America,Sand/Dust storm,1
+United States of America,Severe weather,37
+United States of America,Severe winter conditions,3
+United States of America,Storm (General),41
+United States of America,Tornado,100
+United States of America,Tropical cyclone,61
+United States of America,Wildfire (General),20
+Uruguay,Cold wave,3
+Uruguay,Drought,3
+Uruguay,Flash flood,1
+Uruguay,Flood (General),10
+Uruguay,Riverine flood,7
+Uruguay,Severe weather,2
+Uruguay,Severe winter conditions,1
+Uruguay,Storm (General),3
+Venezuela (Bolivarian Republic of),Drought,1
+Venezuela (Bolivarian Republic of),Flash flood,2
+Venezuela (Bolivarian Republic of),Flood (General),13
+Venezuela (Bolivarian Republic of),Landslide (wet),2
+Venezuela (Bolivarian Republic of),Riverine flood,16
+Venezuela (Bolivarian Republic of),Severe weather,1
+Venezuela (Bolivarian Republic of),Tropical cyclone,2

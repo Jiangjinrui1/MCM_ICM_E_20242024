@@ -1,0 +1,945 @@
+Country,province,Disaster Subtype,rate
+Afghanistan,Badakhsan,ground movement,0.0001137915339098771
+Afghanistan,Badakhshan,flash flood,0.0003413746017296313
+Afghanistan,Badakhshan,ground movement,0.0002275830678197542
+Afghanistan,Badakhshan,landslide (wet),0.0001137915339098771
+Afghanistan,Badakhshan,riverine flood,0.0002275830678197542
+Afghanistan,Badghis,drought,0.0001137915339098771
+Afghanistan,Badghis,flash flood,0.0001137915339098771
+Afghanistan,Badghis,riverine flood,0.0001137915339098771
+Afghanistan,Baghlan,blizzard/winter storm,0.0001137915339098771
+Afghanistan,Baghlan,cold wave,0.0001137915339098771
+Afghanistan,Baghlan,flash flood,0.0001137915339098771
+Afghanistan,Baghlan,ground movement,0.0002275830678197542
+Afghanistan,Baghlan,riverine flood,0.0001137915339098771
+Afghanistan,Balkh,flood (general),0.0001137915339098771
+Afghanistan,Balkh,riverine flood,0.0003413746017296313
+Afghanistan,Bamyan,flash flood,0.0001137915339098771
+Afghanistan,Daykundi,flash flood,0.0001137915339098771
+Afghanistan,Daykundi,severe winter conditions,0.0001137915339098771
+Afghanistan,Farah,riverine flood,0.0001137915339098771
+Afghanistan,Farah,severe winter conditions,0.0001137915339098771
+Afghanistan,Faryab,riverine flood,0.0001137915339098771
+Afghanistan,Ghazni,riverine flood,0.0001137915339098771
+Afghanistan,Ghor,drought,0.0001137915339098771
+Afghanistan,Ghor,flash flood,0.0001137915339098771
+Afghanistan,Ghor,riverine flood,0.0002275830678197542
+Afghanistan,Helmand,flash flood,0.0001137915339098771
+Afghanistan,Jawzan,flash flood,0.0001137915339098771
+Afghanistan,Kabul,blizzard/winter storm,0.0001137915339098771
+Afghanistan,Kabul,ground movement,0.0001137915339098771
+Afghanistan,Kandahar,storm (general),0.0001137915339098771
+Afghanistan,Kapisa,ground movement,0.0001137915339098771
+Afghanistan,Kapisa,riverine flood,0.0001137915339098771
+Afghanistan,Khost,riverine flood,0.0001137915339098771
+Afghanistan,Kunar,flash flood,0.0001137915339098771
+Afghanistan,Kunduz,flash flood,0.0002275830678197542
+Afghanistan,Kunduz,riverine flood,0.0001137915339098771
+Afghanistan,Laghman,flood (general),0.0001137915339098771
+Afghanistan,Nangarhar,flash flood,0.0002275830678197542
+Afghanistan,Nangarhar,flood (general),0.0001137915339098771
+Afghanistan,Nangarhar,riverine flood,0.0001137915339098771
+Afghanistan,Nangarrhar,riverine flood,0.0001137915339098771
+Afghanistan,Nimroz,riverine flood,0.0001137915339098771
+Afghanistan,Nuristan,riverine flood,0.0001137915339098771
+Afghanistan,Paktika,flash flood,0.0001137915339098771
+Afghanistan,Paktya,riverine flood,0.0001137915339098771
+Afghanistan,Panjsher,flash flood,0.0001137915339098771
+Afghanistan,Parwan and Panjshir,flash flood,0.0001137915339098771
+Afghanistan,Takhar,flash flood,0.0001137915339098771
+Afghanistan,Takhar,ground movement,0.0001137915339098771
+Afghanistan,Takhar,riverine flood,0.0002275830678197542
+Afghanistan,Urozgan,flash flood,0.0001137915339098771
+Afghanistan,Uruzgan,drought,0.0002275830678197542
+Afghanistan,Uruzgan,flash flood,0.0001137915339098771
+Afghanistan,Wardak,storm (general),0.0001137915339098771
+Armenia,Gegharqunik,landslide (wet),0.0001137915339098771
+Armenia,Lori,drought,0.0001137915339098771
+Armenia,Tavush,riverine flood,0.0001137915339098771
+Azerbaijan,Yukhari Garabakh,drought,0.0001137915339098771
+Bangladesh,Barisal,cold wave,0.0001137915339098771
+Bangladesh,Barisal,riverine flood,0.0001137915339098771
+Bangladesh,Chittagong,coastal flood,0.0001137915339098771
+Bangladesh,Chittagong,flash flood,0.0001137915339098771
+Bangladesh,Chittagong,ground movement,0.0001137915339098771
+Bangladesh,Chittagong,landslide (wet),0.0003413746017296313
+Bangladesh,Chittagong,riverine flood,0.0001137915339098771
+Bangladesh,Chittagong,severe weather,0.0001137915339098771
+Bangladesh,Chittagong,storm (general),0.0002275830678197542
+Bangladesh,Chittagong,tropical cyclone,0.0002275830678197542
+Bangladesh,Dhaka,ground movement,0.0001137915339098771
+Bangladesh,Dhaka,riverine flood,0.0002275830678197542
+Bangladesh,Dhaka,tropical cyclone,0.0001137915339098771
+Bangladesh,Khulna,cold wave,0.0001137915339098771
+Bangladesh,Khulna,flash flood,0.0001137915339098771
+Bangladesh,Khulna,storm (general),0.0002275830678197542
+Bangladesh,Khulna,tsunami,0.0001137915339098771
+Bangladesh,Rajshahi,flash flood,0.0001137915339098771
+Bangladesh,Rajshahi,heat wave,0.0001137915339098771
+Bangladesh,Rajshahi,tornado,0.0001137915339098771
+Bangladesh,Rangpur,cold wave,0.0003413746017296313
+Bangladesh,Sylhet,cold wave,0.0001137915339098771
+Bangladesh,Sylhet,drought,0.0001137915339098771
+Bangladesh,Sylhet,flash flood,0.0002275830678197542
+Bangladesh,Sylhet,heat wave,0.0001137915339098771
+Bangladesh,Sylhet,riverine flood,0.0003413746017296313
+Bangladesh,Sylhet,tropical cyclone,0.0001137915339098771
+Bhutan,Chhukha,riverine flood,0.0001137915339098771
+Bhutan,Thimphu,ground movement,0.0001137915339098771
+Bhutan,Thimphu,riverine flood,0.0001137915339098771
+Bhutan,Trashigang,ground movement,0.0001137915339098771
+Bhutan,Wangduephodrang,tropical cyclone,0.0001137915339098771
+Cambodia,Battambang,drought,0.0001137915339098771
+Cambodia,Kampong Cham,riverine flood,0.0001137915339098771
+Cambodia,Kampong Speu,drought,0.0001137915339098771
+Cambodia,Kampong Speu,riverine flood,0.0001137915339098771
+Cambodia,Kampot,flood (general),0.0001137915339098771
+Cambodia,Kampot,riverine flood,0.0002275830678197542
+Cambodia,Mondul Kiri,riverine flood,0.0001137915339098771
+Cambodia,Preah Vihear,riverine flood,0.0001137915339098771
+Cambodia,Pursat,riverine flood,0.0002275830678197542
+Cambodia,Siem Reap,riverine flood,0.0001137915339098771
+Cambodia,Stung Treng,tropical cyclone,0.0001137915339098771
+Cambodia,Takeo,drought,0.0001137915339098771
+Cambodia,Takeo,flash flood,0.0001137915339098771
+Cambodia,Takeo,riverine flood,0.0001137915339098771
+China,Anhui Sheng,drought,0.0001137915339098771
+China,Anhui Sheng,riverine flood,0.0002275830678197542
+China,Anhui Sheng,severe weather,0.0001137915339098771
+China,Anhui Sheng,tornado,0.0001137915339098771
+China,Anhui Sheng,tropical cyclone,0.0003413746017296313
+China,Beijing Shi,riverine flood,0.0001137915339098771
+China,Beijing Shi,storm (general),0.0001137915339098771
+China,Beijing Shi,tornado,0.0002275830678197542
+China,Chongqing,flood (general),0.0001137915339098771
+China,Chongqing Shi,drought,0.0001137915339098771
+China,Chongqing Shi,flash flood,0.0001137915339098771
+China,Chongqing Shi,landslide (wet),0.0004551661356395084
+China,Chongqing Shi,riverine flood,0.0004551661356395084
+China,Chongqing Shi,severe weather,0.0001137915339098771
+China,Chongqing Shi,storm (general),0.0001137915339098771
+China,Fujian,drought,0.0001137915339098771
+China,Fujian,flood (general),0.0003413746017296313
+China,Fujian,tropical cyclone,0.0001137915339098771
+China,Fujian Sheng,drought,0.0001137915339098771
+China,Fujian Sheng,flood (general),0.0001137915339098771
+China,Fujian Sheng,riverine flood,0.0006827492034592626
+China,Fujian Sheng,tropical cyclone,0.0009103322712790169
+China,Gansu,flood (general),0.0001137915339098771
+China,Gansu Sheng,coastal flood,0.0001137915339098771
+China,Gansu Sheng,drought,0.0001137915339098771
+China,Gansu Sheng,flash flood,0.0003413746017296313
+China,Gansu Sheng,ground movement,0.0006827492034592626
+China,Gansu Sheng,landslide (wet),0.0001137915339098771
+China,Gansu Sheng,riverine flood,0.0004551661356395084
+China,Gansu Sheng,severe weather,0.0001137915339098771
+China,Guandong,flash flood,0.0001137915339098771
+China,Guangdong,tornado,0.0002275830678197542
+China,Guangdong Sheng,hail,0.0001137915339098771
+China,Guangdong Sheng,heat wave,0.0001137915339098771
+China,Guangdong Sheng,lightning/thunderstorms,0.0002275830678197542
+China,Guangdong Sheng,riverine flood,0.0002275830678197542
+China,Guangdong Sheng,tropical cyclone,0.001024123805188894
+China,Guangxi Zhuangzu Zizhiqu,cold wave,0.0001137915339098771
+China,Guangxi Zhuangzu Zizhiqu,drought,0.0001137915339098771
+China,Guangxi Zhuangzu Zizhiqu,lightning/thunderstorms,0.0002275830678197542
+China,Guangxi Zhuangzu Zizhiqu,riverine flood,0.0004551661356395084
+China,Guangxi Zhuangzu Zizhiqu,tropical cyclone,0.0009103322712790169
+China,Guizhou Sheng,drought,0.0001137915339098771
+China,Guizhou Sheng,flash flood,0.0004551661356395084
+China,Guizhou Sheng,flood (general),0.0001137915339098771
+China,Guizhou Sheng,landslide (dry),0.0001137915339098771
+China,Guizhou Sheng,landslide (wet),0.0006827492034592626
+China,Guizhou Sheng,lightning/thunderstorms,0.0003413746017296313
+China,Guizhou Sheng,riverine flood,0.0012517068730086482
+China,Guizhou Sheng,storm (general),0.0001137915339098771
+China,Hainan Sheng,blizzard/winter storm,0.0001137915339098771
+China,Hainan Sheng,flood (general),0.0001137915339098771
+China,Hainan Sheng,riverine flood,0.0002275830678197542
+China,Hainan Sheng,storm (general),0.0002275830678197542
+China,Hainan Sheng,tropical cyclone,0.001024123805188894
+China,Heilongjiang Sheng,flash flood,0.0001137915339098771
+China,Heilongjiang Sheng,lightning/thunderstorms,0.0001137915339098771
+China,Henan,severe weather,0.0001137915339098771
+China,Henan Sheng,blizzard/winter storm,0.0001137915339098771
+China,Henan Sheng,drought,0.0001137915339098771
+China,Henan Sheng,riverine flood,0.0002275830678197542
+China,Hubei Sheng,blizzard/winter storm,0.0001137915339098771
+China,Hubei Sheng,drought,0.0001137915339098771
+China,Hubei Sheng,ground movement,0.0001137915339098771
+China,Hubei Sheng,landslide (wet),0.0002275830678197542
+China,Hubei Sheng,riverine flood,0.0003413746017296313
+China,Hubei Sheng,tropical cyclone,0.0001137915339098771
+China,Hunan Sheng,flood (general),0.0002275830678197542
+China,Hunan Sheng,hail,0.0001137915339098771
+China,Hunan Sheng,riverine flood,0.0005689576695493855
+China,Hunan Sheng,tropical cyclone,0.0001137915339098771
+China,Jiangsu Sheng,blizzard/winter storm,0.0001137915339098771
+China,Jiangsu Sheng,drought,0.0001137915339098771
+China,Jiangsu Sheng,lightning/thunderstorms,0.0001137915339098771
+China,Jiangsu Sheng,tornado,0.0001137915339098771
+China,Jiangsu Sheng,tropical cyclone,0.0003413746017296313
+China,Jiangxi Sheng,flood (general),0.0001137915339098771
+China,Jiangxi Sheng,riverine flood,0.0004551661356395084
+China,Jiangxi Sheng,severe winter conditions,0.0001137915339098771
+China,Jiangxi Sheng,tropical cyclone,0.0002275830678197542
+China,Jilin Sheng,ground movement,0.0001137915339098771
+China,Jilin Sheng,riverine flood,0.0001137915339098771
+China,Liaoning Sheng,ground movement,0.0001137915339098771
+China,Liaoning Sheng,hail,0.0001137915339098771
+China,Liaoning Sheng,landslide (wet),0.0001137915339098771
+China,Liaoning Sheng,riverine flood,0.0002275830678197542
+China,Liaoning Sheng,severe weather,0.0001137915339098771
+China,Nei Mongol Zizhiqu,blizzard/winter storm,0.0001137915339098771
+China,Nei Mongol Zizhiqu,cold wave,0.0001137915339098771
+China,Nei Mongol Zizhiqu,drought,0.0002275830678197542
+China,Nei Mongol Zizhiqu,forest fire,0.0001137915339098771
+China,Nei Mongol Zizhiqu,ground movement,0.0002275830678197542
+China,Nei Mongol Zizhiqu,riverine flood,0.0001137915339098771
+China,Ningxia Huizu Zizhiqu,drought,0.0001137915339098771
+China,Qinghai Sheng,ground movement,0.0003413746017296313
+China,Qinghai Sheng,lightning/thunderstorms,0.0001137915339098771
+China,Qinghai Sheng,severe weather,0.0001137915339098771
+China,Shaanxi Sheng,flood (general),0.0001137915339098771
+China,Shaanxi Sheng,landslide (wet),0.0002275830678197542
+China,Shaanxi Sheng,riverine flood,0.0002275830678197542
+China,Shaanxi Sheng,severe weather,0.0003413746017296313
+China,Shaanxi Sheng,storm (general),0.0001137915339098771
+China,Shandong,tropical cyclone,0.0001137915339098771
+China,Shandong Sheng,blizzard/winter storm,0.0001137915339098771
+China,Shandong Sheng,lightning/thunderstorms,0.0001137915339098771
+China,Shandong Sheng,riverine flood,0.0004551661356395084
+China,Shandong Sheng,severe weather,0.0001137915339098771
+China,Shandong Sheng,tropical cyclone,0.0002275830678197542
+China,Shanghai Shi,tropical cyclone,0.0002275830678197542
+China,Shanxi Sheng,drought,0.0001137915339098771
+China,Shanxi Sheng,landslide (wet),0.0002275830678197542
+China,Shanxi Sheng,storm (general),0.0001137915339098771
+China,Sichuan,flood (general),0.0001137915339098771
+China,Sichuan,lightning/thunderstorms,0.0001137915339098771
+China,Sichuan Sheng,flash flood,0.0001137915339098771
+China,Sichuan Sheng,flood (general),0.0001137915339098771
+China,Sichuan Sheng,ground movement,0.001024123805188894
+China,Sichuan Sheng,"land fire (brush, bush, pasture)",0.0001137915339098771
+China,Sichuan Sheng,landslide (dry),0.0001137915339098771
+China,Sichuan Sheng,landslide (wet),0.001024123805188894
+China,Sichuan Sheng,lightning/thunderstorms,0.0001137915339098771
+China,Sichuan Sheng,riverine flood,0.0013654984069185253
+China,Sichuan Sheng,storm (general),0.0002275830678197542
+China,Sichuan Sheng,tropical cyclone,0.0002275830678197542
+China,Tianjin Shi,blizzard/winter storm,0.0001137915339098771
+China,Xinjiang Uygur Zizhiqu,flood (general),0.0001137915339098771
+China,Xinjiang Uygur Zizhiqu,ground movement,0.0012517068730086482
+China,Xinjiang Uygur Zizhiqu,riverine flood,0.0002275830678197542
+China,Xinjiang Uygur Zizhiqu,sand/dust storm,0.0001137915339098771
+China,Xizang Zizhiqu,blizzard/winter storm,0.0001137915339098771
+China,Xizang Zizhiqu,ground movement,0.0001137915339098771
+China,Xizang Zizhiqu,landslide (wet),0.0001137915339098771
+China,Xizang Zizhiqu,riverine flood,0.0001137915339098771
+China,Yunnan,mudslide,0.0001137915339098771
+China,Yunnan,riverine flood,0.0001137915339098771
+China,Yunnan Sheng,drought,0.0001137915339098771
+China,Yunnan Sheng,flash flood,0.0003413746017296313
+China,Yunnan Sheng,flood (general),0.0004551661356395084
+China,Yunnan Sheng,ground movement,0.0032999544833864363
+China,Yunnan Sheng,landslide (dry),0.0001137915339098771
+China,Yunnan Sheng,landslide (wet),0.0007965407373691397
+China,Yunnan Sheng,lightning/thunderstorms,0.0001137915339098771
+China,Yunnan Sheng,riverine flood,0.001137915339098771
+China,Yunnan Sheng,tropical cyclone,0.0002275830678197542
+China,Zheijiang,storm (general),0.0001137915339098771
+China,Zhejiang Sheng,blizzard/winter storm,0.0001137915339098771
+China,Zhejiang Sheng,flood (general),0.0004551661356395084
+China,Zhejiang Sheng,hail,0.0001137915339098771
+China,Zhejiang Sheng,landslide (wet),0.0001137915339098771
+China,Zhejiang Sheng,lightning/thunderstorms,0.0001137915339098771
+China,Zhejiang Sheng,riverine flood,0.0001137915339098771
+China,Zhejiang Sheng,storm (general),0.0001137915339098771
+China,Zhejiang Sheng,tropical cyclone,0.001024123805188894
+China,and Zhejiang,tropical cyclone,0.0001137915339098771
+Cyprus,Larnaca,tornado,0.0001137915339098771
+Cyprus,Paphos,drought,0.0001137915339098771
+Cyprus,Paphos,heat wave,0.0001137915339098771
+Democratic People's Republic of Korea,South Hamgyong,tropical cyclone,0.0001137915339098771
+Democratic People's Republic of Korea,and Kangwon,flood (general),0.0001137915339098771
+Georgia,Guria,riverine flood,0.0001137915339098771
+Georgia,Imereti,drought,0.0001137915339098771
+Georgia,Kakheti,lightning/thunderstorms,0.0001137915339098771
+Georgia,Tbilisi,flash flood,0.0001137915339098771
+India,Andaman and Nicobar,tsunami,0.0001137915339098771
+India,Andhra Pradesh,heat wave,0.0002275830678197542
+India,Andhra Pradesh,lightning/thunderstorms,0.0001137915339098771
+India,Andhra Pradesh,riverine flood,0.0002275830678197542
+India,Andhra Pradesh,tropical cyclone,0.0001137915339098771
+India,Arunachal Pradesh,flash flood,0.0002275830678197542
+India,Arunachal Pradesh,flood (general),0.0001137915339098771
+India,Arunachal Pradesh,riverine flood,0.0001137915339098771
+India,Assam,ground movement,0.0001137915339098771
+India,Assam,hail,0.0001137915339098771
+India,Assam,landslide (wet),0.0001137915339098771
+India,Assam,riverine flood,0.0005689576695493855
+India,Assam,tropical cyclone,0.0002275830678197542
+India,Bihar,cold wave,0.0001137915339098771
+India,Bihar,heat wave,0.0001137915339098771
+India,Bihar,riverine flood,0.0001137915339098771
+India,Bihar,storm (general),0.0001137915339098771
+India,Bihar,tropical cyclone,0.0001137915339098771
+India,Chhattisgarh,riverine flood,0.0001137915339098771
+India,Chhattisgarh,tropical cyclone,0.0001137915339098771
+India,Delhi,cold wave,0.0002275830678197542
+India,Delhi,heat wave,0.0002275830678197542
+India,Gujarat,cold wave,0.0001137915339098771
+India,Gujarat,lightning/thunderstorms,0.0001137915339098771
+India,Gujarat,riverine flood,0.0002275830678197542
+India,Haryana,cold wave,0.0001137915339098771
+India,Haryana,riverine flood,0.0001137915339098771
+India,Haryana,storm (general),0.0001137915339098771
+India,Himachal Pradesh,cold wave,0.0001137915339098771
+India,Himachal Pradesh,flash flood,0.0001137915339098771
+India,Himachal Pradesh,riverine flood,0.0005689576695493855
+India,Jammu and Kashmir,cold wave,0.0002275830678197542
+India,Jammu and Kashmir,flash flood,0.0002275830678197542
+India,Jammu and Kashmir,flood (general),0.0001137915339098771
+India,Jammu and Kashmir,riverine flood,0.0002275830678197542
+India,Jammu and Kashmir,severe winter conditions,0.0001137915339098771
+India,Jharkhand,flash flood,0.0001137915339098771
+India,Jharkhand,lightning/thunderstorms,0.0003413746017296313
+India,Karnataka,flood (general),0.0001137915339098771
+India,Karnataka,riverine flood,0.0002275830678197542
+India,Kerala,flood (general),0.0001137915339098771
+India,Kerala,landslide (wet),0.0001137915339098771
+India,Kerala,riverine flood,0.0001137915339098771
+India,Kerala,tropical cyclone,0.0001137915339098771
+India,Madhya Pradesh,lightning/thunderstorms,0.0001137915339098771
+India,Madhya Pradesh,riverine flood,0.0001137915339098771
+India,Maharashrta,riverine flood,0.0001137915339098771
+India,Maharashtra,drought,0.0001137915339098771
+India,Maharashtra,landslide (wet),0.0003413746017296313
+India,Maharashtra,riverine flood,0.0003413746017296313
+India,Maharashtra,tropical cyclone,0.0001137915339098771
+India,Manipur,riverine flood,0.0003413746017296313
+India,Meghalaya,ground movement,0.0001137915339098771
+India,Meghalaya,riverine flood,0.0001137915339098771
+India,Nagaland,flood (general),0.0001137915339098771
+India,Orissa,heat wave,0.0001137915339098771
+India,Orissa,riverine flood,0.0002275830678197542
+India,Orissa,storm (general),0.0001137915339098771
+India,Orissa,tropical cyclone,0.0001137915339098771
+India,Puducherry,flood (general),0.0001137915339098771
+India,Punjab,cold wave,0.0001137915339098771
+India,Punjab,ground movement,0.0001137915339098771
+India,Rajasthan,cold wave,0.0001137915339098771
+India,Rajasthan,riverine flood,0.0003413746017296313
+India,Sikkim,ground movement,0.0001137915339098771
+India,Tamil Nadu,drought,0.0001137915339098771
+India,Tamil Nadu,flash flood,0.0001137915339098771
+India,Tamil Nadu,riverine flood,0.0001137915339098771
+India,Tamil Nadu,tropical cyclone,0.0003413746017296313
+India,Tripura,riverine flood,0.0002275830678197542
+India,Uttar Pradesh,cold wave,0.0001137915339098771
+India,Uttar Pradesh,flash flood,0.0001137915339098771
+India,Uttar Pradesh,heat wave,0.0002275830678197542
+India,Uttar Pradesh,riverine flood,0.0002275830678197542
+India,Uttar Pradesh,severe weather,0.0001137915339098771
+India,Uttar Pradesh,severe winter conditions,0.0001137915339098771
+India,Uttar Pradeshr,flood (general),0.0001137915339098771
+India,Uttarakhand,landslide (wet),0.0001137915339098771
+India,Uttarakhand,riverine flood,0.0002275830678197542
+India,West Bengal,cold wave,0.0001137915339098771
+India,West Bengal,flash flood,0.0001137915339098771
+India,West Bengal,heat wave,0.0001137915339098771
+India,West Bengal,lightning/thunderstorms,0.0002275830678197542
+India,West Bengal,riverine flood,0.0006827492034592626
+India,West Bengal,tropical cyclone,0.0002275830678197542
+Indonesia,Aceh,flood (general),0.0001137915339098771
+Indonesia,Bali,landslide (wet),0.0001137915339098771
+Indonesia,Banten,landslide (wet),0.0001137915339098771
+Indonesia,Banten,riverine flood,0.0001137915339098771
+Indonesia,Bekasi,flood (general),0.0001137915339098771
+Indonesia,Bengkulu,ground movement,0.0001137915339098771
+Indonesia,Bengkulu,landslide (wet),0.0001137915339098771
+Indonesia,Central Kalimantan,flood (general),0.0001137915339098771
+Indonesia,Central Sulawesi and Gorontalo,flood (general),0.0001137915339098771
+Indonesia,Dki Jakarta,flash flood,0.0001137915339098771
+Indonesia,Dki Jakarta,ground movement,0.0001137915339098771
+Indonesia,Dki Jakarta,riverine flood,0.0001137915339098771
+Indonesia,Gorontalo,riverine flood,0.0001137915339098771
+Indonesia,Jambi,flood (general),0.0001137915339098771
+Indonesia,Jambi,riverine flood,0.0001137915339098771
+Indonesia,Java Barat,riverine flood,0.0001137915339098771
+Indonesia,Jawa Barat,ground movement,0.0001137915339098771
+Indonesia,Jawa Barat,landslide (wet),0.0004551661356395084
+Indonesia,Jawa Barat,riverine flood,0.0003413746017296313
+Indonesia,Jawa Barat,rockfall (wet),0.0001137915339098771
+Indonesia,Jawa Barat,storm (general),0.0001137915339098771
+Indonesia,Jawa Barat,tropical cyclone,0.0001137915339098771
+Indonesia,Jawa Tengah,flash flood,0.0001137915339098771
+Indonesia,Jawa Tengah,landslide (wet),0.0005689576695493855
+Indonesia,Jawa Tengah,riverine flood,0.0002275830678197542
+Indonesia,Jawa Timur,flash flood,0.0001137915339098771
+Indonesia,Jawa Timur,landslide (wet),0.0001137915339098771
+Indonesia,Jawa Timur,mudslide,0.0001137915339098771
+Indonesia,Jawa Timur,riverine flood,0.0002275830678197542
+Indonesia,Kalimantan Barat,forest fire,0.0001137915339098771
+Indonesia,Kalimatan Tengah,forest fire,0.0002275830678197542
+Indonesia,Malaku,landslide (wet),0.0001137915339098771
+Indonesia,Malaku Utara,ground movement,0.0001137915339098771
+Indonesia,Maluku,riverine flood,0.0002275830678197542
+Indonesia,Maluku Utara,ash fall,0.0001137915339098771
+Indonesia,Maluku Utara,ground movement,0.0002275830678197542
+Indonesia,Maluku Utara,tsunami,0.0001137915339098771
+Indonesia,Nangroe Aceh Darussalam,flash flood,0.0002275830678197542
+Indonesia,Nangroe Aceh Darussalam,ground movement,0.0001137915339098771
+Indonesia,Nangroe Aceh Darussalam,riverine flood,0.0001137915339098771
+Indonesia,North Sulawesi,flash flood,0.0002275830678197542
+Indonesia,Nusatenggara Barat,flash flood,0.0001137915339098771
+Indonesia,Nusatenggara Barat,flood (general),0.0001137915339098771
+Indonesia,Nusatenggara Barat,ground movement,0.0001137915339098771
+Indonesia,Nusatenggara Barat,landslide (wet),0.0001137915339098771
+Indonesia,Nusatenggara Barat,riverine flood,0.0002275830678197542
+Indonesia,Nusatenggara Timur,drought,0.0001137915339098771
+Indonesia,Nusatenggara Timur,flash flood,0.0003413746017296313
+Indonesia,Nusatenggara Timur,severe weather,0.0001137915339098771
+Indonesia,Papua,drought,0.0001137915339098771
+Indonesia,Papua,flood (general),0.0001137915339098771
+Indonesia,Papua,riverine flood,0.0001137915339098771
+Indonesia,Papua,tsunami,0.0001137915339098771
+Indonesia,Papua Barat,flash flood,0.0001137915339098771
+Indonesia,Papua Barat,ground movement,0.0001137915339098771
+Indonesia,Papua Barat,tsunami,0.0001137915339098771
+Indonesia,Southeast Sulawesi and Central Sulawesi,severe weather,0.0001137915339098771
+Indonesia,Sulawesi,landslide (wet),0.0001137915339098771
+Indonesia,Sulawesi Selatan,flood (general),0.0001137915339098771
+Indonesia,Sulawesi Selatan,landslide (wet),0.0002275830678197542
+Indonesia,Sulawesi Selatan,riverine flood,0.0002275830678197542
+Indonesia,Sulawesi Tengah,ground movement,0.0002275830678197542
+Indonesia,Sulawesi Tengah,landslide (wet),0.0001137915339098771
+Indonesia,Sulawesi Utara,ash fall,0.0001137915339098771
+Indonesia,Sulawesi Utara,flash flood,0.0001137915339098771
+Indonesia,Sulawesi Utara,landslide (wet),0.0002275830678197542
+Indonesia,Sumatera Barat,flash flood,0.0001137915339098771
+Indonesia,Sumatera Barat,flood (general),0.0001137915339098771
+Indonesia,Sumatera Barat,ground movement,0.0001137915339098771
+Indonesia,Sumatera Selatan,riverine flood,0.0001137915339098771
+Indonesia,Sumatera Utara,ash fall,0.0001137915339098771
+Indonesia,Sumatera Utara,flash flood,0.0002275830678197542
+Indonesia,Sumatera Utara,ground movement,0.0001137915339098771
+Indonesia,Sumatera Utara,landslide (wet),0.0001137915339098771
+Indonesia,Sumatera Utara,riverine flood,0.0002275830678197542
+Indonesia,Sumatera Utara,tornado,0.0001137915339098771
+Indonesia,Sumatera Utara,tsunami,0.0001137915339098771
+Indonesia,Sumatra Selatan,ground movement,0.0001137915339098771
+Indonesia,Sumatra Selatan,riverine flood,0.0001137915339098771
+Indonesia,West Java,landslide (wet),0.0001137915339098771
+Indonesia,and Aceh,flood (general),0.0001137915339098771
+Indonesia,northern Sulawesi,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Bushehr,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Bushehr,ground movement,0.0002275830678197542
+Iran (Islamic Republic of),East Azarbayejan,ground movement,0.0001137915339098771
+Iran (Islamic Republic of),Esfahan,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Esfahan,riverine flood,0.0001137915339098771
+Iran (Islamic Republic of),Fars,ground movement,0.0002275830678197542
+Iran (Islamic Republic of),Ghazvin,ground movement,0.0001137915339098771
+Iran (Islamic Republic of),Gilan,flash flood,0.0002275830678197542
+Iran (Islamic Republic of),Golestan,flood (general),0.0001137915339098771
+Iran (Islamic Republic of),Golestan,ground movement,0.0001137915339098771
+Iran (Islamic Republic of),Golestan,riverine flood,0.0002275830678197542
+Iran (Islamic Republic of),Hormozgan,flood (general),0.0001137915339098771
+Iran (Islamic Republic of),Hormozgan,ground movement,0.0003413746017296313
+Iran (Islamic Republic of),Ilam,ground movement,0.0001137915339098771
+Iran (Islamic Republic of),Kerman,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Kerman,ground movement,0.0003413746017296313
+Iran (Islamic Republic of),Kerman,riverine flood,0.0001137915339098771
+Iran (Islamic Republic of),Kerman,tropical cyclone,0.0001137915339098771
+Iran (Islamic Republic of),Kermanshah,ground movement,0.0001137915339098771
+Iran (Islamic Republic of),Khorasan,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Khorasan,ground movement,0.0002275830678197542
+Iran (Islamic Republic of),Khorazan Razavi,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Khuzestan,flood (general),0.0001137915339098771
+Iran (Islamic Republic of),Kohgiluyeh va boyerahma,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Lorestan,blizzard/winter storm,0.0001137915339098771
+Iran (Islamic Republic of),Lorestan,ground movement,0.0002275830678197542
+Iran (Islamic Republic of),Mazandaran,ground movement,0.0001137915339098771
+Iran (Islamic Republic of),North Khorasan,ground movement,0.0001137915339098771
+Iran (Islamic Republic of),Semnan,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Semnan,ground movement,0.0001137915339098771
+Iran (Islamic Republic of),Semnan,riverine flood,0.0001137915339098771
+Iran (Islamic Republic of),West Azarbayejan,flash flood,0.0001137915339098771
+Iran (Islamic Republic of),Yazd,flash flood,0.0001137915339098771
+Iraq,Baghdad,riverine flood,0.0001137915339098771
+Iraq,Erbil,flash flood,0.0001137915339098771
+Iraq,Missan,riverine flood,0.0001137915339098771
+Iraq,Wassit,flash flood,0.0001137915339098771
+Israel,Haifa,forest fire,0.0001137915339098771
+Israel,Haifa,"land fire (brush, bush, pasture)",0.0001137915339098771
+Israel,Tel Aviv,blizzard/winter storm,0.0001137915339098771
+Israel,Tel Aviv,heat wave,0.0001137915339098771
+Israel,Tel Aviv,sand/dust storm,0.0001137915339098771
+Israel,Tel Aviv,storm (general),0.0001137915339098771
+Japan,Aiti,tropical cyclone,0.0001137915339098771
+Japan,Akita,ground movement,0.0001137915339098771
+Japan,Akita,tropical cyclone,0.0001137915339098771
+Japan,Aomori,blizzard/winter storm,0.0001137915339098771
+Japan,Aomori,ground movement,0.0001137915339098771
+Japan,Ehime,ground movement,0.0001137915339098771
+Japan,Ehime,tropical cyclone,0.0001137915339098771
+Japan,Gifu,coastal flood,0.0001137915339098771
+Japan,Gifu,tropical cyclone,0.0001137915339098771
+Japan,Hirosima,riverine flood,0.0001137915339098771
+Japan,Hokkaidoo,tropical cyclone,0.0001137915339098771
+Japan,Hukusima,flash flood,0.0001137915339098771
+Japan,Hukusima,flood (general),0.0001137915339098771
+Japan,Ibaraki,hail,0.0001137915339098771
+Japan,Ibaraki,riverine flood,0.0001137915339098771
+Japan,Isikawa,tropical cyclone,0.0001137915339098771
+Japan,Kagosima,cold wave,0.0001137915339098771
+Japan,Kagosima,tropical cyclone,0.0003413746017296313
+Japan,Kanagawa,tropical cyclone,0.0001137915339098771
+Japan,Kooti,tropical cyclone,0.0002275830678197542
+Japan,Kumamoto,tropical cyclone,0.0001137915339098771
+Japan,Kyooto,tropical cyclone,0.0001137915339098771
+Japan,Mie,tropical cyclone,0.0002275830678197542
+Japan,Miyagi,tropical cyclone,0.0001137915339098771
+Japan,Miyazaki,ground movement,0.0001137915339098771
+Japan,Nagano,ground movement,0.0001137915339098771
+Japan,Nagano,tropical cyclone,0.0001137915339098771
+Japan,Nagano,tsunami,0.0001137915339098771
+Japan,Niigata,blizzard/winter storm,0.0001137915339098771
+Japan,Okayama,ground movement,0.0001137915339098771
+Japan,Okayama,tropical cyclone,0.0001137915339098771
+Japan,Okinawa,storm (general),0.0001137915339098771
+Japan,Okinawa,tropical cyclone,0.0003413746017296313
+Japan,Ooita,riverine flood,0.0001137915339098771
+Japan,Oosaka,tropical cyclone,0.0001137915339098771
+Japan,Saga,ground movement,0.0001137915339098771
+Japan,Saga,tropical cyclone,0.0001137915339098771
+Japan,Saitama,tropical cyclone,0.0001137915339098771
+Japan,Siga,ground movement,0.0001137915339098771
+Japan,Siga,storm (general),0.0001137915339098771
+Japan,Sizuoka,tropical cyclone,0.0002275830678197542
+Japan,Tiba,tropical cyclone,0.0001137915339098771
+Japan,Tokusima,heat wave,0.0001137915339098771
+Japan,Tokusima,riverine flood,0.0001137915339098771
+Japan,Tokusima,tropical cyclone,0.0003413746017296313
+Japan,Tookyoo,forest fire,0.0001137915339098771
+Japan,Tookyoo,storm (general),0.0001137915339098771
+Japan,Tookyoo,tropical cyclone,0.0001137915339098771
+Japan,Tookyoo,tsunami,0.0001137915339098771
+Japan,Tottori,ground movement,0.0001137915339098771
+Japan,Tottori,landslide (wet),0.0001137915339098771
+Japan,Tottori,storm (general),0.0001137915339098771
+Japan,Toyama,ground movement,0.0002275830678197542
+Japan,Yamagata,blizzard/winter storm,0.0001137915339098771
+Japan,Yamagata,ground movement,0.0001137915339098771
+Japan,Yamaguti,riverine flood,0.0001137915339098771
+Japan,Yamaguti,tropical cyclone,0.0001137915339098771
+Japan,Yamanasi,blizzard/winter storm,0.0001137915339098771
+Japan,Yamanasi,heat wave,0.0004551661356395084
+Japan,Yamanasi,storm (general),0.0001137915339098771
+Jordan,Zarqa,drought,0.0001137915339098771
+Jordan,Zarqa,storm (general),0.0002275830678197542
+Kazakhstan,Karagandinskaya,flash flood,0.0002275830678197542
+Kazakhstan,Karagandinskaya,severe winter conditions,0.0001137915339098771
+Kazakhstan,Kyzylordinskaya,riverine flood,0.0001137915339098771
+Kyrgyzstan,Batken,riverine flood,0.0001137915339098771
+Kyrgyzstan,Naryn,ground movement,0.0001137915339098771
+Kyrgyzstan,Naryn,riverine flood,0.0001137915339098771
+Kyrgyzstan,Osh,ground movement,0.0002275830678197542
+Kyrgyzstan,Osh,landslide (wet),0.0003413746017296313
+Kyrgyzstan,Osh,riverine flood,0.0001137915339098771
+Kyrgyzstan,Talas,blizzard/winter storm,0.0001137915339098771
+Lao People's Democratic Republic,Attapu,flood (general),0.0001137915339098771
+Lao People's Democratic Republic,Champasak,flash flood,0.0001137915339098771
+Lao People's Democratic Republic,Champasak,riverine flood,0.0001137915339098771
+Lao People's Democratic Republic,Louangphabang,flood (general),0.0001137915339098771
+Lao People's Democratic Republic,Louangphabang,riverine flood,0.0001137915339098771
+Lao People's Democratic Republic,Salavan,tropical cyclone,0.0001137915339098771
+Lao People's Democratic Republic,Savannakhet,riverine flood,0.0001137915339098771
+Lao People's Democratic Republic,Sekong,flood (general),0.0001137915339098771
+Lao People's Democratic Republic,Sekong,tropical cyclone,0.0001137915339098771
+Lao People's Democratic Republic,Vientiane capital,flood (general),0.0001137915339098771
+Lao People's Democratic Republic,Xaignabouli,riverine flood,0.0001137915339098771
+Lao People's Democratic Republic,Xekong,riverine flood,0.0001137915339098771
+Lebanon,Bekaa,sand/dust storm,0.0001137915339098771
+Lebanon,North,forest fire,0.0001137915339098771
+Lebanon,South,blizzard/winter storm,0.0001137915339098771
+Lebanon,South,storm (general),0.0001137915339098771
+Malaysia,Johor,flash flood,0.0001137915339098771
+Malaysia,Kelantan,riverine flood,0.0002275830678197542
+Malaysia,Pahang,riverine flood,0.0003413746017296313
+Malaysia,Perak,flash flood,0.0001137915339098771
+Malaysia,Perak,riverine flood,0.0003413746017296313
+Malaysia,Perlis,riverine flood,0.0001137915339098771
+Malaysia,Pulau Pinang,flash flood,0.0001137915339098771
+Malaysia,Pulau Pinang,flood (general),0.0001137915339098771
+Malaysia,Sabah,flash flood,0.0001137915339098771
+Malaysia,Sabah,flood (general),0.0001137915339098771
+Malaysia,Sabah,riverine flood,0.0001137915339098771
+Malaysia,Sarawak,flash flood,0.0001137915339098771
+Malaysia,Sarawak,flood (general),0.0001137915339098771
+Malaysia,Selangor,drought,0.0001137915339098771
+Malaysia,Selangor,forest fire,0.0001137915339098771
+Malaysia,Selangor,lightning/thunderstorms,0.0001137915339098771
+Malaysia,Terengganu,riverine flood,0.0002275830678197542
+Maldives,Laamu,coastal flood,0.0001137915339098771
+Maldives,Vaavu,tsunami,0.0001137915339098771
+Mongolia,Arkhangai,severe winter conditions,0.0001137915339098771
+Mongolia,Arxangai,storm (general),0.0001137915339098771
+Mongolia,Bayanxongor,flash flood,0.0001137915339098771
+Mongolia,Bayanzurkh,flash flood,0.0001137915339098771
+Mongolia,Khovd,flash flood,0.0001137915339098771
+Mongolia,Selenge,flash flood,0.0001137915339098771
+Mongolia,Ulaanbaatar,severe winter conditions,0.0001137915339098771
+Mongolia,Umnugovi,flash flood,0.0001137915339098771
+Mongolia,Uvs,severe winter conditions,0.0001137915339098771
+Mongolia,Zavxan,blizzard/winter storm,0.0002275830678197542
+Mongolia,Zavxan,severe winter conditions,0.0001137915339098771
+Mongolia,Zavxan,storm (general),0.0001137915339098771
+Mongolia,and Khovd,sand/dust storm,0.0001137915339098771
+Myanmar,Ayeyawaddy,riverine flood,0.0002275830678197542
+Myanmar,Ayeyawaddy,tropical cyclone,0.0001137915339098771
+Myanmar,Kachin,landslide (wet),0.0001137915339098771
+Myanmar,Kayar,landslide (wet),0.0001137915339098771
+Myanmar,Kayin,riverine flood,0.0001137915339098771
+Myanmar,Kyain,riverine flood,0.0001137915339098771
+Myanmar,Magway,flash flood,0.0001137915339098771
+Myanmar,Mandalay,lightning/thunderstorms,0.0001137915339098771
+Myanmar,Mandaly,riverine flood,0.0001137915339098771
+Myanmar,Mon,flood (general),0.0001137915339098771
+Myanmar,Rakhine,tropical cyclone,0.0002275830678197542
+Myanmar,Sagaing,flash flood,0.0001137915339098771
+Myanmar,Sagaing,ground movement,0.0002275830678197542
+Myanmar,Shin,lightning/thunderstorms,0.0001137915339098771
+Myanmar,Yangon,riverine flood,0.0002275830678197542
+Myanmar,Yangon,tropical cyclone,0.0001137915339098771
+Nepal,Central,cold wave,0.0001137915339098771
+Nepal,Central,flood (general),0.0002275830678197542
+Nepal,Central,ground movement,0.0001137915339098771
+Nepal,Central,landslide (wet),0.0004551661356395084
+Nepal,Central,riverine flood,0.0004551661356395084
+Nepal,Eastern,cold wave,0.0002275830678197542
+Nepal,Eastern,flash flood,0.0001137915339098771
+Nepal,Eastern,landslide (wet),0.0002275830678197542
+Nepal,Eastern,riverine flood,0.0005689576695493855
+Nepal,Far Western,drought,0.0001137915339098771
+Nepal,Far Western,riverine flood,0.0004551661356395084
+Nepal,Mid Western,drought,0.0001137915339098771
+Nepal,Mid Western,landslide (wet),0.0002275830678197542
+Nepal,Mid Western,riverine flood,0.0003413746017296313
+Nepal,Western,blizzard/winter storm,0.0001137915339098771
+Nepal,Western,cold wave,0.0003413746017296313
+Nepal,Western,ground movement,0.0002275830678197542
+Nepal,Western,landslide (wet),0.0001137915339098771
+Nepal,Western,riverine flood,0.0001137915339098771
+Oman,Muscat,storm (general),0.0001137915339098771
+Oman,Muscat,tropical cyclone,0.0002275830678197542
+Pakistan,Azad Jammu and Kashmir,lightning/thunderstorms,0.0001137915339098771
+Pakistan,Balochistan,cold wave,0.0001137915339098771
+Pakistan,Balochistan,ground movement,0.0002275830678197542
+Pakistan,Balochistan,heat wave,0.0001137915339098771
+Pakistan,Balochistan,riverine flood,0.0001137915339098771
+Pakistan,Balochistan,tropical cyclone,0.0001137915339098771
+Pakistan,Balotchistan,heat wave,0.0001137915339098771
+Pakistan,Federally Administered Tribal Areas,riverine flood,0.0001137915339098771
+Pakistan,Federally Administered Tribal Areas,storm (general),0.0001137915339098771
+Pakistan,Gilgit Baltistan and Kashmir,flood (general),0.0001137915339098771
+Pakistan,Jammu and Kashmir,flash flood,0.0001137915339098771
+Pakistan,Jammu and Kashmir,riverine flood,0.0006827492034592626
+Pakistan,Khyber Pakhtunkhwa,flash flood,0.0001137915339098771
+Pakistan,Khyber Pakhtunkhwa,flood (general),0.0001137915339098771
+Pakistan,Khyber Pakhtunkhwa,lightning/thunderstorms,0.0001137915339098771
+Pakistan,Punjab,flood (general),0.0001137915339098771
+Pakistan,Punjab,heat wave,0.0001137915339098771
+Pakistan,Punjab,riverine flood,0.0004551661356395084
+Pakistan,Punjab,tornado,0.0001137915339098771
+Pakistan,Sindh,cold wave,0.0001137915339098771
+Pakistan,Sindh,flash flood,0.0002275830678197542
+Pakistan,Sindh,flood (general),0.0001137915339098771
+Pakistan,Sindh,ground movement,0.0001137915339098771
+Pakistan,Sindh,heat wave,0.0002275830678197542
+Pakistan,Sindh,mudslide,0.0001137915339098771
+Philippines,ARMM,flood (general),0.0002275830678197542
+Philippines,ARMM,riverine flood,0.0001137915339098771
+Philippines,Albay,lava flow,0.0001137915339098771
+Philippines,Cordillera Administrative Region,tropical cyclone,0.0001137915339098771
+Philippines,Davao de Oro and Sarangani,flash flood,0.0001137915339098771
+Philippines,Mountain,flood (general),0.0001137915339098771
+Philippines,Mountain,tropical cyclone,0.0002275830678197542
+Philippines,NCR,flood (general),0.0001137915339098771
+Philippines,NCR,riverine flood,0.0001137915339098771
+Philippines,Negros Occidental and Iloilo,tropical cyclone,0.0001137915339098771
+Philippines,Quezon,ash fall,0.0001137915339098771
+Philippines,Region I,riverine flood,0.0001137915339098771
+Philippines,Region II,flash flood,0.0001137915339098771
+Philippines,Region IV,riverine flood,0.0007965407373691397
+Philippines,Region IV,tropical cyclone,0.0001137915339098771
+Philippines,Region IX,flash flood,0.0003413746017296313
+Philippines,Region IX,riverine flood,0.0001137915339098771
+Philippines,Region V,riverine flood,0.0002275830678197542
+Philippines,Region VI,riverine flood,0.0002275830678197542
+Philippines,Region VII,flash flood,0.0001137915339098771
+Philippines,Region VIII,riverine flood,0.0001137915339098771
+Philippines,Region X,coastal flood,0.0001137915339098771
+Philippines,Region X,flash flood,0.0004551661356395084
+Philippines,Region X,flood (general),0.0001137915339098771
+Philippines,Region X,riverine flood,0.0002275830678197542
+Philippines,Region XI,flash flood,0.0002275830678197542
+Philippines,Region XI,riverine flood,0.0003413746017296313
+Philippines,Region XII,flash flood,0.0006827492034592626
+Philippines,Region XII,flood (general),0.0001137915339098771
+Philippines,Region XII,riverine flood,0.0002275830678197542
+Philippines,Region XIII,flash flood,0.0001137915339098771
+Philippines,Region XIII,riverine flood,0.0002275830678197542
+Philippines,Rizal,tropical cyclone,0.0001137915339098771
+Republic of Korea,Gangwon and Gyeongg,flood (general),0.0001137915339098771
+Republic of Korea,Kwangju,storm (general),0.0001137915339098771
+Republic of Korea,Seoul,flash flood,0.0001137915339098771
+Republic of Korea,Seoul,flood (general),0.0001137915339098771
+Republic of Korea,Seoul,tropical cyclone,0.0001137915339098771
+Republic of Korea,South Jeolla,flood (general),0.0001137915339098771
+Republic of Korea,Taegu,tropical cyclone,0.0001137915339098771
+Republic of Korea,Taejon,blizzard/winter storm,0.0001137915339098771
+Republic of Korea,Taejon,drought,0.0001137915339098771
+Republic of Korea,Taejon,storm (general),0.0001137915339098771
+Republic of Korea,Taejon,tropical cyclone,0.0003413746017296313
+Saudi Arabia,Asir,flood (general),0.0001137915339098771
+Saudi Arabia,Jizan,riverine flood,0.0001137915339098771
+Saudi Arabia,Makkah,flash flood,0.0001137915339098771
+Saudi Arabia,Najran,riverine flood,0.0001137915339098771
+Saudi Arabia,Northern Frontier,riverine flood,0.0001137915339098771
+Saudi Arabia,Riyad,riverine flood,0.0001137915339098771
+Saudi Arabia,Tabuk,flood (general),0.0001137915339098771
+Saudi Arabia,Tabuk,riverine flood,0.0001137915339098771
+Sri Lanka,Central,riverine flood,0.0001137915339098771
+Sri Lanka,Central,severe weather,0.0001137915339098771
+Sri Lanka,Eastern,riverine flood,0.0003413746017296313
+Sri Lanka,North Western,riverine flood,0.0002275830678197542
+Sri Lanka,Northern,flash flood,0.0001137915339098771
+Sri Lanka,Northern,flood (general),0.0001137915339098771
+Sri Lanka,Northern,riverine flood,0.0001137915339098771
+Sri Lanka,Sabaragamuwa,riverine flood,0.0001137915339098771
+Sri Lanka,Southern,flash flood,0.0001137915339098771
+Sri Lanka,Uva,landslide (wet),0.0002275830678197542
+Sri Lanka,Uva,riverine flood,0.0002275830678197542
+Sri Lanka,Uva,severe weather,0.0001137915339098771
+Sri Lanka,Western,flash flood,0.0003413746017296313
+Sri Lanka,Western,riverine flood,0.0001137915339098771
+Sri Lanka,Western,tropical cyclone,0.0002275830678197542
+Sri Lanka,and East,flood (general),0.0001137915339098771
+State of Palestine,Jabalya,riverine flood,0.0001137915339098771
+State of Palestine,Jerusalem,riverine flood,0.0001137915339098771
+State of Palestine,Rafah,blizzard/winter storm,0.0001137915339098771
+State of Palestine,Rafah,flash flood,0.0001137915339098771
+State of Palestine,Tulkarm,blizzard/winter storm,0.0001137915339098771
+Syrian Arab Republic,Aleppo,landslide (wet),0.0001137915339098771
+Syrian Arab Republic,Dara,sand/dust storm,0.0002275830678197542
+Syrian Arab Republic,Hassakeh,drought,0.0001137915339098771
+Syrian Arab Republic,Idleb,blizzard/winter storm,0.0001137915339098771
+Taiwan (Province of China),Taiwan Sheng,ground movement,0.0004551661356395084
+Taiwan (Province of China),Taiwan Sheng,tropical cyclone,0.0002275830678197542
+Tajikistan,Badakhshoni,ground movement,0.0001137915339098771
+Tajikistan,Badakhshoni Kuni,flash flood,0.0001137915339098771
+Tajikistan,Badakhshoni Kuni,severe winter conditions,0.0001137915339098771
+Tajikistan,Khatlon,flash flood,0.0002275830678197542
+Tajikistan,Khatlon,flood (general),0.0001137915339098771
+Tajikistan,Khatlon,ground movement,0.0002275830678197542
+Tajikistan,Khatlon,landslide (wet),0.0001137915339098771
+Tajikistan,Khatlon,mudslide,0.0001137915339098771
+Tajikistan,Khatlon,riverine flood,0.0002275830678197542
+Tajikistan,Sogd,ground movement,0.0003413746017296313
+Tajikistan,Sogd,riverine flood,0.0001137915339098771
+Tajikistan,Tadzhikistan Territories,drought,0.0001137915339098771
+Tajikistan,Tadzhikistan Territories,flash flood,0.0001137915339098771
+Tajikistan,Tadzhikistan Territories,ground movement,0.0002275830678197542
+Tajikistan,Tadzhikistan Territories,mudslide,0.0002275830678197542
+Tajikistan,Tadzhikistan Territories,riverine flood,0.0002275830678197542
+Tajikistan,Tadzhikistan Territories,severe winter conditions,0.0001137915339098771
+Thailand,Chaiyaphum,riverine flood,0.0001137915339098771
+Thailand,Chiang Rai,flash flood,0.0001137915339098771
+Thailand,Kalasin,riverine flood,0.0001137915339098771
+Thailand,Krabi,landslide (wet),0.0001137915339098771
+Thailand,Lampang,flash flood,0.0001137915339098771
+Thailand,Loei,tropical cyclone,0.0001137915339098771
+Thailand,Mae Hong Son,flash flood,0.0001137915339098771
+Thailand,Mae Hong Son,landslide (wet),0.0001137915339098771
+Thailand,Nakhon Ratchasima,drought,0.0001137915339098771
+Thailand,Nan,flash flood,0.0001137915339098771
+Thailand,Nan,ground movement,0.0002275830678197542
+Thailand,Nan,storm (general),0.0001137915339098771
+Thailand,Narathiwat,flash flood,0.0001137915339098771
+Thailand,Narathiwat,flood (general),0.0003413746017296313
+Thailand,Narathiwat,riverine flood,0.0001137915339098771
+Thailand,Nong Bua Lamphu,cold wave,0.0001137915339098771
+Thailand,Nonthaburi,flood (general),0.0001137915339098771
+Thailand,Pattani,flash flood,0.0001137915339098771
+Thailand,Pattani,flood (general),0.0001137915339098771
+Thailand,Phangnga,flash flood,0.0001137915339098771
+Thailand,Phangnga,riverine flood,0.0001137915339098771
+Thailand,Phatthalung,riverine flood,0.0001137915339098771
+Thailand,Phayao and Nakhon Ratchasima,flood (general),0.0001137915339098771
+Thailand,Phetchabun,tropical cyclone,0.0001137915339098771
+Thailand,Phichit,riverine flood,0.0001137915339098771
+Thailand,Phitsanulok,riverine flood,0.0001137915339098771
+Thailand,Phra Nakhon Si Ayudhya,riverine flood,0.0001137915339098771
+Thailand,Phuket,drought,0.0001137915339098771
+Thailand,Prachuap Khilikhan,riverine flood,0.0001137915339098771
+Thailand,Ranong,riverine flood,0.0002275830678197542
+Thailand,Ranong and Saraburi,flood (general),0.0001137915339098771
+Thailand,Samut Sakhon,riverine flood,0.0001137915339098771
+Thailand,Songkhla,forest fire,0.0001137915339098771
+Thailand,Songkhla,riverine flood,0.0001137915339098771
+Thailand,Surat Thani,riverine flood,0.0002275830678197542
+Thailand,Surat Thani,tropical cyclone,0.0001137915339098771
+Thailand,Tak,riverine flood,0.0001137915339098771
+Thailand,Trang,flash flood,0.0001137915339098771
+Thailand,Trang,riverine flood,0.0003413746017296313
+Thailand,Trang,tsunami,0.0001137915339098771
+Thailand,Ubon Ratchathani,flash flood,0.0002275830678197542
+Thailand,Ubon Ratchathani,flood (general),0.0002275830678197542
+Thailand,Ubon Ratchathani,riverine flood,0.0001137915339098771
+Thailand,Ubon Ratchathani,tropical cyclone,0.0002275830678197542
+Thailand,Udon Thani,drought,0.0002275830678197542
+Thailand,Uttaradit,drought,0.0002275830678197542
+Thailand,Uttaradit,flash flood,0.0001137915339098771
+Thailand,Uttaradit,lightning/thunderstorms,0.0001137915339098771
+Thailand,Uttaradit,tropical cyclone,0.0001137915339098771
+Thailand,Yala,flash flood,0.0002275830678197542
+Thailand,Yala,riverine flood,0.0002275830678197542
+Thailand,Yasothon,drought,0.0001137915339098771
+Thailand,Yasothon,flood (general),0.0001137915339098771
+Timor-Leste,Baucau,riverine flood,0.0001137915339098771
+Timor-Leste,Liquica,flood (general),0.0001137915339098771
+Timor-Leste,Manufahi,drought,0.0001137915339098771
+Timor-Leste,Viqueque,drought,0.0001137915339098771
+Timor-Leste,Viqueque,riverine flood,0.0001137915339098771
+Timor-Leste,Viqueque,storm (general),0.0001137915339098771
+Türkiye,Adana,blizzard/winter storm,0.0001137915339098771
+Türkiye,Adana,riverine flood,0.0001137915339098771
+Türkiye,Agri,riverine flood,0.0001137915339098771
+Türkiye,Ankara,severe winter conditions,0.0001137915339098771
+Türkiye,Ankara,storm (general),0.0001137915339098771
+Türkiye,Ankara,tornado,0.0001137915339098771
+Türkiye,Antalya,flash flood,0.0001137915339098771
+Türkiye,Antalya,forest fire,0.0001137915339098771
+Türkiye,Antalya,riverine flood,0.0002275830678197542
+Türkiye,Artvin,riverine flood,0.0001137915339098771
+Türkiye,Balikesir,forest fire,0.0001137915339098771
+Türkiye,Batman,ground movement,0.0001137915339098771
+Türkiye,Bingol,ground movement,0.0001137915339098771
+Türkiye,Bitlis,riverine flood,0.0001137915339098771
+Türkiye,Canakkale,ground movement,0.0001137915339098771
+Türkiye,Cannakale,cold wave,0.0001137915339098771
+Türkiye,Edirne,riverine flood,0.0002275830678197542
+Türkiye,Elazig,ground movement,0.0001137915339098771
+Türkiye,Erzurum,cold wave,0.0001137915339098771
+Türkiye,Erzurum,ground movement,0.0001137915339098771
+Türkiye,Erzurum,riverine flood,0.0001137915339098771
+Türkiye,Hakkari,ground movement,0.0001137915339098771
+Türkiye,Hatay,riverine flood,0.0001137915339098771
+Türkiye,Istanbul,flash flood,0.0001137915339098771
+Türkiye,Manisa,forest fire,0.0001137915339098771
+Türkiye,Osmaniye,forest fire,0.0001137915339098771
+Türkiye,Rize,landslide (wet),0.0001137915339098771
+Türkiye,Rize,riverine flood,0.0002275830678197542
+Türkiye,Sakarya,extra-tropical storm,0.0001137915339098771
+Türkiye,Sakarya,flood (general),0.0001137915339098771
+Türkiye,Samsun,riverine flood,0.0001137915339098771
+Türkiye,Sinop,heat wave,0.0001137915339098771
+Türkiye,Sivas,landslide (wet),0.0001137915339098771
+Türkiye,Tokat,riverine flood,0.0001137915339098771
+Türkiye,Trabzon,flash flood,0.0001137915339098771
+Türkiye,Trabzon,landslide (wet),0.0001137915339098771
+Türkiye,Yozgat,flood (general),0.0001137915339098771
+Türkiye,Zonguldak,blizzard/winter storm,0.0001137915339098771
+Türkiye,Zonguldak,flash flood,0.0001137915339098771
+Türkiye,Zonguldak,heat wave,0.0001137915339098771
+Türkiye,Zonguldak,storm (general),0.0001137915339098771
+Uzbekistan,Khorezm,drought,0.0001137915339098771
+Uzbekistan,Navoiy,flash flood,0.0001137915339098771
+Viet Nam,An Giang,riverine flood,0.0002275830678197542
+Viet Nam,Bac Giang,flash flood,0.0001137915339098771
+Viet Nam,Bac Giang,tropical cyclone,0.0001137915339098771
+Viet Nam,Bac Kan and Cao Bang,flood (general),0.0001137915339098771
+Viet Nam,Ben Tre,riverine flood,0.0001137915339098771
+Viet Nam,Binh Dinh,flood (general),0.0001137915339098771
+Viet Nam,Binh Dinh,tropical cyclone,0.0001137915339098771
+Viet Nam,Ca Mau,tornado,0.0001137915339098771
+Viet Nam,Can Tho City,tropical cyclone,0.0001137915339098771
+Viet Nam,Da Nang City,coastal flood,0.0001137915339098771
+Viet Nam,Da Nang City,tropical cyclone,0.0002275830678197542
+Viet Nam,Dak Lak,riverine flood,0.0003413746017296313
+Viet Nam,Dak Nong,flash flood,0.0001137915339098771
+Viet Nam,Dong Thap,riverine flood,0.0001137915339098771
+Viet Nam,Gia Lai,tropical cyclone,0.0001137915339098771
+Viet Nam,Ha Giang,flash flood,0.0001137915339098771
+Viet Nam,Ha Giang,flood (general),0.0001137915339098771
+Viet Nam,Ha Giang,tropical cyclone,0.0001137915339098771
+Viet Nam,Ha Noi City,riverine flood,0.0001137915339098771
+Viet Nam,Ha Tinh,coastal flood,0.0001137915339098771
+Viet Nam,Ha Tinh,riverine flood,0.0001137915339098771
+Viet Nam,Ha Tinh,tropical cyclone,0.0003413746017296313
+Viet Nam,Ha Tinh and Lao Cai,flood (general),0.0001137915339098771
+Viet Nam,Hai Phong City,tropical cyclone,0.0002275830678197542
+Viet Nam,Kien Giang,flood (general),0.0001137915339098771
+Viet Nam,Kien Giang,riverine flood,0.0002275830678197542
+Viet Nam,Kon Tum,riverine flood,0.0002275830678197542
+Viet Nam,Kon Tum,storm surge,0.0001137915339098771
+Viet Nam,Lai Chau,riverine flood,0.0002275830678197542
+Viet Nam,Lam Dong,riverine flood,0.0001137915339098771
+Viet Nam,Lang Son,flash flood,0.0001137915339098771
+Viet Nam,Lao Cai,flash flood,0.0001137915339098771
+Viet Nam,Lao Cai,landslide (wet),0.0001137915339098771
+Viet Nam,Lao Cai,tropical cyclone,0.0001137915339098771
+Viet Nam,Long An,drought,0.0001137915339098771
+Viet Nam,Nam Dinh,storm (general),0.0001137915339098771
+Viet Nam,Nam Dinh,tropical cyclone,0.0001137915339098771
+Viet Nam,Nghe An,riverine flood,0.0002275830678197542
+Viet Nam,Nghe An,tropical cyclone,0.0002275830678197542
+Viet Nam,Ninh Binh,tropical cyclone,0.0001137915339098771
+Viet Nam,Phu Tho,riverine flood,0.0001137915339098771
+Viet Nam,Phu Yen,flash flood,0.0001137915339098771
+Viet Nam,Phu Yen,tropical cyclone,0.0001137915339098771
+Viet Nam,Quan Binh,riverine flood,0.0001137915339098771
+Viet Nam,Quang Binh,riverine flood,0.0001137915339098771
+Viet Nam,Quang Binh,tropical cyclone,0.0001137915339098771
+Viet Nam,Quang Nam,riverine flood,0.0004551661356395084
+Viet Nam,Quang Nam,tropical cyclone,0.0002275830678197542
+Viet Nam,Quang Ngai,riverine flood,0.0001137915339098771
+Viet Nam,Quang Ngai,tropical cyclone,0.0003413746017296313
+Viet Nam,Quang Ninh,tropical cyclone,0.0001137915339098771
+Viet Nam,Quang Tri,flash flood,0.0001137915339098771
+Viet Nam,Quang Tri,tropical cyclone,0.0003413746017296313
+Viet Nam,Son La,tropical cyclone,0.0001137915339098771
+Viet Nam,Thai Binh and Ninh Binh,tropical cyclone,0.0001137915339098771
+Viet Nam,Thanh Hoa,flash flood,0.0001137915339098771
+Viet Nam,Thanh Hoa,tropical cyclone,0.0002275830678197542
+Viet Nam,Thanh Hóa,tropical cyclone,0.0001137915339098771
+Viet Nam,Thua Thien Hue,coastal flood,0.0001137915339098771
+Viet Nam,Thua Thien Hue,riverine flood,0.0001137915339098771
+Viet Nam,Thua Thien Hue,tropical cyclone,0.0001137915339098771
+Viet Nam,Tien Giang,riverine flood,0.0001137915339098771
+Viet Nam,Tuyen Quang,riverine flood,0.0001137915339098771
+Viet Nam,Tuyen Quang,tropical cyclone,0.0001137915339098771
+Viet Nam,Vinh Long,drought,0.0001137915339098771
+Viet Nam,Vinh Long,riverine flood,0.0001137915339098771
+Viet Nam,Vinh Phuc,tropical cyclone,0.0002275830678197542
+Viet Nam,Yen Bai,lightning/thunderstorms,0.0001137915339098771
+Viet Nam,Yen Bai,riverine flood,0.0002275830678197542
+Viet Nam,Yen Bai,tropical cyclone,0.0004551661356395084
+Yemen,Abyan,riverine flood,0.0001137915339098771
+Yemen,Aden,tropical cyclone,0.0001137915339098771
+Yemen,Al Hudaydah,ash fall,0.0001137915339098771
+Yemen,Al Hudaydah,flash flood,0.0001137915339098771
+Yemen,Al Hudaydah,riverine flood,0.0001137915339098771
+Yemen,Al Mahwit,flash flood,0.0001137915339098771
+Yemen,Al Mahwit,landslide (wet),0.0001137915339098771
+Yemen,Dhamar,flash flood,0.0001137915339098771
+Yemen,Dhamar,riverine flood,0.0001137915339098771
+Yemen,Hadramaut,riverine flood,0.0001137915339098771
+Yemen,Ibb,flash flood,0.0001137915339098771
+Yemen,Lahj,flood (general),0.0001137915339098771
+Yemen,Marib,flash flood,0.0001137915339098771
+Yemen,Shabwah,tropical cyclone,0.0001137915339098771
+Yemen,Taez,landslide (wet),0.0001137915339098771
+Yemen,Taizz,flash flood,0.0001137915339098771
+Yemen,Taizz,riverine flood,0.0001137915339098771

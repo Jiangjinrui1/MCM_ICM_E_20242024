@@ -1,0 +1,969 @@
+Start Year,Country,province,Disaster Subtype,COUNT
+2000,Argentina,Buenos Aires,lightning/thunderstorms,1
+2000,Argentina,Formosa,forest fire,1
+2000,Argentina,La Cordoba,flood (general),1
+2000,Argentina,Santa Cruz,cold wave,1
+2000,Argentina,Santa Fe,flood (general),2
+2000,Argentina,Tucuman,riverine flood,1
+2000,Belize,Orange Walk,tropical cyclone,1
+2000,Bolivia (Plurinational State of),La Paz,cold wave,1
+2000,Bolivia (Plurinational State of),Tarija,flood (general),1
+2000,Bolivia (Plurinational State of),Tarija,riverine flood,1
+2000,Brazil,Pernambuco,mudslide,1
+2000,Brazil,Pernambuco,riverine flood,1
+2000,Brazil,Rio de Janeiro,riverine flood,1
+2000,Canada,Alberta,tornado,1
+2000,Chile,Tarapaca,cold wave,1
+2000,Colombia,Amazonas,riverine flood,1
+2000,Colombia,Valle,flood (general),1
+2000,Costa Rica,Puntarenas,landslide (wet),1
+2000,Cuba,Camaguey,drought,1
+2000,Ecuador,Imbabura,flood (general),1
+2000,El Salvador,Usulutan,riverine flood,1
+2000,El Salvador,Usulutan,tropical cyclone,1
+2000,Guatemala,Alta Verapaz,riverine flood,1
+2000,Guatemala,Escuintla,ash fall,1
+2000,Guatemala,Zacapa,riverine flood,1
+2000,Haiti,Grande Anse,flood (general),1
+2000,Haiti,Nord,flood (general),1
+2000,Honduras,Francisco Morazan,drought,1
+2000,Honduras,Yoro,forest fire,1
+2000,Jamaica,Westmoreland,drought,1
+2000,Mexico,Guerrero,severe weather,1
+2000,Mexico,Morelos,ash fall,1
+2000,Mexico,Oaxaca,flood (general),1
+2000,Mexico,Tamaulipas,tropical cyclone,1
+2000,Mexico,Zacatecas,flash flood,1
+2000,Nicaragua,Masaya,ground movement,1
+2000,Nicaragua,Nueva Segovia,drought,1
+2000,Nicaragua,Rivas,tropical cyclone,1
+2000,Paraguay,San Pedro,cold wave,1
+2000,Peru,Cusco,landslide (wet),1
+2000,Peru,Huancavelica,flash flood,1
+2000,United States of America,Alabama,heat wave,1
+2000,United States of America,California,ground movement,1
+2000,United States of America,Florida,forest fire,1
+2000,United States of America,Massachussetts,storm (general),1
+2000,United States of America,Minnesota,blizzard/winter storm,1
+2000,United States of America,Minnesota,tornado,1
+2000,United States of America,New York,blizzard/winter storm,1
+2000,United States of America,North Dakota,forest fire,1
+2000,United States of America,Ohio,riverine flood,1
+2000,United States of America,Ohio,tornado,1
+2000,United States of America,Rhode Island,storm (general),1
+2000,United States of America,Texas,drought,1
+2000,United States of America,Texas,tornado,1
+2000,United States of America,Washington,forest fire,1
+2000,Uruguay,Maldonado,cold wave,1
+2000,Uruguay,Treinta Y Tres,flood (general),1
+2000,Venezuela (Bolivarian Republic of),Zulia,riverine flood,1
+2001,Argentina,Buenos Aires,cold wave,1
+2001,Argentina,Jujuy,storm (general),1
+2001,Argentina,Santa Fe,riverine flood,1
+2001,Belize,Orange Walk,tropical cyclone,1
+2001,Belize,Stann Creek,tropical cyclone,1
+2001,Bolivia (Plurinational State of),Potosi,cold wave,1
+2001,Bolivia (Plurinational State of),Tarija,riverine flood,1
+2001,Brazil,Minas Gerais,riverine flood,1
+2001,Brazil,Parana,lightning/thunderstorms,1
+2001,Brazil,Rio de Janeiro,flash flood,1
+2001,Chile,Arica y Painacota,flood (general),1
+2001,Chile,Los Lagos,storm (general),1
+2001,Chile,Los Rios,flood (general),1
+2001,Colombia,Antioquia,landslide (wet),1
+2001,Colombia,Antioquia,riverine flood,1
+2001,Colombia,Vichada,forest fire,1
+2001,Costa Rica,Guanacaste,flood (general),1
+2001,Cuba,Ciego de Avila,tropical cyclone,1
+2001,Ecuador,Orellana,riverine flood,1
+2001,El Salvador,La Libertad,ground movement,1
+2001,El Salvador,La Union,drought,1
+2001,El Salvador,Usulutan,ground movement,1
+2001,Guatemala,Jutiapa,cold wave,1
+2001,Guatemala,Quetzaltenango,tropical cyclone,1
+2001,Haiti,Sud Est,tropical cyclone,1
+2001,Honduras,Islas De Bahia,tropical cyclone,1
+2001,Honduras,Lempira,drought,1
+2001,Jamaica,Westmoreland,tropical cyclone,1
+2001,Mexico,Chiapas,tropical cyclone,1
+2001,Mexico,Sinaloa,tropical cyclone,1
+2001,Nicaragua,Matagalpa,drought,1
+2001,Peru,Arequipa,ground movement,1
+2001,Peru,Ayacucho,tsunami,1
+2001,Peru,Junin,flash flood,1
+2001,Peru,Junin,landslide (wet),1
+2001,Peru,Moquegua,riverine flood,1
+2001,United States of America,Colorado,storm (general),1
+2001,United States of America,Georgia,forest fire,1
+2001,United States of America,Illinois,riverine flood,2
+2001,United States of America,Iowa,tornado,1
+2001,United States of America,Iowa,tropical cyclone,1
+2001,United States of America,Kansas,tornado,1
+2001,United States of America,Kentucky,storm (general),1
+2001,United States of America,Maryland,blizzard/winter storm,1
+2001,United States of America,Minnesota,tornado,1
+2001,United States of America,Missouri,tornado,1
+2001,United States of America,Nebraska,tornado,1
+2001,United States of America,Oklahoma,forest fire,1
+2001,United States of America,Oklahoma,tornado,1
+2001,United States of America,Rhode Island,storm (general),1
+2001,United States of America,Texas,tornado,2
+2001,United States of America,Wisconsin,heat wave,1
+2001,United States of America,Wisconsin,tornado,1
+2001,Uruguay,Durazno,flood (general),1
+2002,Argentina,Santa Fe,riverine flood,1
+2002,Argentina,Tucuman,cold wave,1
+2002,Barbados,Christ Church,tropical cyclone,1
+2002,Bolivia (Plurinational State of),La Paz,riverine flood,1
+2002,Bolivia (Plurinational State of),Tarija,forest fire,1
+2002,Brazil,Piaui,drought,1
+2002,Brazil,Rio de Janeiro,mudslide,1
+2002,Canada,Ontario,riverine flood,1
+2002,Cayman Islands,Cayman Brac,tropical cyclone,1
+2002,Chile,Araucania,riverine flood,2
+2002,Chile,Maule,riverine flood,1
+2002,Chile,Valparaiso,cold wave,1
+2002,Colombia,Bolivar,mudslide,1
+2002,Colombia,Tolima,riverine flood,1
+2002,Colombia,Valle Del Cauca,riverine flood,1
+2002,Costa Rica,Alajuela,riverine flood,1
+2002,Costa Rica,Limon,riverine flood,1
+2002,Cuba,Isla dela Juventud,tropical cyclone,1
+2002,Cuba,Pinar del Rio,tropical cyclone,1
+2002,Cuba,Villa Clara,riverine flood,1
+2002,Ecuador,Los Rios,riverine flood,1
+2002,Ecuador,Morona Santiago,landslide (dry),1
+2002,Guatemala,Escuintla,ash fall,1
+2002,Guatemala,San Marcos,tropical cyclone,1
+2002,Guatemala,Zacapa,riverine flood,1
+2002,Haiti,Nippes,flash flood,1
+2002,Haiti,Sud Est,tropical cyclone,1
+2002,Honduras,Yoro,riverine flood,1
+2002,Jamaica,Hanover,tropical cyclone,1
+2002,Jamaica,Saint Elizabeth,riverine flood,1
+2002,Jamaica,Westmoreland,tropical cyclone,1
+2002,Mexico,Baja California Sur,cold wave,1
+2002,Mexico,Colima,ash fall,1
+2002,Mexico,Colima,tropical cyclone,1
+2002,Mexico,San Luis Potosi,drought,1
+2002,Mexico,San Luis Potosi,flash flood,1
+2002,Mexico,Tamaulipas,riverine flood,1
+2002,Mexico,Yucatan,tropical cyclone,1
+2002,Nicaragua,Rivas,forest fire,1
+2002,Nicaragua,Rivas,riverine flood,1
+2002,Panama,Chiriqui,riverine flood,1
+2002,Panama,Panama,riverine flood,1
+2002,Peru,Apurimac,blizzard/winter storm,1
+2002,Peru,Huanuco,riverine flood,1
+2002,Peru,Puno,riverine flood,1
+2002,Peru,Ucayali,drought,1
+2002,Saint Vincent and the Grenadines,Saint Patrick,tropical cyclone,1
+2002,United States of America,Alaska,forest fire,1
+2002,United States of America,Arkansas,blizzard/winter storm,1
+2002,United States of America,California,forest fire,1
+2002,United States of America,Californie,forest fire,1
+2002,United States of America,District of Columbia,blizzard/winter storm,1
+2002,United States of America,Nevada,storm (general),1
+2002,United States of America,Ohio,storm (general),1
+2002,United States of America,Tennessee,tropical cyclone,1
+2002,United States of America,Texas,blizzard/winter storm,1
+2002,United States of America,Texas,riverine flood,1
+2002,United States of America,Texas,storm (general),1
+2002,United States of America,Texas,tornado,1
+2002,United States of America,Virginia,riverine flood,1
+2002,United States of America,Wisconsin,drought,1
+2002,United States of America,Wisconsin,storm (general),1
+2002,United States of America,Wisconsin,tornado,1
+2002,Uruguay,Montevideo,storm (general),1
+2002,Uruguay,San Jose,flood (general),1
+2002,Venezuela (Bolivarian Republic of),Trujillo,riverine flood,1
+2003,Argentina,Buenos Aires,lightning/thunderstorms,1
+2003,Argentina,La Rioja,riverine flood,1
+2003,Argentina,Santa Fe,drought,1
+2003,Argentina,Santa Fe,riverine flood,1
+2003,Bolivia (Plurinational State of),Beni,riverine flood,1
+2003,Bolivia (Plurinational State of),La Paz,flash flood,1
+2003,Bolivia (Plurinational State of),Santa Cruz,riverine flood,1
+2003,Brazil,Espirito Santo,riverine flood,2
+2003,Brazil,Rio de Janeiro,riverine flood,1
+2003,Brazil,Sao Paulo,riverine flood,1
+2003,Canada,Bristish Columbia,riverine flood,1
+2003,Canada,Manitoba,forest fire,1
+2003,Canada,Newfoundland and Labrador,riverine flood,1
+2003,Canada,Prince Edward Island,tropical cyclone,1
+2003,Canada,Quebec,flash flood,1
+2003,Colombia,Cordoba,riverine flood,1
+2003,Colombia,Valle del Cauca,riverine flood,1
+2003,Dominican Republic,Baoruco,tropical cyclone,1
+2003,Dominican Republic,Valverde,coastal flood,1
+2003,Guatemala,San Marcos,landslide (wet),1
+2003,Haiti,Nord Ouest,drought,1
+2003,Honduras,Cortes,flood (general),1
+2003,Honduras,Yoro,riverine flood,1
+2003,Mexico,Baja California,tropical cyclone,1
+2003,Mexico,Baja California Sur,tropical cyclone,1
+2003,Mexico,Oaxaca,landslide (wet),1
+2003,Mexico,Sonora,forest fire,1
+2003,Mexico,Tabasco,coastal flood,1
+2003,Mexico,Tlaxcala,cold wave,1
+2003,Panama,Chiriqui,ground movement,1
+2003,Panama,Colon,riverine flood,1
+2003,Peru,Apurimac,cold wave,1
+2003,Peru,Huanuco,riverine flood,1
+2003,Peru,Ica,riverine flood,1
+2003,Puerto Rico,San Juan,tropical cyclone,1
+2003,United States of America,Arizona,forest fire,1
+2003,United States of America,California,forest fire,1
+2003,United States of America,California,ground movement,1
+2003,United States of America,Connecticut,blizzard/winter storm,1
+2003,United States of America,District of Columbia,tropical cyclone,1
+2003,United States of America,Georgia,riverine flood,1
+2003,United States of America,Rhode Island,blizzard/winter storm,1
+2003,United States of America,Tennessee,tornado,1
+2003,United States of America,Texas,blizzard/winter storm,1
+2003,United States of America,Texas,storm (general),1
+2003,United States of America,Vermont,storm (general),1
+2003,United States of America,Virginia,storm (general),1
+2003,United States of America,Wisconsin,storm (general),1
+2003,United States of America,Wyoming,blizzard/winter storm,1
+2003,Uruguay,Treinta y Tres,riverine flood,1
+2004,Argentina,Buenos Aires,cold wave,1
+2004,Argentina,Neuquen,riverine flood,1
+2004,Barbados,Christ Church,tropical cyclone,1
+2004,Bolivia (Plurinational State of),Tarija,drought,1
+2004,Brazil,Parana,cold wave,1
+2004,Brazil,Paraíba,flash flood,1
+2004,Brazil,Pernambuco,drought,1
+2004,Canada,Manitoba,riverine flood,1
+2004,Canada,Prince Edward Island,blizzard/winter storm,1
+2004,Canada,Quebec,flash flood,1
+2004,Chile,Valparaiso,cold wave,1
+2004,Colombia,Vichada,riverine flood,1
+2004,Costa Rica,Limon,riverine flood,1
+2004,Costa Rica,Puntarenas,ground movement,1
+2004,Cuba,Isla De La Juventud,tropical cyclone,1
+2004,Cuba,La Habane,drought,1
+2004,Cuba,Santiago de Cuba,tropical cyclone,1
+2004,Dominican Republic,La Altagracia,tropical cyclone,1
+2004,Dominican Republic,Sanchez Ramirez,riverine flood,1
+2004,Dominican Republic,Valverde,tropical cyclone,2
+2004,Haiti,Nord Ouest,tropical cyclone,1
+2004,Haiti,Ouest,riverine flood,1
+2004,Honduras,Yoro,drought,1
+2004,Jamaica,Saint Andrew And Kingston,tropical cyclone,1
+2004,Mexico,Coahuila,flash flood,1
+2004,Nicaragua,Atlantico Sur,mudslide,1
+2004,Panama,Colon,flash flood,1
+2004,Panama,Embera,riverine flood,1
+2004,Paraguay,San Pedro,cold wave,1
+2004,Peru,Cuzco,mudslide,1
+2004,Peru,San Martin,riverine flood,1
+2004,Peru,Ucayali,cold wave,1
+2004,Puerto Rico,San Juan,tropical cyclone,2
+2004,Saint Lucia,Region Number 8,tropical cyclone,1
+2004,Saint Vincent and the Grenadines,Saint Patrick,tropical cyclone,1
+2004,Turks and Caicos Islands,Providenciales and West Caicos,tropical cyclone,1
+2004,United States Virgin Islands,Saint Croix,tropical cyclone,1
+2004,United States of America,California,forest fire,1
+2004,United States of America,Hawaii,riverine flood,1
+2004,United States of America,Louisiana,lightning/thunderstorms,1
+2004,United States of America,Maine,blizzard/winter storm,1
+2004,United States of America,Mississippi,lightning/thunderstorms,1
+2004,United States of America,Mississippi,tornado,1
+2004,United States of America,New Jersey,riverine flood,1
+2004,United States of America,North Carolina,tropical cyclone,2
+2004,United States of America,Ohio,tropical cyclone,1
+2004,United States of America,Oklahoma,hail,1
+2004,United States of America,South Carolina,hail,1
+2004,United States of America,Tennessee,tropical cyclone,1
+2004,United States of America,Vermont,cold wave,1
+2004,United States of America,Wisconsin,riverine flood,1
+2004,Venezuela (Bolivarian Republic of),Miranda,riverine flood,1
+2004,Venezuela (Bolivarian Republic of),Vargas,tropical cyclone,1
+2005,Argentina,Buenos Aires,storm (general),1
+2005,Belize,Toledo,tropical cyclone,2
+2005,Bolivia (Plurinational State of),Pando,forest fire,1
+2005,Canada,Alberta,riverine flood,1
+2005,Canada,Newfoundland and Labrador,riverine flood,1
+2005,Chile,Biobio,blizzard/winter storm,1
+2005,Chile,Maule,riverine flood,1
+2005,Chile,Tarapaca,ground movement,1
+2005,Colombia,Cordoba,riverine flood,1
+2005,Colombia,Magdalena,riverine flood,1
+2005,Colombia,San Andres y Providencia,tropical cyclone,1
+2005,Colombia,Tolima,riverine flood,1
+2005,Costa Rica,Puntarenas,tropical cyclone,1
+2005,Cuba,Guatanamo,tropical cyclone,1
+2005,Cuba,Isla De La Juventud,tropical cyclone,1
+2005,Dominican Republic,Sanchez Ramirez,flood (general),1
+2005,El Salvador,La Libertad,tropical cyclone,1
+2005,El Salvador,Usulutan,riverine flood,1
+2005,El Salvador,Usulutan,tropical cyclone,1
+2005,Guatemala,Alta Verapaz,landslide (wet),1
+2005,Guatemala,Chimaltenango,tropical cyclone,1
+2005,Guatemala,Guatemala,landslide (wet),1
+2005,Guatemala,Zacapa,riverine flood,1
+2005,Haiti,Grande Anse,tropical cyclone,2
+2005,Haiti,Sud,riverine flood,1
+2005,Haiti,Sud Est,flood (general),1
+2005,Haiti,Sud Est,tropical cyclone,1
+2005,Honduras,Colon,tropical cyclone,1
+2005,Honduras,Francisco Morazan,riverine flood,1
+2005,Honduras,Yoro,tropical cyclone,1
+2005,Jamaica,Saint Andrew And Kingston,tropical cyclone,1
+2005,Jamaica,Saint Elizabeth,tropical cyclone,1
+2005,Jamaica,Saint Thomas,tropical cyclone,1
+2005,Mexico,Oaxaca,riverine flood,1
+2005,Mexico,Puebla,riverine flood,1
+2005,Mexico,Quintana Roo,tropical cyclone,1
+2005,Mexico,Tabasco,tropical cyclone,1
+2005,Nicaragua,Granada,tropical cyclone,1
+2005,Nicaragua,Jinotega,tropical cyclone,1
+2005,Panama,Ngobe Bugle,riverine flood,1
+2005,Paraguay,Alto Paraguay,drought,1
+2005,Peru,Arequipa,ground movement,1
+2005,United States of America,Alabama,tropical cyclone,1
+2005,United States of America,California,riverine flood,1
+2005,United States of America,Florida,tropical cyclone,1
+2005,United States of America,Georgia,tropical cyclone,1
+2005,United States of America,Iowa,blizzard/winter storm,1
+2005,United States of America,Maine,riverine flood,1
+2005,United States of America,Mississippi,heat wave,1
+2005,United States of America,Mississippi,tropical cyclone,1
+2005,United States of America,Nevada,riverine flood,1
+2005,United States of America,Oklahoma,forest fire,1
+2005,United States of America,Vermont,riverine flood,1
+2005,United States of America,Wyoming,blizzard/winter storm,1
+2005,Uruguay,Maldonado,storm (general),1
+2005,Venezuela (Bolivarian Republic of),Distrito Capital,riverine flood,2
+2005,Venezuela (Bolivarian Republic of),Guarico,riverine flood,1
+2005,Venezuela (Bolivarian Republic of),Zulia,riverine flood,1
+2006,Argentina,Formosa,flood (general),1
+2006,Bolivia (Plurinational State of),Beni,riverine flood,1
+2006,Canada,British Columbia,riverine flood,1
+2006,Canada,Newfoundland and Labrador,riverine flood,1
+2006,Canada,Northwest Territories,riverine flood,1
+2006,Canada,Ontario,riverine flood,1
+2006,Canada,Saskatchewan,riverine flood,1
+2006,Chile,Maule,riverine flood,1
+2006,Colombia,Caqueta,riverine flood,1
+2006,Cuba,Guantanamo,riverine flood,1
+2006,Ecuador,Chimborazo,ash fall,1
+2006,Ecuador,Manabi,ash fall,1
+2006,Ecuador,Zona No Delimitada,riverine flood,1
+2006,Guatemala,Zacapa,cold wave,1
+2006,Haiti,Artibonite,tropical cyclone,1
+2006,Haiti,Nippes,flash flood,1
+2006,Honduras,Intibuca,riverine flood,1
+2006,Jamaica,Portland,riverine flood,1
+2006,Mexico,Durango,landslide (wet),1
+2006,Mexico,Sinaloa,tropical cyclone,1
+2006,Mexico,Zacatecas,cold wave,1
+2006,Montserrat,Salem,ash fall,1
+2006,Panama,Chiriqui,riverine flood,1
+2006,Panama,Kuna Yala,wildfire (general),1
+2006,Peru,Arequipa,drought,1
+2006,Peru,Moquegua,ash fall,1
+2006,Peru,Puno,riverine flood,1
+2006,United States of America,Alaska,riverine flood,1
+2006,United States of America,California,heat wave,1
+2006,United States of America,California,"land fire (brush, bush, pasture)",1
+2006,United States of America,Florida,tornado,1
+2006,United States of America,Illinois,riverine flood,1
+2006,United States of America,Iowa,hail,1
+2006,United States of America,Massachusetts,riverine flood,1
+2006,United States of America,New Jersey,riverine flood,1
+2006,United States of America,Ohio,hail,1
+2006,United States of America,Oklahoma,tornado,1
+2006,United States of America,Oregon,riverine flood,1
+2006,United States of America,Tennessee,storm (general),1
+2006,United States of America,Texas,tornado,1
+2006,United States of America,Virginia,tropical cyclone,1
+2006,United States of America,Washington,storm (general),1
+2007,Argentina,Formosa,riverine flood,1
+2007,Argentina,La Rioja,severe winter conditions,1
+2007,Argentina,Santa Fe,riverine flood,1
+2007,Bolivia (Plurinational State of),Tarija,riverine flood,2
+2007,Brazil,Minas Gerais,drought,1
+2007,Brazil,Rio de Janeiro,flash flood,1
+2007,Brazil,Rio de Janeiro,riverine flood,1
+2007,Canada,British Columbia,riverine flood,1
+2007,Canada,Quebec,blizzard/winter storm,1
+2007,Chile,Aisen del General Carlos Ibañez del Campo,tsunami,1
+2007,Chile,Araucania,severe winter conditions,1
+2007,Colombia,Cauca,ash fall,1
+2007,Colombia,Magdalena,riverine flood,1
+2007,Colombia,Putumayo,riverine flood,1
+2007,Costa Rica,Guanacaste,riverine flood,1
+2007,Cuba,Isla de la Juventud,tropical cyclone,1
+2007,Cuba,Santiago de Cuba,riverine flood,1
+2007,Cuba,Santiago de Cuba,tropical cyclone,1
+2007,Dominican Republic,Monsenor Nouel,tropical cyclone,1
+2007,Dominican Republic,Monte Cristi,riverine flood,1
+2007,Dominican Republic,San Pedro de Macoris,tropical cyclone,1
+2007,Dominican Republic,Santo Domingo,tropical cyclone,1
+2007,Dominican Republic,Valverde,riverine flood,1
+2007,El Salvador,Usulutan,riverine flood,1
+2007,El Salvador,Usulutan,tropical cyclone,1
+2007,Guatemala,Suchitepequez,riverine flood,1
+2007,Haiti,Nord Est,riverine flood,1
+2007,Haiti,Nord Ouest,tropical cyclone,2
+2007,Haiti,Sud Est,riverine flood,1
+2007,Honduras,Colon,flood (general),1
+2007,Honduras,Paraiso,tropical cyclone,1
+2007,Jamaica,Manchester,tropical cyclone,1
+2007,Jamaica,Saint Andrew And Kingston,tropical cyclone,1
+2007,Martinique,Le Marin,tropical cyclone,1
+2007,Mexico,Chiapas,landslide (wet),1
+2007,Mexico,Jalisco,tropical cyclone,1
+2007,Mexico,Puebla,tropical cyclone,2
+2007,Mexico,San Luis Potosi,tropical cyclone,1
+2007,Mexico,Tabasco,riverine flood,1
+2007,Mexico,Veracruz,coastal flood,1
+2007,Nicaragua,Matagalpa,riverine flood,1
+2007,Panama,Veraguas,riverine flood,1
+2007,Paraguay,Amambay,forest fire,1
+2007,Peru,Ica,ground movement,1
+2007,Peru,San Martin,riverine flood,1
+2007,Peru,Tacna,severe winter conditions,1
+2007,Saint Lucia,Region Number 8,tropical cyclone,1
+2007,United States of America,California,forest fire,1
+2007,United States of America,Illinois,storm (general),1
+2007,United States of America,Maryland,drought,1
+2007,United States of America,Minnesota,tornado,1
+2007,United States of America,Missouri,riverine flood,1
+2007,United States of America,Missouri,tropical cyclone,1
+2007,United States of America,North Dakota,riverine flood,1
+2007,United States of America,Oklahoma,riverine flood,2
+2007,United States of America,Oregon,storm (general),1
+2007,United States of America,Pennsylvania,blizzard/winter storm,1
+2007,United States of America,Rhode Island,storm (general),1
+2007,United States of America,South Dakota,tornado,1
+2007,United States of America,Texas,riverine flood,1
+2007,United States of America,Virginia,storm (general),1
+2007,United States of America,Wisconsin,storm (general),1
+2007,United States of America,Wyoming,storm (general),1
+2007,Uruguay,Soriano,riverine flood,1
+2007,Uruguay,Soriano,severe winter conditions,1
+2007,Uruguay,Treinta y Tres,riverine flood,1
+2008,Argentina,Chubut,ash fall,1
+2008,Argentina,Salta,riverine flood,1
+2008,Belize,Orange Walk,riverine flood,1
+2008,Belize,Stann Creek,tropical cyclone,1
+2008,Bolivia (Plurinational State of),Santa Cruz,drought,1
+2008,Bolivia (Plurinational State of),Tarija,severe weather,1
+2008,Brazil,Ceara,riverine flood,1
+2008,Brazil,Rio De Janeiro,riverine flood,1
+2008,Brazil,Rio Grande do Sul,extra-tropical storm,1
+2008,Canada,North Ontario,riverine flood,1
+2008,Canada,Ontario,riverine flood,1
+2008,Cayman Islands,Cayman Brac,tropical cyclone,1
+2008,Cayman Islands,Little Cayman,tropical cyclone,1
+2008,Chile,Los Lagos,ash fall,1
+2008,Chile,Los Rios,riverine flood,1
+2008,Chile,Maule,riverine flood,1
+2008,Colombia,Casanare,riverine flood,1
+2008,Colombia,Meta,ground movement,1
+2008,Costa Rica,Alajuela,riverine flood,1
+2008,Costa Rica,Limon,riverine flood,1
+2008,Costa Rica,Puntarenas,riverine flood,1
+2008,Cuba,Granma,tropical cyclone,1
+2008,Cuba,Holguín,tropical cyclone,1
+2008,Cuba,Matanzas,tropical cyclone,2
+2008,Dominican Republic,Puerto Plata,tropical cyclone,1
+2008,Dominican Republic,Valverde,tropical cyclone,1
+2008,Ecuador,Pincincha,riverine flood,1
+2008,El Salvador,San Miguel,riverine flood,1
+2008,El Salvador,San Salvador,riverine flood,1
+2008,Guatemala,Alta Verapaz,riverine flood,1
+2008,Guatemala,Guatemala,landslide (wet),1
+2008,Guatemala,Huehuetenango,tropical cyclone,1
+2008,Guatemala,Peten,riverine flood,1
+2008,Haiti,Centre,tropical cyclone,1
+2008,Haiti,Nippes,tropical cyclone,1
+2008,Haiti,Sud Est,tropical cyclone,1
+2008,Honduras,Yoro,riverine flood,1
+2008,Jamaica,Saint Mary,tropical cyclone,1
+2008,Jamaica,Westmoreland,tropical cyclone,1
+2008,Mexico,Coahuila,tropical cyclone,1
+2008,Mexico,Oaxaca,flash flood,1
+2008,Nicaragua,Granada,tropical cyclone,1
+2008,Nicaragua,Managua,riverine flood,1
+2008,Nicaragua,Rivas,riverine flood,1
+2008,Panama,Chiriqui,flash flood,1
+2008,Panama,Darien,riverine flood,1
+2008,Paraguay,Boqueron,drought,1
+2008,Paraguay,Concepcion,hail,1
+2008,Peru,Lima,riverine flood,1
+2008,Suriname,Sipaliwini,riverine flood,1
+2008,Turks and Caicos Islands,South and East Caicos,tropical cyclone,1
+2008,United States of America,Alabama,tropical cyclone,1
+2008,United States of America,Arkansas,tornado,1
+2008,United States of America,Florida,tropical cyclone,1
+2008,United States of America,Iowa,tornado,1
+2008,United States of America,Maryland,tropical cyclone,1
+2008,United States of America,Michigan,tropical cyclone,1
+2008,United States of America,Mississippi,tornado,1
+2008,United States of America,Mississippi,tropical cyclone,1
+2008,United States of America,Missouri,tornado,1
+2008,United States of America,Nevada,ground movement,1
+2008,United States of America,Oregon,riverine flood,1
+2008,United States of America,Texas,riverine flood,1
+2008,United States of America,Texas,tornado,1
+2008,United States of America,Vermont,blizzard/winter storm,1
+2008,United States of America,Vermont,severe winter conditions,1
+2008,United States of America,Washington,riverine flood,1
+2008,United States of America,Wisconsin,extra-tropical storm,1
+2008,United States of America,Wisconsin,riverine flood,1
+2008,Venezuela (Bolivarian Republic of),Trujillo,riverine flood,1
+2009,Argentina,Misiones,severe weather,1
+2009,Argentina,Santa Fe,riverine flood,1
+2009,Argentina,Santiago del Estero,drought,1
+2009,Brazil,Amazonas,riverine flood,1
+2009,Brazil,Minas Gerais,riverine flood,1
+2009,Brazil,Rio Grande do Norte,riverine flood,1
+2009,Brazil,Rio de Janeiro,mudslide,1
+2009,Brazil,Santa Catarina,severe weather,1
+2009,Canada,Newfoundland and Labrador,tropical cyclone,1
+2009,Colombia,Cundinamarca,landslide (wet),1
+2009,Colombia,Tolima,riverine flood,1
+2009,Dominican Republic,Santiago Rodrigez,riverine flood,1
+2009,Dominican Republic,Valverde,riverine flood,1
+2009,Ecuador,Santa Elena,riverine flood,1
+2009,Ecuador,Tungurahua,drought,1
+2009,El Salvador,Usulutan,drought,1
+2009,El Salvador,Usulutan,tropical cyclone,1
+2009,Guatemala,Alta Verapraz,landslide (dry),1
+2009,Guatemala,Quiché,drought,1
+2009,Haiti,Nord Est,riverine flood,1
+2009,Haiti,Ouest,flash flood,1
+2009,Honduras,Intibuca,drought,1
+2009,Mexico,Oaxaca,riverine flood,1
+2009,Nicaragua,Atlantico Norte,tropical cyclone,1
+2009,Paraguay,Caaguazu,severe weather,1
+2009,Paraguay,Neembucu,riverine flood,1
+2009,Paraguay,Neembucú,drought,1
+2009,Peru,Ayacucho,landslide (wet),1
+2009,Peru,Huanuco,cold wave,1
+2009,Peru,La Libertad,landslide (wet),1
+2009,Peru,Puno,rockfall (wet),1
+2009,United States of America,Colorado,severe weather,1
+2009,United States of America,District of Columbia,cold wave,1
+2009,United States of America,Kentucky,riverine flood,1
+2009,United States of America,Kentucky,tornado,1
+2009,United States of America,Louisiana,lightning/thunderstorms,1
+2009,United States of America,Minnesota,riverine flood,1
+2009,United States of America,Missouri,tornado,1
+2009,United States of America,Oklahoma,blizzard/winter storm,1
+2009,United States of America,Pennsylvannia,tropical cyclone,1
+2009,United States of America,Tennessee,riverine flood,1
+2009,United States of America,Tennessee,tornado,1
+2009,United States of America,Washington,tornado,1
+2009,Uruguay,Treinta Y Tres,riverine flood,1
+2009,Venezuela (Bolivarian Republic of),Distrito Capital,drought,1
+2010,Argentina,Tucuman,cold wave,1
+2010,Belize,Stann Creek,tropical cyclone,1
+2010,Bolivia (Plurinational State of),Chuquisaca,drought,1
+2010,Bolivia (Plurinational State of),La Paz,forest fire,1
+2010,Bolivia (Plurinational State of),La Paz and Santa Cruz,riverine flood,1
+2010,Brazil,Minas Gerais,heat wave,1
+2010,Brazil,Pernambuco,riverine flood,1
+2010,Brazil,Sao Paulo,riverine flood,1
+2010,Canada,Newfoundland and Labrador,blizzard/winter storm,1
+2010,Colombia,Antioquia,landslide (wet),1
+2010,Colombia,Guajira,riverine flood,1
+2010,Colombia,Guaviare,riverine flood,1
+2010,Colombia,Nariño,riverine flood,1
+2010,Colombia,Vichada,wildfire (general),1
+2010,Costa Rica,Cartago,riverine flood,1
+2010,Costa Rica,San Jose,riverine flood,1
+2010,Dominican Republic,Puerto Plata,flash flood,1
+2010,Dominican Republic,Valverde,riverine flood,1
+2010,Dominican Republic,Valverde,tropical cyclone,1
+2010,Ecuador,Guayas,ash fall,1
+2010,Ecuador,Guayas,riverine flood,1
+2010,El Salvador,La Libertad,tropical cyclone,1
+2010,El Salvador,Usulutan,tropical cyclone,1
+2010,Guatemala,El Progreso,tropical cyclone,1
+2010,Guatemala,Huehuetenango,riverine flood,1
+2010,Guatemala,Jutiapa,tropical cyclone,1
+2010,Guatemala,Quiché,tropical cyclone,1
+2010,Guatemala,Sacatepéquez,ash fall,1
+2010,Guatemala,Totonicapan,landslide (wet),1
+2010,Haiti,Grande Anse,tropical cyclone,1
+2010,Haiti,Sud,riverine flood,1
+2010,Haiti,Sud Est,ground movement,1
+2010,Honduras,Comayagua,tropical cyclone,2
+2010,Honduras,Francisco Morazan,riverine flood,1
+2010,Honduras,Yoro,riverine flood,1
+2010,Jamaica,Westmoreland,tropical cyclone,1
+2010,Mexico,Chiapas,riverine flood,1
+2010,Mexico,Michoacan,riverine flood,1
+2010,Mexico,Nuevo León,tropical cyclone,1
+2010,Mexico,Oaxaca,landslide (wet),1
+2010,Mexico,Oaxaca,tropical cyclone,1
+2010,Mexico,Puebla,tropical cyclone,1
+2010,Mexico,Veracruz,tropical cyclone,1
+2010,Nicaragua,Chinandega,riverine flood,1
+2010,Nicaragua,Managua,riverine flood,1
+2010,Nicaragua,Rivas,tropical cyclone,1
+2010,Panama,Colon,riverine flood,1
+2010,Panama,Darien,riverine flood,1
+2010,Panama,Los Santos,riverine flood,1
+2010,Panama,Veraguas,riverine flood,1
+2010,Paraguay,San Pedro,cold wave,1
+2010,Peru,Cajamarca,landslide (wet),1
+2010,Peru,La Libertad,riverine flood,1
+2010,Peru,Loreto,cold wave,1
+2010,Saint Lucia,Region Number 8,tropical cyclone,1
+2010,Saint Vincent and the Grenadines,Saint Patrick,tropical cyclone,1
+2010,United States of America,Arizona,riverine flood,1
+2010,United States of America,California,ground movement,1
+2010,United States of America,Illinois,tornado,1
+2010,United States of America,Massachusetts,blizzard/winter storm,1
+2010,United States of America,Nebraska,lightning/thunderstorms,1
+2010,United States of America,Oklahoma,riverine flood,1
+2010,United States of America,Rhode Island,storm (general),1
+2010,United States of America,Rhode Island,tropical cyclone,1
+2010,United States of America,South Carolina,severe weather,1
+2010,United States of America,Tennessee,severe weather,1
+2010,United States of America,Tennessee,tornado,1
+2010,United States of America,Vermont,blizzard/winter storm,1
+2010,United States of America,Virginia,blizzard/winter storm,1
+2010,Uruguay,Treinta Y Tres,cold wave,1
+2010,Venezuela (Bolivarian Republic of),Sucre,tropical cyclone,1
+2010,Venezuela (Bolivarian Republic of),Zulia,riverine flood,1
+2011,Argentina,Neuquen,ash fall,1
+2011,Bolivia (Plurinational State of),La Paz,riverine flood,1
+2011,Brazil,Rio Grande Do Sul,riverine flood,1
+2011,Brazil,Rio Grande do Sul,riverine flood,1
+2011,Brazil,Rio de Janeiro,riverine flood,1
+2011,Canada,Alberta,forest fire,1
+2011,Canada,Alberta,riverine flood,1
+2011,Canada,Ontario,tornado,1
+2011,Canada,Prince Edward Island,tropical cyclone,1
+2011,Chile,Araucania,forest fire,1
+2011,Chile,Araucania,severe winter conditions,1
+2011,Chile,Los Rios,ash fall,1
+2011,Colombia,Guaviare,riverine flood,1
+2011,Costa Rica,Alajuela,riverine flood,1
+2011,Dominican Republic,Santiago,riverine flood,1
+2011,Dominican Republic,Santo Domingo,tropical cyclone,1
+2011,Dominican Republic,Valverde,tropical cyclone,1
+2011,Ecuador,Sucumbios,landslide (wet),1
+2011,Ecuador,Zamora Chinchipe,riverine flood,1
+2011,El Salvador,Usulutan,riverine flood,1
+2011,Guatemala,Chiquimula,cold wave,1
+2011,Guatemala,Guatemala,ground movement,1
+2011,Guatemala,Huehuetenango,landslide (wet),1
+2011,Guatemala,Jalapa,riverine flood,1
+2011,Haiti,Grande Anse,riverine flood,1
+2011,Haiti,Sud,riverine flood,1
+2011,Honduras,Yoro,riverine flood,1
+2011,Martinique,Le Marin,tropical cyclone,1
+2011,Mexico,Nayarit,tropical cyclone,1
+2011,Mexico,Oaxaca,tropical cyclone,2
+2011,Mexico,San Luis Potosi,drought,1
+2011,Mexico,Tamaulipas,cold wave,1
+2011,Nicaragua,Rivas,riverine flood,1
+2011,Panama,Colon,riverine flood,1
+2011,Peru,Ica,ground movement,1
+2011,Peru,Moquegua,cold wave,1
+2011,Peru,San Martin,riverine flood,1
+2011,Peru,Ucayali,blizzard/winter storm,1
+2011,Peru,Ucayali,riverine flood,1
+2011,Puerto Rico,San Juan,tropical cyclone,2
+2011,United States of America,Florida,forest fire,1
+2011,United States of America,Florida,tropical cyclone,1
+2011,United States of America,Kansas,tornado,1
+2011,United States of America,Louisiana,drought,1
+2011,United States of America,Massachusetts,blizzard/winter storm,1
+2011,United States of America,Mississppi,riverine flood,1
+2011,United States of America,Missouri,riverine flood,1
+2011,United States of America,New Mexico,blizzard/winter storm,1
+2011,United States of America,North Carolina,riverine flood,1
+2011,United States of America,North Dakota,tornado,1
+2011,United States of America,Ohio,riverine flood,1
+2011,United States of America,Oklahoma,tornado,1
+2011,United States of America,Pennsylvania,blizzard/winter storm,2
+2011,United States of America,Pennsylvania,storm (general),1
+2011,United States of America,South Dakota,heat wave,1
+2011,United States of America,Tennessee,blizzard/winter storm,1
+2011,United States of America,Texas,tornado,1
+2011,United States of America,Virginia,tropical cyclone,1
+2011,United States of America,Wyoming,storm (general),1
+2011,Venezuela (Bolivarian Republic of),Zulia,flash flood,1
+2011,Venezuela (Bolivarian Republic of),Zulia,riverine flood,2
+2012,Bolivia (Plurinational State of),Tarija,riverine flood,1
+2012,Brazil,Bahia,drought,1
+2012,Canada,Alberta,severe weather,1
+2012,Canada,New Brunswick,riverine flood,1
+2012,Canada,Nova Scotia,blizzard/winter storm,1
+2012,Chile,Magallanes y Antartica chilena,wildfire (general),1
+2012,Chile,Maule,ground movement,1
+2012,Chile,Tarapaca,riverine flood,1
+2012,Colombia,Choco,riverine flood,1
+2012,Colombia,Huila,riverine flood,1
+2012,Costa Rica,Limon,riverine flood,1
+2012,Cuba,Camagüey,tropical cyclone,1
+2012,Cuba,Guantanamo,tropical cyclone,1
+2012,Dominican Republic,Distrito Nacional,tropical cyclone,1
+2012,Dominican Republic,San José de Ocoa,tropical cyclone,1
+2012,Ecuador,Guayas,riverine flood,1
+2012,Ecuador,Loja,forest fire,1
+2012,Guatemala,Escuintla and Chimaltenango,ash fall,1
+2012,Guatemala,Guatemala,ground movement,1
+2012,Guatemala,Huehuetenango,drought,1
+2012,Haiti,Artibonite,tropical cyclone,1
+2012,Haiti,Nord Ouest,riverine flood,1
+2012,Haiti,Ouest,riverine flood,1
+2012,Haiti,Ouest,tropical cyclone,1
+2012,Haiti,Sud Est,riverine flood,1
+2012,Honduras,Valle,drought,1
+2012,Jamaica,Westmoreland,tropical cyclone,1
+2012,Mexico,Mexico,ground movement,1
+2012,Mexico,Oaxaca,tropical cyclone,2
+2012,Nicaragua,Nueva Segovia,riverine flood,1
+2012,Panama,Bocas del Toro,riverine flood,1
+2012,Paraguay,Canindeyu,drought,1
+2012,Paraguay,Neembucu,severe weather,1
+2012,Paraguay,Presidente Hayes,riverine flood,1
+2012,Peru,San Martin,landslide (wet),1
+2012,Peru,Ucayali,riverine flood,1
+2012,Puerto Rico,San Juan,tropical cyclone,1
+2012,United States of America,Colorado,wildfire (general),1
+2012,United States of America,Indiana,severe weather,1
+2012,United States of America,Kansas,blizzard/winter storm,1
+2012,United States of America,Kentucky,tornado,1
+2012,United States of America,Louisiana,riverine flood,1
+2012,United States of America,Louisiana,tropical cyclone,1
+2012,United States of America,Minnesota,tornado,1
+2012,United States of America,New Jersey,blizzard/winter storm,1
+2012,United States of America,New Mexico,lightning/thunderstorms,1
+2012,United States of America,New York,lightning/thunderstorms,2
+2012,United States of America,North Carolina,heat wave,1
+2012,United States of America,South Carolina,severe weather,1
+2012,United States of America,Utah,drought,1
+2012,United States of America,Virginia,tornado,1
+2012,United States of America,Washington,blizzard/winter storm,1
+2012,United States of America,West Virginia,tropical cyclone,1
+2012,United States of America,Wisconsin,drought,1
+2012,United States of America,Wisconsin,lightning/thunderstorms,1
+2012,United States of America,Wyoming,lightning/thunderstorms,1
+2012,Venezuela (Bolivarian Republic of),Bolivar,riverine flood,1
+2013,Argentina,Buenos Aires,lightning/thunderstorms,1
+2013,Argentina,Buenos Aires,riverine flood,1
+2013,Bolivia (Plurinational State of),Cochabamba,heat wave,1
+2013,Bolivia (Plurinational State of),La Paz,drought,1
+2013,Bolivia (Plurinational State of),Tarija,riverine flood,2
+2013,Brazil,Minas Gerais,riverine flood,1
+2013,Brazil,Rio de Janeiro,riverine flood,2
+2013,Brazil,Sao Paulo,storm (general),1
+2013,Canada,Quebec,severe winter conditions,1
+2013,Canada,Southern Alberta,riverine flood,1
+2013,Chile,Valparaiso,severe winter conditions,1
+2013,Colombia,Cauca,riverine flood,1
+2013,Colombia,Valle Del Cauca,ground movement,1
+2013,Dominican Republic,Valverde,riverine flood,1
+2013,Ecuador,Azuay,landslide (wet),1
+2013,Ecuador,Esmeraldas,landslide (wet),1
+2013,Ecuador,Tungurahua,riverine flood,1
+2013,Guatemala,San Marcos,ground movement,1
+2013,Haiti,Centre,riverine flood,1
+2013,Mexico,Oaxaca,tropical cyclone,2
+2013,Mexico,Puebla,tropical cyclone,1
+2013,Mexico,Sinaloa,tropical cyclone,1
+2013,Nicaragua,Atlantico Sur,riverine flood,1
+2013,Panama,Herrera,drought,1
+2013,Paraguay,Amambay,storm (general),1
+2013,Paraguay,Caaguazu,drought,1
+2013,Peru,Ica,ground movement,1
+2013,Peru,Pasco,riverine flood,1
+2013,Peru,Tacna,severe winter conditions,1
+2013,Saint Vincent and the Grenadines,Saint David,riverine flood,1
+2013,United States of America,Arizona,blizzard/winter storm,1
+2013,United States of America,Arizona,forest fire,1
+2013,United States of America,California,wildfire (general),1
+2013,United States of America,Colorado,forest fire,1
+2013,United States of America,Colorado,riverine flood,1
+2013,United States of America,Kentucky,severe winter conditions,1
+2013,United States of America,Louisiana,blizzard/winter storm,1
+2013,United States of America,Mississippi,severe weather,1
+2013,United States of America,Missouri,tornado,1
+2013,United States of America,Montana,lightning/thunderstorms,1
+2013,United States of America,Oklahoma,riverine flood,1
+2013,United States of America,Pennsylvania,blizzard/winter storm,1
+2013,United States of America,Pennsylvania,riverine flood,1
+2013,United States of America,Pennsylvania,tornado,2
+2013,United States of America,Texas,riverine flood,1
+2013,United States of America,West Virginia,blizzard/winter storm,2
+2013,United States of America,West Virginia,lightning/thunderstorms,1
+2013,United States of America,West Virginia,severe weather,1
+2013,United States of America,West Virginia,tornado,1
+2013,United States of America,Wisconsin,riverine flood,1
+2013,United States of America,Wisconsin,severe weather,1
+2013,United States of America,Wyoming,tornado,1
+2014,Argentina,Buenos Aires,flood (general),1
+2014,Argentina,Catamarca,landslide (wet),1
+2014,Argentina,Corrientes,riverine flood,1
+2014,Argentina,Santiago del Estero,riverine flood,1
+2014,Brazil,Acre,riverine flood,1
+2014,Brazil,Sergipe,drought,1
+2014,Canada,Ontario,flash flood,1
+2014,Canada,Saskatchewan,cold wave,1
+2014,Chile,Metropolitana,riverine flood,1
+2014,Chile,Tarapaca,ground movement,1
+2014,Colombia,Caldas,riverine flood,1
+2014,Colombia,Choco,riverine flood,1
+2014,Dominican Republic,Valverde,flash flood,1
+2014,Guatemala,Escuintla,drought,1
+2014,Guatemala,San Marcos,tropical cyclone,1
+2014,Guatemala,Totonicapan,ground movement,1
+2014,Guatemala,Totonicapan,severe winter conditions,1
+2014,Guatemala,Zacapa,riverine flood,1
+2014,Haiti,Sud,drought,1
+2014,Honduras,Colon,riverine flood,1
+2014,Honduras,Francisco Morazan,drought,1
+2014,Honduras,Francisco Morazan,riverine flood,1
+2014,Jamaica,Saint Andrew And Kingston,drought,1
+2014,Mexico,Baja California Sur,tropical cyclone,1
+2014,Mexico,Guerrero,tropical cyclone,1
+2014,Mexico,Michoacan,ground movement,1
+2014,Mexico,Oaxaca,tropical cyclone,2
+2014,Mexico,Veracruz,tropical cyclone,1
+2014,Nicaragua,Rivas,drought,1
+2014,Nicaragua,Rivas,riverine flood,1
+2014,Paraguay,Central,riverine flood,1
+2014,Peru,Arequipa,riverine flood,1
+2014,Peru,Cusco,ground movement,1
+2014,Peru,Huancavelica,riverine flood,1
+2014,Peru,Pasco,riverine flood,1
+2014,Peru,Ucayali,cold wave,1
+2014,Puerto Rico,San Juan,flash flood,1
+2014,United States of America,California,ground movement,1
+2014,United States of America,Connecticut,lightning/thunderstorms,1
+2014,United States of America,Maryland,blizzard/winter storm,1
+2014,United States of America,Maryland,riverine flood,1
+2014,United States of America,Michigan,blizzard/winter storm,1
+2014,United States of America,Missouri,cold wave,1
+2014,United States of America,Nebraska,lightning/thunderstorms,1
+2014,United States of America,Oregon,blizzard/winter storm,1
+2014,United States of America,Pennsylvania,blizzard/winter storm,3
+2014,United States of America,Pennsylvania,severe weather,1
+2014,United States of America,South Carolina,blizzard/winter storm,1
+2014,United States of America,Tennessee,lightning/thunderstorms,1
+2014,United States of America,Texas,lightning/thunderstorms,1
+2014,United States of America,Washington,landslide (wet),1
+2015,Argentina,Entre Rios,riverine flood,1
+2015,Argentina,Rio Negro,ash fall,1
+2015,Argentina,Santa Fe,riverine flood,1
+2015,Argentina,Tucuman,riverine flood,1
+2015,Belize,Corozal,flood (general),1
+2015,Bolivia (Plurinational State of),Pando,flood (general),1
+2015,Brazil,Rio Grande do Sul,riverine flood,1
+2015,Brazil,Santa Catarina,flood (general),1
+2015,Canada,British Columbia,forest fire,1
+2015,Chile,Araucania,ash fall,1
+2015,Chile,Coquimbo,flash flood,1
+2015,Chile,Coquimbo,severe weather,1
+2015,Chile,Los Lagos,ash fall,1
+2015,Chile,Los Lagos,flood (general),1
+2015,Chile,Valparaiso,tsunami,1
+2015,Colombia,Amazonas,landslide (wet),1
+2015,Colombia,Casanare,drought,1
+2015,Costa Rica,San Jose,drought,1
+2015,Cuba,Villa Clara,drought,1
+2015,Dominican Republic,Maria Trinidad Sanches,flash flood,1
+2015,Dominican Republic,Valverde,tropical cyclone,1
+2015,Ecuador,Chimborazo,volcanic activity (general),1
+2015,Ecuador,Napo,riverine flood,1
+2015,Ecuador,Pichincha,lava flow,1
+2015,El Salvador,Chalatenango,drought,1
+2015,El Salvador,La Union,storm surge,1
+2015,El Salvador,Usulutan,riverine flood,1
+2015,Guatemala,Guatemala,landslide (wet),1
+2015,Guatemala,San Marcos,riverine flood,1
+2015,Haiti,Ouest,riverine flood,1
+2015,Haiti,Sud,tropical cyclone,1
+2015,Mexico,Guerrero,riverine flood,1
+2015,Mexico,Oaxaca,severe weather,1
+2015,Mexico,Tamaulipas,tropical cyclone,1
+2015,Panama,Veraguas,drought,1
+2015,Paraguay,Guaira,riverine flood,1
+2015,Paraguay,San Pedro,riverine flood,1
+2015,Peru,Arequipa,riverine flood,1
+2015,Peru,Loreto,riverine flood,1
+2015,United States of America,Arizona,drought,1
+2015,United States of America,Arkansas,blizzard/winter storm,1
+2015,United States of America,Arkansas,tornado,1
+2015,United States of America,Florida,tornado,1
+2015,United States of America,Illinois,lightning/thunderstorms,1
+2015,United States of America,Illinois,severe weather,1
+2015,United States of America,Illinois,tornado,2
+2015,United States of America,Indiana,blizzard/winter storm,1
+2015,United States of America,Louisiana,flood (general),1
+2015,United States of America,Lousiana,lightning/thunderstorms,1
+2015,United States of America,Oklahoma,blizzard/winter storm,1
+2015,United States of America,Oklahoma,tornado,1
+2015,United States of America,Pennsylvania,blizzard/winter storm,1
+2015,United States of America,South Carolina,blizzard/winter storm,1
+2015,United States of America,South Dakota,lightning/thunderstorms,1
+2015,United States of America,Texas,flash flood,1
+2015,United States of America,Utah,flash flood,1
+2015,United States of America,Vermont,blizzard/winter storm,1
+2015,United States of America,Washington,wildfire (general),1
+2015,United States of America,Wisconsin,tornado,1
+2015,Uruguay,Cerro Largo,flood (general),1
+2015,Uruguay,Tacuarembo,riverine flood,2
+2015,Venezuela (Bolivarian Republic of),Zulia,riverine flood,1
+2016,Argentina,Cardoba,riverine flood,1
+2016,Belize,Orange Walk,tropical cyclone,1
+2016,Bolivia (Plurinational State of),Beni,drought,1
+2016,Bolivia (Plurinational State of),La Paz,flood (general),1
+2016,Brazil,Rio de Janeiro,flash flood,1
+2016,Brazil,Sao Paulo,flood (general),1
+2016,Canada,Alberta,forest fire,1
+2016,Dominican Republic,El Seibo,riverine flood,1
+2016,Ecuador,El Oro,flash flood,1
+2016,Ecuador,Santa Elena,ground movement,1
+2016,Guatemala,Izabal,tropical cyclone,1
+2016,Haiti,Nord,riverine flood,1
+2016,Haiti,Nord Ouest,riverine flood,1
+2016,Haiti,Ouest,flood (general),2
+2016,Honduras,Paraíso,flood (general),1
+2016,Mexico,Baja California Sur,tropical cyclone,1
+2016,Mexico,Veracruz,tropical cyclone,1
+2016,Panama,Panama,tropical cyclone,1
+2016,Paraguay,Presidente Hayes,drought,1
+2016,Peru,Junin,flood (general),1
+2016,Peru,Puno,ground movement,1
+2016,United States of America,California,forest fire,1
+2016,United States of America,District of Columbia,blizzard/winter storm,1
+2016,United States of America,Florida,severe weather,2
+2016,United States of America,Nebraska,flood (general),1
+2016,United States of America,North Carolina,blizzard/winter storm,1
+2016,United States of America,Ohio,severe weather,1
+2016,United States of America,Tennessee,forest fire,1
+2016,United States of America,Texas,flood (general),1
+2016,United States of America,Texas,hail,1
+2016,United States of America,Virginia,tropical cyclone,1
+2016,United States of America,West Virginia,lightning/thunderstorms,1
+2016,Uruguay,Treinta Y Tres,flood (general),1
+2016,Venezuela (Bolivarian Republic of),Monagas,flood (general),1
+2017,Argentina,Santa Cruz,flood (general),1
+2017,Dominican Republic,Duarte and Barahona,storm (general),1
+2017,Peru,El Santa,flood (general),1
+2018,Argentina,Santiago del Estero,drought,1
+2018,Peru,Paucar del Sara Sara,ground movement,1
+2019,Argentina,Corrientes,flood (general),1
+2019,Argentina,Entre Ríos,flood (general),1
+2019,Ecuador,Pastaza,flood (general),1
+2020,Cuba,Ciego de Avila,storm (general),1
+2020,Puerto Rico,Guayanilla,ground movement,1
+2021,Argentina,Neuquen,forest fire,1
+2021,Peru,Marañón,flash flood,1
+2021,Peru,Satipo,flood (general),1
+2022,Cuba,and Matanzas,tropical cyclone,1
+2022,Ecuador,El Oro,flood (general),1
+2022,Ecuador,Tungurahua,riverine flood,1
+2023,Cuba,and Havana,tropical cyclone,1
